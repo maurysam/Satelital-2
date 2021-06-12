@@ -7,31 +7,35 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=3254&f=HLSAD&s=2b6bca
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=0007&format=HLSAD&f=.m3u8
 
 #EXTINF:-1,Azteca uno -2
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0007&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=0007&format=HLSAD&f=.m3u8
 
 #EXTINF:-1,las estrellas
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2656&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2656&format=HLSAD&f=.m3u8
 
 #EXTINF:-1,las estrellas -1
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2671&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2671&format=HLSAD&f=.m3u8
 
 #EXTINF:-1,las estrellas -2
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2662&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2662&format=HLSAD&f=.m3u8
+
 
 #EXTINF:-1,Imagen Tv
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=3013&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=3013&format=HLSAD&f=.m3u8
+
 
 #EXTINF:-1,Foro Tv
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0004&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=0004&format=HLSAD&f=.m3u8
 
 #EXTINF:-1,Canal 5
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2364&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2364&format=HLSAD&f=.m3u8
 
 #EXTINF:-1,Multimedios 
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2521&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2521&format=HLSAD&f=.m3u8
+
 
 #EXTINF:-1,Azteca 7
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2365&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
+https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?v=N&session=8pc50dnk7rwmswk&lchId=2365&format=HLSAD&f=.m3u8
+
 
 #EXTINF:-1,Multimedios plus
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2307&f=HLSAD&s=2b6bcahav8jvh1j2216t6zjtbb1ejbbcx2pt1v2bp28tkhzcjh28h8ttpx2ppbvjkx2kcpp1ktkcvvttez2thkx8ckbxpttpbb2xth61kje2cthpha86cea28cztzhbhhtjb8cak2apz6hjt2zbjvtcccbbca8xv8xbc1tb2j2a8zc82jp2z812th12zzecj&m=.m3u8
