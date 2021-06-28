@@ -1,5 +1,10 @@
 # EXTM3U 
 
+
+
+#EXTINF:-1, Galavision
+http://live.detodotvplay.com:8080/live/mauricio80/o8ymxC0oSd/104.m3u8
+
 #EXTINF:-1,Total Play
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=3254&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
