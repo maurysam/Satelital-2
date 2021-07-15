@@ -8,11 +8,11 @@ https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
 https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
 #EXTINF:-1,Telexitos
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:-1,Telemundo 
 https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktaz-dt1.m3u8
-#EXTINF:-1,UniMas
+#EXTINF:-1,Univision 
 https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktvw-dt1.m3u8
-#EXTINF:-1,Univision
+#EXTINF:-1,UniMas
 https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktvw-dt2.m3u8
 #EXTINF:-1,Univision
 https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
