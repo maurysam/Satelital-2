@@ -2,8 +2,22 @@
 
 
 
-#EXTINF:-1, Galavision
-http://live.detodotvplay.com:8080/live/mauricio80/o8ymxC0oSd/104.m3u8
+#EXTINF:-1,Univision 
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+#EXTINF:-1,UniMas
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt1.m3u8
+#EXTINF:-1,Telexitos
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/kuan-ld2.m3u8
+#EXTINF:-1,Telemundo
+https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktaz-dt1.m3u8
+#EXTINF:-1,UniMas
+https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktvw-dt1.m3u8
+#EXTINF:-1,Univision
+https://streams.the6tv.duckdns.org:2443/locals/Pheonix/ktvw-dt2.m3u8
+#EXTINF:-1,Univision
+https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/index.m3u8
+#EXTINF:-1,Telemundo
+https://ktmdlive-lh.akamaihd.net/i/KTMD_LIVE1@183610/index_1200_av-b.m3u8
 
 #EXTINF:-1,Total Play
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=3254&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
@@ -12,7 +26,7 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=3254&f=HLSAD&s=zecpkt
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0007&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 #EXTINF:-1,Azteca uno -2
-https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2640&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
+https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2195&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
 
 #EXTINF:-1,las estrellas
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=2656&f=HLSAD&s=zecpktz1vx1p28vch1ja6a1bekpjzcebvjt1p1c218zze28ab8j8hecjxx2tvvhkzk88vzhxe66vabapa666cjj1xzjcacckbb2xth61kje2cthpha86cea28cztzhbhb2hbjzczz2tp126c826vzb1e61avppphcjj6eahebhpbce1a681ev186kpetb2h1&m=.m3u8
