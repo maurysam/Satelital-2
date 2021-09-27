@@ -1,7 +1,7 @@
 # EXTM3U 
 
 
-#EXTINF:-1 user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT ,Univisión
+#EXTINF:-1 user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT ,Cartoon Network 
 http://38.18.238.42:4153/307CartoonNetwork/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8¦c=1/playlist.m3u8
 
 #EXTINF: -1, Univision 
