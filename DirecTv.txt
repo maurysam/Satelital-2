@@ -1,6 +1,8 @@
 # EXTM3U 
 
 
+#EXTINF:-1 user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT ,Univisión
+http://208.88.246.11:4153/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x¦c=1/playlist.m3u8
 
 #EXTINF: -1, Univision 
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt2.m3u8
