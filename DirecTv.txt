@@ -94,7 +94,7 @@ https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud6
 #EXTINF: -1, Tv Mas
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=2324&format=HLSAD&f=.m3u8
 
-#EXTINF: -1, Teleformula 
+#EXTINF: -1, Teleformula
 https://totalgo.totalplay.com.mx:444/TPMCOREWeb/LiveAdaptive?session=rbnguvrzud60mi5&lchId=0032&format=HLS&f=.m3u8
 
 #EXTINF: -1, Teleformula 
