@@ -1,5 +1,102 @@
 # EXTM3U 
 
+
+#EXTINF:-1,Azteca Uno
+https://v-sd.mybtv.net/live/508.m3u8?env=prd&uid=-1&x=1
+
+#EXTINF:-1,las estrellas
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1,las estrellas -1
+https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
+
+#EXTINF:-1,las estrellas -2
+https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
+
+#EXTINF:-1,Univision
+https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
+
+#EXTINF:-1,Foro Tv
+https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
+
+https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
+
+#EXTINF:-1,Canal 5 -2
+https://v-sd.mybtv.net/live/486.m3u8?env=prd&uid=-1&x=1
+
+#EXTINF:-1,Azteca 7
+https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
+
+
+#EXTINF:-1,Canal Nueve
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+
+
+#EXTINF:-1,TlNovelas
+https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
+
+#EXTINF:-1,Unicable
+https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
+
+#EXTINF:-1,Bandamax
+https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
+
+#EXTINF:-1,BitMe
+https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
+
+
+#EXTINF:-1,DPelicula Plus
+https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
+
+#EXTINF:-1,DPelicula
+https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
+
+#EXTINF:-1,Golden
+https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
+
+#EXTINF:-1,Golden Edge
+https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
+
+#EXTINF:-1,Golden
+https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
+
+#EXTINF:-1,Golden Mpx
+https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
+
+#EXTINF:-1,Golden Plus
+https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
+
+#EXTINF:-1,Golden Premiere
+https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
+
+
+#EXTINF:-1,Distrito Comedia 
+https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
+
+#EXTINF:-1,Las Estrellas
+https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
+
+#EXTINF:-1,Telehit
+https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
+
+#EXTINF:-1,Telehit Música
+https://linear-418.frequency.stream/418/hls/master/playlist.m3u8
+
+#EXTINF:-1,Telehit Música Plus
+https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
+
+
+#EXTINF:-1,Adrenalina Sports Network
+https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
+
+#EXTINF:-1,Afizzionados
+https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
+
+
+#EXTINF:-1,Amores Verdaderos
+https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
+
+
 #EXTINF:-1,Total Play
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=3254&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
@@ -318,12 +415,6 @@ https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0083&f=HLS&s=hkc26at8
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0083&f=HLSAD&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
 
 
-
-#EXTINF: -1,Unimas
-https://vsd90.mycdn.me/hls/1301000096262.m3u8/sig/CbnNoIx-8bs/expires/1624679127195/srcIp/189.146.145.111/urls/45.136.21.55/clientType/0/srcAg/CHROME_ANDROID/mid/2883025182214/video.m3u8?p
-
-#EXTINF: -1,Univision
-https://qlobbidev.s.llnwi.net/bpk-tv/UNIVISION/hls/UNIVISION.m3u8
 
 #EXTINF:-1,Tv Azteca Mundo 
 https://totalgo.totalplay.com.mx/KAN-HLSWeb/liveAdaptive?l=0084&f=HLS&s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjv6k2aebxp8t1heph8zcpckahvvzkjvhback2a8t18zpcajhxpa22bbzx8jzxbjhjzkxpkpp68ah2x2aek1ta82bjvjjhvpcb1phc66kp8882b6hcz1xjpx2v8x21evjxepbze6xt8eekzpvvktxzxz2jthxejxbvtj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak.m3u8
