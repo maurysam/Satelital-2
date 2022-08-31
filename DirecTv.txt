@@ -19,6 +19,7 @@ https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
 #EXTINF:-1,Foro Tv
 https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
 
+#EXTINF:-1,Canal 5
 https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
 
 #EXTINF:-1,Canal 5 -2
