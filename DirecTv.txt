@@ -1,23 +1,67 @@
 # EXTM3U 
 
 
+
+#EXTINF:-1,Telemundo mundial 
+https://v-px.mybtv.net/live/39.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Telemundo mundial 
+https://v-ca.mybtv.net/live/140.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Telemundo mundial 
+https://v-la.mybtv.net/live/267.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Telemundo Mundial 
+https://v-ny.mybtv.net/live/659.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Azteca 7
+https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
+
+
+#EXTINF:-1,Univision
+https://v-px.mybtv.net/live/28.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Unimas
+https://v-px.mybtv.net/live/56.m3u8?env=prd&uid=-1&x=1
+
+#EXTINF:-1,Azteca uno
+https://v-ca.mybtv.net/live/142.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Unimas
+https://v-ca.mybtv.net/live/147.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Univision
+https://v-ca.mybtv.net/live/148.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Univision
+https://v-ca.mybtv.net/live/163.m3u8?env=prd&uid=-1&x=1
+&x=1
+#EXTINF:-1,Bein sport
+https://v-ca.mybtv.net/live/249.m3u8?env=prd&uid=-1&x=1
+
+#EXTINF:-1,Unimas
+https://v-la.mybtv.net/live/168.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Univision
+https://v-la.mybtv.net/live/178.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Canal 22
+https://v-la.mybtv.net/live/298.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Unimas
+https://v-la.mybtv.net/live/299.m3u8?env=prd&uid=-1&x=1
+160
+
+#EXTINF:-1,Univision
+https://v-ny.mybtv.net/live/643.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Azteca América
+https://v-ny.mybtv.net/live/645.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Estrella tv
+https://v-ny.mybtv.net/live/650.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Novelisima
+https://v-ny.mybtv.net/live/652.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Telexitos
+https://v-ny.mybtv.net/live/660.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1,Unimas
+https://v-ny.mybtv.net/live/713.m3u8?env=prd&uid=-1&x=1
+
+#EXTINF:-1,Telexitos
+https://v-pi.mybtv.net/live/419.m3u8?env=prd&uid=-1&x=1
+
 #EXTINF:-1,Azteca Uno
 https://v-sd.mybtv.net/live/508.m3u8?env=prd&uid=-1&x=1
 
 #EXTINF:-1,las estrellas
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
-
-#EXTINF:-1,las estrellas -1
-https://linear-414.frequency.stream/414/hls/master/playlist.m3u8
-
-#EXTINF:-1,las estrellas -2
-https://linear-415.frequency.stream/415/hls/master/playlist.m3u8
-
-#EXTINF:-1,Univision
-https://linear-424.frequency.stream/424/hls/master/playlist.m3u8
-
-#EXTINF:-1,Foro Tv
-https://linear-300.frequency.stream/300/hls/master/playlist.m3u8
 
 #EXTINF:-1,Canal 5
 https://linear-351.frequency.stream/351/hls/master/playlist.m3u8
@@ -33,49 +77,8 @@ https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
 https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
 
 
-#EXTINF:-1,TlNovelas
-https://linear-421.frequency.stream/421/hls/master/playlist.m3u8
-
-#EXTINF:-1,Unicable
-https://linear-423.frequency.stream/423/hls/master/playlist.m3u8
-
-#EXTINF:-1,Bandamax
-https://linear-400.frequency.stream/400/hls/master/playlist.m3u8
-
-#EXTINF:-1,BitMe
-https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
-
-
-#EXTINF:-1,DPelicula Plus
-https://linear-404.frequency.stream/404/hls/master/playlist.m3u8
-
-#EXTINF:-1,DPelicula
-https://linear-354.frequency.stream/354/hls/master/playlist.m3u8
-
-#EXTINF:-1,Golden
-https://linear-406.frequency.stream/406/hls/master/playlist.m3u8
-
-#EXTINF:-1,Golden Edge
-https://linear-407.frequency.stream/407/hls/master/playlist.m3u8
-
 #EXTINF:-1,Golden
 https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
-
-#EXTINF:-1,Golden Mpx
-https://linear-409.frequency.stream/409/hls/master/playlist.m3u8
-
-#EXTINF:-1,Golden Plus
-https://linear-410.frequency.stream/410/hls/master/playlist.m3u8
-
-#EXTINF:-1,Golden Premiere
-https://linear-411.frequency.stream/411/hls/master/playlist.m3u8
-
-
-#EXTINF:-1,Distrito Comedia 
-https://linear-405.frequency.stream/405/hls/master/playlist.m3u8
-
-#EXTINF:-1,Las Estrellas
-https://linear-413.frequency.stream/413/hls/master/playlist.m3u8
 
 #EXTINF:-1,Telehit
 https://linear-417.frequency.stream/417/hls/master/playlist.m3u8
@@ -89,10 +92,6 @@ https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 
 #EXTINF:-1,Adrenalina Sports Network
 https://linear-393.frequency.stream/393/hls/master/playlist.m3u8
-
-#EXTINF:-1,Afizzionados
-https://linear-348.frequency.stream/348/hls/master/playlist.m3u8
-
 
 #EXTINF:-1,Amores Verdaderos
 https://linear-305.frequency.stream/305/hls/master/playlist.m3u8
