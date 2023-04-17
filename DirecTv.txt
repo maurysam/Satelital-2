@@ -1,5 +1,3 @@
-# EXTM3U 
-
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="Lista 31", Azteca Uno h
@@ -26,11 +24,11 @@ http://23.237.29.98:3473/710MilenioTV/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV (XHTDMX-TDT4)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhtdmx4.png" group-title="ENTRETENIMIENTO" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="Lista 31", MVS TV (XHTDMX-TDT4) 
 http://208.88.246.11:3473/152mx52/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="Lista 31", Azteca 7 
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="Lista 31", MX | Azteca 7
 http://208.88.246.11:3473/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="azteca7.mx",MX | Azteca 7
-https://v-sd.mybtv.net/live/502.m3u8?env=prd&uid=-1&x=1
+#EXTINF:-1 tvg-id="azteca7.mx", MX | Azteca 7
+http://208.88.246.11:3473/107azteca7/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
 
 
 #EXTINF:-1,Univision
