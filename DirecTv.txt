@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",STAR SERIES #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=http://forocable3.webcindario.com/cv/lic.php||R{SSM}| https://d1dog4zvoxx3yf.cloudfront.net/out/u/dash/TOONCAST-SD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", group-title="MEXICO", ESPN 2 🇲🇽 (DTV)
 
