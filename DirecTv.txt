@@ -3,8 +3,9 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=NDM5MjQ5NjMtMWM2OS0zMGE3LTk5MGYtMTY4NWZiNmQ2OTc2
-https://d1dog4zvoxx3yf.cloudfront.net/out/u/dash/UNICABLE-HD/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=cdnkey1&Signature=8sxp30h7EJ4nYFlzDIMjk2A-Y7A
+https://dcs3-live-ue4.mp.lura.live/server/play/72rkrVtGNBlPf6Q7/manifest.mpd?anvsid=m176979729-nf6c7f591b5fbe9b589469cdec4d5b042
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mTKBheQTt-XSbfQBw1vmlvIRtjWzkTTobw&usqp=CAU" group-title="IZZI GO",Mosaico Interés General
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
