@@ -83,7 +83,7 @@ https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/S
 
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="Lista 31", Azteca Uno h
-ttp://208.88.246.11:3473/113azteca13/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
+https://dcs3-live-ue4.mp.lura.live/server/play/72rkrVtGNBlPf6Q7/manifest.mpd?anvsid=m176979729-nf6c7f591b5fbe9b589469cdec4d5b042
  
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="Lista 31", Las Estrellas 
 http://208.88.246.11:3473/102estrellas/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8
