@@ -79,8 +79,8 @@ https://anbalancer.express.com.ar/live/c1eds/TNT_Sports_HD/SA_HLS_cipix/index.m3
 #EXTINF:-1,cin3mas
 https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
 
-#EXTINF:-1 group-title="Lista 27 solo OTT" ,STUDIO UNIVERSAL 
-https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+#EXTINF:-1 group-title="Lista 27 solo OTT" ,STUDIO UNIVERSAL imagen
+https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/IMAGEN-TV-HD/dash/IMAGEN-TV-HD.mpd
 
 
 #EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png" group-title="LOCALES" user-agent="BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT" group-title="Lista 31", Azteca Uno h
