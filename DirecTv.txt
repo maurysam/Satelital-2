@@ -16,7 +16,7 @@ https://dcs3-live-ue4.mp.lura.live/server/play/72rkrVtGNBlPf6Q7/manifest.mpd?anv
 
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=NDM5MjQ5NjMtMWM2OS0zMGE3LTk5MGYtMTY4NWZiNmQ2OTc2
 
-https://live2-ott.izzigo.tv/out/u/dash/UNICABLE-HD/default.mpd
+https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/IMAGEN-TV-HD/dash/IMAGEN-TV-HD.mpd
 
 #EXTINF:1 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",STAR SERIES 
 
