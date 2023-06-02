@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key=cdnkey1&Signature=8sxp30h7EJ4nYFlzDIMjk2A-Y7A
 https://dcs3-live-ue4.mp.lura.live/server/play/72rkrVtGNBlPf6Q7/manifest.mpd?anvsid=m176979729-nf6c7f591b5fbe9b589469cdec4d5b042
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mTKBheQTt-XSbfQBw1vmlvIRtjWzkTTobw&usqp=CAU" group-title="IZZI GO",Mosaico Interés General
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_mTKBheQTt-XSbfQBw1vmlvIRtjWzkTTobw&usqp=CAU" group-title="IZZI GO",prueba
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 
@@ -16,7 +16,7 @@ https://dcs3-live-ue4.mp.lura.live/server/play/72rkrVtGNBlPf6Q7/manifest.mpd?anv
 
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=NDM5MjQ5NjMtMWM2OS0zMGE3LTk5MGYtMTY4NWZiNmQ2OTc2
 
-https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/IMAGEN-TV-HD/dash/IMAGEN-TV-HD.mpd
+https://cablevision.net.mx/out/u/dash/DREAM-WORKS-HD/default.mpd
 
 #EXTINF:1 tvg-logo="https://logo.iptveditor.com/starseries.png" group-title="IZZI GO",STAR SERIES 
 
@@ -26,50 +26,22 @@ https://d2ya662kz0kh0s.cloudfront.net/out/u/dash/CDMX/IMAGEN-TV-HD/dash/IMAGEN-T
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 
-#KODIPROP:inputstream.adaptive.license_key=http://forocable3.webcindario.com/cv/lic.php||R{SSM}| 
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=NDM5MjQ5NjMtMWM2OS0zMGE3LTk5MGYtMTY4NWZiNmQ2OTc2
 
 https://d1dog4zvoxx3yf.cloudfront.net/out/u/dash/TOONCAST-SD/default.mp
 
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", group-title="MEXICO", ESPN 2 🇲🇽 (DTV)
-
+#EXTINF:-1 group-title="Lista 27 solo OTT" ,STUDIO UNIVERSAL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ywu6RSL/zZCotRVBoPz64A","kid":"uw7Kpq5iM2GXxk1BKcagnQ"}],"type":"temporary"}
-
-https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
-#EXTINF:-1 group-title="Lista 27 solo OTT" ,STUDIO UNIVERSAL 
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"morR3c_i0gxXhR-hIuAeOQ","kid":"8ac_DN6lTXCcdNsy0qBiKQ"}],"type":"temporary"}
-
-#EXTVLCOPT:network-caching=1000
-
-#EXTVLCOPT:http-user-agent="FireFox"
-
-#EXTVLCOPT--http-reconnect=true 
-
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"morR3c_i0gxXhR-hIuAeOQ","kid":"8ac_DN6lTXCcdNsy0qBiKQ"}],"type":"temporary"} 
 https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX OP2
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=clearkey 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/cinemax.json
 https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
 
