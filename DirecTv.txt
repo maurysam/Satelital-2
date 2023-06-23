@@ -8,7 +8,7 @@ https://tvup-live.secure2.footprint.net/hustler/hustler.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 #EXTVLCOPT--http-reconnect=true
 
-
+https://tvup-live.secure2.footprint.net/hustler/hustler.mpd
 
 
 
