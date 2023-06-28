@@ -1,20 +1,12 @@
 #EXTM3U 
 
 
-#EXTINF:-1  tvg-logo="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png" group-title="CENTROAMERICA",CUBAVISIÓN
-https://tvup-live.secure2.footprint.net/hustler/hustler.mpd
-#EXTVLCOPT:http-referrer=https://mediasync.tvup.cloud
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:audio-track="es-ES"
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-#EXTVLCOPT--http-reconnect=true
-
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RbRQi78MAr9SMQQVfiztgQ","kid":"R3KW4op/SSaKvEVoW4tpow"}]}
+#EXTVLCOPT:http-referrer=Https://nowtv.express.com.ar/
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
@@ -32,7 +24,6 @@ https://anbalancer.express.com.ar/live/c1eds/DHE_HD/SA_DASH_cipix/DHE_HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"clN8CnOSDFXsW3Zk011bqw","kid":"Zc0bP+CCSsKJntclRMgl3g"}]}
 #EXTVLCOPT:http-referrer=Https://nowtv.express.com.ar/
@@ -47,6 +38,7 @@ https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"clN8CnOSDFXsW3Zk011bqw","kid":"Zc0bP+CCSsKJntclRMgl3g"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=Https://nowtv.express.com.ar/
 https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
 
