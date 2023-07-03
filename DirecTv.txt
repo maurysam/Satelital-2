@@ -1,5 +1,10 @@
 #EXTM3U 
 
+
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/" #KODIPROP:inputstream.adaptive.manifest_type=mpd #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"morR3c_i0gxXhR-hIuAeOQ","kid":"8ac_DN6lTXCcdNsy0qBiKQ"}],"type":"temporary"} #EXTVLCOPT:network-caching=1000 #EXTVLCOPT:http-user-agent="FireFox" #EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 group-title="Lista 27 solo OTT" ,STUDIO UNIVERSAL https://anbalancer.express.com.ar/live/c1eds/Studio_Universal_HD/SA_DASH_cipix/Studio_Universal_HD.mpd
+
 #EXTINF:-1 group-title="IZZI GO" tvg-logo="https://i.imgur.com/R9FWr9u.png" ,TUDN USA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85c8956b207c44a693d89984803c908b:8d8ff21c464506ef396356dd761f5ccd
