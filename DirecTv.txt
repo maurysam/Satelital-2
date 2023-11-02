@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="Lista 27 solo OTT" ,history us
-http://195.181.169.162/US_Animal_Planet/tracks-v1a1/mono.m3u8
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/190.ts
 #EXTINF:-1 group-title="Lista 27 solo OTT" ,extra
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/177.ts
 
