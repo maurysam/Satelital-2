@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="Lista 27 solo OTT" ,history us
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYKIDSHD)/index.m3u8
 #EXTINF:-1 group-title="Lista 27 solo OTT" ,extra
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYKIDSHD)/index.mpd
+http://tstv.lcdn.claro.net.co/Content/HLS_HLS_FK/Live/Channel(NICKELODEONHD)/index.m3u8
 
 #EXTINF:-1 group-title="Lista 27 solo OTT" ,STUDIO UNIVERSAL 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
