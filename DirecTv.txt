@@ -125,6 +125,373 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
 
 
+#EXTINF:-1,TELEMUNDO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+
+#EXTINF:-1,TELEMUNDO44
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+
+#EXTINF:-1,TELEMUNDOLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+
+#EXTINF:-1,TELEMUNDO48
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+
+#EXTINF:-1,TELEMUNDONEWYORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
+
+#EXTINF:-1,Canal De Las Estrellas
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+
+#EXTINF:-1,Canal 5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+
+#EXTINF:-1,TELEMUNDO ARIZONA
+https://v-px.mybtv.net/live/39.m3u8?env=prd&uid=-1&x=1
+
+#EXTINF:-1,TUDN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+
+
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/686
+#EXTINF:-1,DISTRITO COMEDIA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+#EXTINF:-1,E! Entertaiment USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+#EXTINF:-1,ESPN1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
+#EXTINF:-1,FX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+
+
+#EXTINF:-1,NATGEO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
+#EXTINF:-1,NFL NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
+#EXTINF:-1,SYFY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+
+#EXTINF:-1,TNT
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
+#EXTINF:-1,TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:-1,DESTINATION AMERICA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
+#EXTINF:-1,DISCOVERYFAMENG
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
+#EXTINF:-1,DISCOVERYFAMSPA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+#EXTINF:-1,VELOCITY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
+#EXTINF:-1,DISNEY
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
+#EXTINF:-1,DISNEYJR
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+#EXTINF:-1,DISNEYXD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
+#EXTINF:-1,GALAVISION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+#EXTINF:-1,Lifetime Movie
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+#EXTINF:-1,NATGEO MUNDO HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+#EXTINF:-1,NUEVE 9
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+
+#EXTINF:-1,UNIMAS HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
+#EXTINF:-1,UNIVERSO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
+#EXTINF:-1,UNIVISION SPORTS   ULTIMO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+
+#EXTINF:-1,FOX DEPORTES HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
+#EXTINF:-1,FS1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
+#EXTINF:-1,FS2
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+
+#EXTINF:-1,GOLF CHANNEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+
+#EXTINF:-1,Fox News HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
+#EXTINF:-1,MLB NETWORKS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
+#EXTINF:-1,Investigation Discovery ID
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
+#EXTINF:-1,MTV LIVE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
+#EXTINF:-1,NATGEO KIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+
+#EXTINF:-1,TBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
+#EXTINF:-1,TIIN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+#EXTINF:-1,TRUTV ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
+
+#EXTINF:-1,VEPLUSTV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
+#EXTINF:-1,AFIZZIONADOS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
+#EXTINF:-1,REDBULL TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
+#EXTINF:-1,TVC DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
+#EXTINF:-1,BEIN SPORTS ENG HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+
+#EXTINF:-1,NFL 15
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/608
+#EXTINF:-1,NFL GAMEPASS 01
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
+#EXTINF:-1,NFL GAMEPASS 02
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/740
+#EXTINF:-1,NFL GAMEPASS 03
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/741
+#EXTINF:-1,NFL GAMEPASS 04
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/742
+#EXTINF:-1,NFL GAMEPASS 05
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/743
+#EXTINF:-1,NFL GAMEPASS 06
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/744
+#EXTINF:-1,NFL GAMEPASS 07
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/745
+#EXTINF:-1,NFL GAMEPASS 08
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746
+#EXTINF:-1,NFL GAMEPASS 09
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/747
+#EXTINF:-1,NFL GAMEPASS 10
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/748
+#EXTINF:-1,NFL GAMEPASS 11
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/749
+#EXTINF:-1,NFL GAMEPASS 12
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/750
+#EXTINF:-1,NFL GAMEPASS 13
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/751
+#EXTINF:-1,NFL GAMEPASS 14
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/752
+#EXTINF:-1,UFC ESP
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
+#EXTINF:-1,ESTRELLATV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/697
+
+#EXTINF:-1,CNN ESPAÑOL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/684
+#EXTINF:-1,FOODNETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/528
+#EXTINF:-1,FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF:-1,IMAGEN NOTICIAS SD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/712
+#EXTINF:-1,OUTDOOR CHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/625
+#EXTINF:-1,TRAVEL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+#EXTINF:-1,TDN DEPORTES
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+#EXTINF:-1,ANTENA3
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/484
+#EXTINF:-1,BEIN ESPANIOL HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
+#EXTINF:-1,FIGHT NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/526
+#EXTINF:-1,TV5
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/775
+#EXTINF:-1,ESPN GOAL LINE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/771
+#EXTINF:-1,RAI
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/774
+#EXTINF:-1,EUROCHANNEL
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
+#EXTINF:-1,AZTECA CINEMA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/766
+#EXTINF:-1,AZTECA UNO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
+#EXTINF:-1,baby tv
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/485
+#EXTINF:-1,BANDAMAX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/486
+#EXTINF:-1,Bloomberg
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/767
+#EXTINF:-1,BOOMERANG MEXICO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/680
+
+#EXTINF:-1,Caracol HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
+#EXTINF:-1,CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+
+#EXTINF:-1,CBSLA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/495
+#EXTINF:-1,CINEMAX HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/769
+#EXTINF:-1,PBS HD (ENG)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/773
+#EXTINF:-1,AXN
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+#EXTINF:-1,DISCOVERY SCIENCE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/770
+#EXTINF:-1,NFL GAMEPASS REDZONE
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/753
+#EXTINF:-1,goltv esp
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559
+#EXTINF:-1,FXX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/554
+#EXTINF:-1,ESPN Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+#EXTINF:-1,GLITZ
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1123
+#EXTINF:-1,UFC USA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1122
+#EXTINF:-1,Discovery Channel US
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1125
+#EXTINF:-1,UNIVISION USA HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668
+#EXTINF:-1,FORMULA 1
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/698
+
+
+#EXTINF:-1,Morbido-TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
+
+#EXTINF:-1,UNIVERSALKIDS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/664
+
+#EXTINF:-1,El Gourmet
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
+#EXTINF:-1,AXS TV
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1189
+#EXTINF:-1,ESPN News
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
+#EXTINF:-1,ESPN U
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzp
+
+
+
+#EXTINF:-1, Star Channel
+https://cotesma02.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
+#EXTINF:-1, Telemundo
+https://cotesma02.cdn.rcs.net.ar/.cdn.rcs.net.ar/mnp/telemundo_hls/playlist.m3u8
+
+#EXTINF:-1, Star Channel
+https://cotesma02.cdn.rcs.net.ar/.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u
+
+
+#EXTINF:-1, Telefe
+https://cotesma02.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1, Comedy Central
+https://cotesma02.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+#EXTINF:-1, Lifetime 
+https://cotesma02.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+#EXTINF:-1, MasChic
+https://cotesma02.cdn.rcs.net.ar/mnp/maschic/output.mpd
+#EXTINF:-1, TruTV 
+https://cotesma02.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1, Cartoon Network 
+https://cotesma02.cdn.rcs.net.ar/mnp/cartoon/output.mpd
+#EXTINF:-1, Disney Channel 
+https://cotesma02.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTINF:-1, Disney XD 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyxd/output.mpd
+#EXTINF:-1, Disney Junior 
+https://cotesma02.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+#EXTINF:-1, Nick 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
+#EXTINF :-1, Nick Jr 
+https://cotesma02.cdn.rcs.net.ar/mnp/nickjr/output.mpd
+#EXTINF:-1,Tooncast 
+https://cotesma02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
+#EXTINF:-1, Baby TV 
+https://cotesma02.cdn.rcs.net.ar/mnp/babytv/output.mpd
+#EXTINF:-1, Cartoonito
+https://cotesma02.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+#EXTINF:-1, A&E
+https://cotesma02.cdn.rcs.net.ar/mnp/ae/output.mpd
+#EXTINF:-1, Cinemax
+https://cotesma02.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+#EXTINF:-1, Cinecanal 
+https://cotesma02.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+#EXTINF:-1,TNT 
+https://cotesma02.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1,TNT Series 
+https://cotesma02.cdn.rcs.net.ar/mnp/tntseries/output.mpd
+#EXTINF:-1, AXN
+https://cotesma02.cdn.rcs.net.ar/mnp/axn/output.mpd
+#EXTINF:-1, AMC
+https://cotesma02.cdn.rcs.net.ar/mnp/amc/output.mpd
+#EXTINF:-1, SYFY 
+https://cotesma02.cdn.rcs.net.ar/mnp/syfy/output.mpd
+#EXTINF:-1, FX
+https://cotesma02.cdn.rcs.net.ar/mnp/fx/output.mpd
+#EXTINF:-1, FXM
+https://cotesma02.cdn.rcs.net.ar/mnp/fxm/output.mpd
+#EXTINF :-1, Space
+https://cotesma02.cdn.rcs.net.ar/mnp/space/output.mpd
+#EXTINF:-1, Paramount Network 
+https://cotesma02.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1, Sony 
+https://cotesma02.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1, Tbs
+https://cotesma02.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1, Universal 
+https://cotesma02.cdn.rcs.net.ar/mnp/universal/output.mpd
+#EXTINF:-1, Warner 
+https://cotesma02.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1, TCM
+https://cotesma02.cdn.rcs.net.ar/mnp/tcm/output.mpd
+#EXTINF:-1, Cine Ar
+https://cotesma02.cdn.rcs.net.ar/mnp/cinear/output.mpd
+#EXTINF:-1, History 
+https://cotesma02.cdn.rcs.net.ar/mnp/history/output.mpd
+#EXTINF:-1, History 2
+https://cotesma02.cdn.rcs.net.ar/mnp/h2/output.mpd
+#EXTINF:-1, Discovery 
+https://cotesma02.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1, Isat
+https://cotesma02.cdn.rcs.net.ar/mnp/isat/output.mpd
+#EXTINF:-1, HBO
+https://cotesma02.cdn.rcs.net.ar/mnp/hbo/output.mpd
+#EXTINF:-1, HBO2
+https://cotesma02.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+#EXTINF:-1, HBO PLUS
+https://cotesma02.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+#EXTINF:-1, HBO FAMILY 
+https://cotesma02.cdn.rcs.net.ar/mnp/hbofam/output.mpd
+#EXTINF:-1, HBO SIGNATURE
+https://cotesma02.cdn.rcs.net.ar/mnp/hbosig/output.mpd
+#EXTINF:-1, HBO XTREME 
+https://cotesma02.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+#EXTINF:-1, HBO MUNDO
+https://cotesma02.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+#EXTINF:-1, HBO POP
+https://cotesma02.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+#EXTINF:-1, HTV
+https://cotesma02.cdn.rcs.net.ar/mnp/htv/output.mpd
+#EXTINF:-1, MTV 
+https://cotesma02.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1, TNT Sport
+https://cotesma02.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+#EXTINF:-1, Golf
+https://cotesma02.cdn.rcs.net.ar/mnp/golf/output.mpd
+#EXTINF:-1, El Gourmet 
+https://cotesma02.cdn.rcs.net.ar/mnp/gourmet/output.mpd
+#EXTINF:-1, CNN
+https://cotesma02.cdn.rcs.net.ar/mnp/cnn/output.mpd
+#EXTINF:-1, CM
+https://https://cetl02.cdn.rcs.net.ar/mnp/cm/output.mpd
+https://cetl02.cdn.rcs.net.ar/
+https://cetl02.cdn.rcs.net.ar/
+
+
+
+
+
 
 
 
