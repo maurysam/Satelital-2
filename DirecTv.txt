@@ -1,8 +1,9 @@
 #EXTM3U
 
-EXTINF:-1 group-title="Lista 27 solo OTT" ,nick
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=NjFjMThjZWZlY2MyZDA2N2JlYWE5ZmYxODEzMDUzNDU=:MzhkNmY2NTBjYmY5YTM4ZmQ5ZjM1YzAxZjk4ZTY0N2E=
+EXTINF:-1 group-title="Lista 27 solo OTT" ,nick
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
 
 
@@ -11,7 +12,7 @@ https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1Yz
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM=
+#KODIPROP:inputstream.adaptive.license_key=NjFjMThjZWZlY2MyZDA2N2JlYWE5ZmYxODEzMDUzNDU=:MzhkNmY2NTBjYmY5YTM4ZmQ5ZjM1YzAxZjk4ZTY0N2E=
 #EXTVLCOPT:http-referrer=https://wv-client.cvattv.com.ar/?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", group-title="MEXICO", nicke
 https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
