@@ -103,15 +103,16 @@ https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
 #EXTVLCOPT:http-referrer=Https://nowtv.express.com.ar/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", group-title="MEXICO", mtv n
 https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"B3vUNRjOcQh5dLzKuhC44w","kid":"Gi2Mw52m4a2d9pPsOSFs4A"}]}
-#EXTVLCOPT:http-referrer=Https://www.izzigo.tv/
+#EXTVLCOPT:http-referrer=Https://www.cablevision.net.mx/
 #EXTVLCOPT:network-caching=1000 
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO", AZTECA 11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO", AZTECA uno
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
