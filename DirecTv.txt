@@ -1,4 +1,21 @@
-#EXTM3U 
+#EXTM3U
+
+EXTINF:-1 group-title="Lista 27 solo OTT" ,nick
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=NjFjMThjZWZlY2MyZDA2N2JlYWE5ZmYxODEzMDUzNDU=:MzhkNmY2NTBjYmY5YTM4ZmQ5ZjM1YzAxZjk4ZTY0N2E=
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
+
+
+https://wv-client.cvattv.com.ar/?deviceId=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM=
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=MDBhMTA4MGRhNzM5ZTIzZmNhYzFiNTRmNDg1YzczZjM=
+#EXTVLCOPT:http-referrer=https://wv-client.cvattv.com.ar/?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", group-title="MEXICO", nicke
+https://edge1-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
+
 
 
 #EXTINF:-1 group-title="Lista 27 solo OTT" ,history us
@@ -96,13 +113,7 @@ https://anbalancer.express.com.ar/live/c1eds/DHE_HD/SA_DASH_cipix/DHE_HD.mpd
 https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"clN8CnOSDFXsW3Zk011bqw","kid":"Zc0bP+CCSsKJntclRMgl3g"}],"type":"temporary"}
-#EXTVLCOPT:http-referrer=Https://nowtv.express.com.ar/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png", group-title="MEXICO", mtv n
-https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
