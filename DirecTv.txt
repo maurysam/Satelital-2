@@ -46,16 +46,17 @@ https://live4-ott.izzigo.tv/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:0 tvg-ID="aztecauno.mx"
+#EXTINF:-1 tvg-ID="aztecauno.mx"
 tvg-logo="https://logo.iptveditor.com/aztecauno.png" group-title="IZZI GO",AZTECA UNO HD
 https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-UNO-HD/default.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="PREMIUM", HBO FAMILY
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/mxkeys/hbofamily.json
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Y7MY0J/hbofamily.png" tvg-group="PREMIUM", HBO FAMILY
 https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
 
 
