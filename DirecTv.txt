@@ -8,7 +8,7 @@
 #EXTVLCOPT:http-user-agent="FireFox" 
 #EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO",Sony Movies
-https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
