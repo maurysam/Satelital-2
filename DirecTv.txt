@@ -1,4 +1,28 @@
 #EXTM3U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty": "oct","k":"l6+Cmy3QN/uFVQuFsHV2hQ","kid":"R7jREYBHxH/515T8psmZeg"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO",Sony Movies
+https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"hdewgeOkKpTXDkpyD3yujg","kty":"oct","kid":"axNT9RoM4dO5t9v9qdsmng"}],"type":"temporary","ul":"","pl":""}
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-user-agent="FireFox" 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO",Sony Movies
+https://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
+
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
