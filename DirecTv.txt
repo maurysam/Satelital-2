@@ -4,12 +4,44 @@
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"cRkGm5kBW0657kMAV3OZ4g" group-title="Lista 27 solo OTT", "k":"uJgnzJcM142ogv_KNQTHdA"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://1061-abc.dtvott.com/
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  group-title="Lista 27 solo OTT", DIRECTV SPORTS
+https://1061-vos.dtvott.com/DASH/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/espn2.webp" group-title="DEPORTES", ESPN2 🇦🇷
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct" group-title="Lista 27 solo OTT", "kid":"kz3o6RVTWuGMJVilp2MYyQ" group-title="Lista 27 solo OTT", "k":"4fwe7U6ug-DcGzcFy2LKZA"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://1099-vos.dtvott.com/DASH/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a08ae17db9543c9db725b5044de5d48c:9ad0d02412d384dd5a02b94ccf25c6af 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="IZZI GO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png",HTV
 https://1150-vos.dtvott.com/DASH/manifest.mpd
+
+ptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a08ae17db9543c9db725b5044de5d48c:9ad0d02412d384dd5a02b94ccf25c6af 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="IZZI GO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15969_dark_360w_270h.png",HTV 45
+https://dtvott-abc.akamaized.net/dash_live_1150/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/86V9Ktc/foxsports3mx.png" tvg-group="DEPORTES", FOX SPORTS 3 MX
