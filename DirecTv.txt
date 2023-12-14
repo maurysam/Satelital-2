@@ -1,6 +1,14 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="MEXICO"tvg-logo="https://megatelevisiontv.live/img/logo_canal/Nick.png",Nick
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e65ff288b032ec5ea70dee4230ba0480:902ef2de2f99f8ddfc0d8d5eb261e8ea
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NICKELODEON_HD)/manifest.mpd
 
 #EXTINF:-1 tvg logo="https://cdn2.sfntv.xyz/webp/logos/optimized/directv.webp" group-title="DEPORTES", DIRECTV SPORT 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
