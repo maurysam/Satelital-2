@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="IZZI GO",Mosaico 21
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://d3ltidrjpbkgsr.cloudfront.net/out/v1/a926f3fab9f24da2be48f763187e545c/mosaico_mpd.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=aHR0cHM6Ly9nb3d2Lml6emlnby50djo4MDYzLz9kZXZpY2VJZD1OV1l3TVROalpEZ3RPVGhsTUMwek5UYzNMV0UzTnpjdFltWTRZelpqWVRnd1lUQXk
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 group-title="IZZI GO",Mosaico 21
+https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
+
+
+
+
+
 #EXTINF:-1 group-title="MEXICO"tvg-logo="https://megatelevisiontv.live/img/logo_canal/Nick.png",Nick
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
