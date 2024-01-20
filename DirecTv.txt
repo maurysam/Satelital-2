@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, tooncast 
+https://cem02.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 
 #EXTINF:-1 group-title="IZZI GO",Canal 5 rd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
