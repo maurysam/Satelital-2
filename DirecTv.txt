@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1,DISCOVERY http://45.228.234.77:4430/play/discoverychannel 
+#EXTINF:-1 group-title="PREMIUM" tvg- logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png",_UNIVERSAL CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/? deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw 
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.m
+
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/wp/wp-content/uploads/2021/09/tlnovelas-e1632249780226.jpg",Tl Novelas
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
