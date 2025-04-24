@@ -10,6 +10,14 @@
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/usanetwork.png", tvg-id="ksport1hd" group-title="2. SPORTS", USA Network (West)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de534ef8914bfe62ba3cdd6bdb9e1c04:882c9f5613b43b47adc70aa968a308ce
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/usanetwork.png", tvg-id="ksport1hd" group-title="2. SPORTS", USA Network (West)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
