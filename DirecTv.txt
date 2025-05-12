@@ -21,6 +21,13 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstream.adaptive.license_key=421bf41e7de0f9869aa13aa34200bb75:4b3dfb3e7fb2b65f607ee4290ab74283
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
 
+#EXTINF:-1 tvg-name="History" tvg-logo="" group-title="DaddyHD",History
+#EXTVLCOPT:http-referrer=https://clarovideo-dwx.pages.dev/?uc2&get=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEhJU1RPUllfQ0hBTk5FTF9IRCkvbWFuaWZlc3QubXBk&key=YmRiNzE3MWE4OWIyMWFmZmFhYmNiZmI4YzYwNjViNDI=&key2=ZWNmMzJlYTUzOWY0MjA5ZjYyYzZiOTZiNGI3ZTdmMDM=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HISTORY_CHANNEL_HD)/manifest.mpd
+
+
+
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
