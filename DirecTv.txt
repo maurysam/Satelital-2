@@ -28,8 +28,48 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b3dfb3e7fb2b65f607ee4290ab74283:421bf41e7de0f9869aa13aa34200bb75
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=24c2a4df8e8ddd176661ca6e0d61b26b:b1b13889f71a96902c28582302163a5c
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_HD_MX)/manifest.mpd
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",Las Estrellas
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=2d23487b5b881e44ba0fab9759fd85a3:029c7f128993034adfe4bc4e95140424
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",Las Estrellas
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=8c6e933f315578b5111e2292faf99f70:3446f35947957d3701c49fd1729f216f
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD_MX)/manifest.mpd
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",hbo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4ScBEQi2tblkag3rOl1xvQ","kid":"HX7TgVy643hc6_5rQvPGVQ"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",hbo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CVsnjP5lpeRnufKmk9sNEg","kid":"oo_eaQjgsNAxMkmGYX1pow"}],"type":"temporary"}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(PARAMOUNT_HD)/manifest.mpd
 
 
 
