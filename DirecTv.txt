@@ -71,21 +71,813 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(NICKTOONS)/manifest.mpd
 
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=4f8f17d8b9e7c8c6baea633469b5d687:a15b0430c06d2631ed0e850fa419c4d7
-https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(NICKTOONS)/manifest.mpd
-
-
-",
+[
+    {
+        "channel_name": "A&e HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(AE_MUNDO_HD)/manifest.mpd",
+        "key": "011efcb86dc0c336c1bb61d602c71691",
+        "kid": "65439188fe819667ba31731f59c7c28b",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Amc HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(AMC_HD)/manifest.mpd",
+        "key": "50b0e5a273715e26365bd85ddb50f430",
+        "kid": "f747276b207ea2777ecef2f81b9c8d1e",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Animal Planet HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ANIMAL_PLANET_HD)/manifest.mpd",
+        "key": "36caf348e0f7a4d4a6cdc577368387c2",
+        "kid": "d159d22935a366a6989d352f231edad9",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Arirang",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ARIRANG)/manifest.mpd",
+        "key": "1e6273f15ce1ae84b4a4885f62c4caea",
+        "kid": "6cfed48432e5bbbff039a13e16d24314",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Axn HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(AXN_HD)/manifest.mpd",
+        "key": "eebe343ced6370906c4367f847ae6300",
+        "kid": "b88cfecdcbbf5d22c59af2aacc40a566",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Az Corazon",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(AZCORAZON_HD)/manifest.mpd",
+        "key": "6fb810f78b8f4071a6fc6486675118ef",
+        "kid": "5e4c11ec13c570a76300c7a483e23f3d",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Az Mundo HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(AZMUNDO_HD)/manifest.mpd",
+        "key": "709719841f4020ade87ff06d7f62b5ed",
+        "kid": "7232714227da809d19792fc162352e4f",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cablenoticias HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CABLENOTICIAS_HD)/manifest.mpd",
+        "key": "f636521f4b39ca6109b3305f5d1bcdab",
+        "kid": "017524f9c4892bcf9e2b80bf26d1fcea",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Canal Claro HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CANAL_CLARO_HD)/manifest.mpd",
+        "key": "226f3cfc4f00e03dbe39e2a88760293f",
+        "kid": "ae5d967526f90c80102fab021e3dd282",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Canal De Las Estrellas HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESTRELLAS_HD)/manifest.mpd",
+        "key": "4b3dfb3e7fb2b65f607ee4290ab74283",
+        "kid": "421bf41e7de0f9869aa13aa34200bb75",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Canal Iberoamericano",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(IBERO)/manifest.mpd",
+        "key": "10c1738ea469544d2940e30152e36c91",
+        "kid": "b37ac3ccfa8e06b07b742e25357088bf",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Canal Institucional HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(SENAL_INSTITUCIONAL_HD)/manifest.mpd",
+        "key": "4c318a5d1294c1bf0cfabaeed5f82c66",
+        "kid": "352414e1b7da0c77d81855f61a8086d4",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Canal Rcn HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(RCN_HD)/manifest.mpd",
+        "key": "bbe6839ecf5f10feb748724bf18fc051",
+        "kid": "742e877c48ad3d01b1c82f6ca22b5fe8",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Canal Uno HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CANAL_UNO_HD)/manifest.mpd",
+        "key": "dd3a739cbe5a24155065189da26beb68",
+        "kid": "86babf38afcdc81d92e22c530daf4f5f",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cartoon Network HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CARTOON_NETWORK_HD)/manifest.mpd",
+        "key": "f91eeb3c7c12d9391434dc79a872c0b9",
+        "kid": "3a827f7fede44d8d973cbbaab0c089c0",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cine Latino",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINELATINO)/manifest.mpd",
+        "key": "2c76b5c7d47d63bf0c3d01187af9cb2f",
+        "kid": "ebd48bea6741b6b575709d46122d045c",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cinecanal HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINECANAL_HD)/manifest.mpd",
+        "key": "0f4d10ed85da0a04851d703951234f1c",
+        "kid": "cc0425ceb09de724085204043a0a3ab9",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cinema +",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINEMAPLUS)/manifest.mpd",
+        "key": "26acdad69ede55914b93c1d825a5ae6b",
+        "kid": "0f7f2148d85b7e8866c2d6eab3423ead",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cinemax",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CINEMAX)/manifest.mpd",
+        "key": "76734117f225638c9d9ed197a30ab073",
+        "kid": "1f6453df0946904b9ba088525fef782d",
+        "country": "MX"
+    },
+    {
+        "channel_name": "City Tv",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CITY_TV)/manifest.mpd",
+        "key": "b58c3582b8e2aa39de9c7f31f387a59c",
+        "kid": "ffed618c0784218bd44b4902b962b564",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Claro Cinema",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_CINEMA)/manifest.mpd",
+        "key": "58ab6ec5569e433806fdf9a3868f8df0",
+        "kid": "f91539ec0553eb3a87b6d85d0c396712",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Claro Sports Latam HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd",
+        "key": "9b8366fa8e9ebcdf4b349d6c9d528115",
+        "kid": "74cdcb63ff3e4f3ce4da4243b6d1e1d8",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cnn En Espa\u00d1ol",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CNN_ESPANOL)/manifest.mpd",
+        "key": "b67e21c50046634ead7f9937aac2872d",
+        "kid": "b63bd3a0436c3e82075e13e1c32250a7",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cnn Internacional",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CNN_INTERNACIONAL)/manifest.mpd",
+        "key": "61d6701f26ba32ecf22bc0d1ebda1cb6",
+        "kid": "b59910e6549c5e1c3874d460f5f6ca81",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Concert Channel",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CONCERT_CHANNEL_HD)/manifest.mpd",
+        "key": "d92e36380b02f531f70dadba49e95f27",
+        "kid": "68aa8810573e1dc11fb2d82a51d55402",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cosmovision",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(COSMOVISION)/manifest.mpd",
+        "key": "c9bd7a94424f0abfc0410068fd524fd3",
+        "kid": "04a8d531ba8f75239e30ee5db5dc01ea",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Cristovision",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(CRISTOVISION)/manifest.mpd",
+        "key": "45b042ff89126f83330e265dc44de2c2",
+        "kid": "5a0eb41adaeb6e90dd228ef7fd0008d5",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Data Ifx",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DATA_IFX)/manifest.mpd",
+        "key": "f73e636ab20d12c317e9ab85b899ff6a",
+        "kid": "69ef132188562de105cc7cffaa19803b",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Dhe HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DHE_HD)/manifest.mpd",
+        "key": "6cf22000512a631d0e2b8e67ab083129",
+        "kid": "3a55e9bcbae391130968fd233f51f4a3",
+        "country": "MX"
+    },
+    {
+        "channel_name": "D\u00cda Tv HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DIA_TV_HD)/manifest.mpd",
+        "key": "7686eda368739081a34485e8fea8c766",
+        "kid": "5f7db9812e4856c79d43663dd9fe7a2d",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Discovery Channel HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd",
+        "key": "91da1be2381e58311407172ff7de8597",
+        "kid": "eed776072da78773eec45b41232c69d2",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Discovery Home And Health HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/manifest.mpd",
+        "key": "def528875559963d3f125af875ae08c3",
+        "kid": "ed7db993e483308dcd1d3a266018d787",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Discovery Kids HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd",
+        "key": "cab01b81a1dc7772fef494e5f898b50c",
+        "kid": "651f6dd6967f69266539faca5336fc79",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Discovery Science",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_SCIENCE)/manifest.mpd",
+        "key": "f7f1fe9fd56f9c6419bd27a310cc705f",
+        "kid": "bcec638d4341a5662df97721354fd32a",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Discovery Theater HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_THEATER_HD)/manifest.mpd",
+        "key": "437d2cbfda22e984cacb6606049c0fe5",
+        "kid": "ddc8c470b241b37134bb714d1688924b",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Discovery World",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_WORLD_HD)/manifest.mpd",
+        "key": "652a5f3353e045464a8607b67ebfe8d8",
+        "kid": "fad42367cba301114c25e9c5226656ad",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Disney HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd",
+        "key": "608f91f05536f5a6c93e70cdd95aba5c",
+        "kid": "027e637afed7db11853ff1a19cc8e4db",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Disney Junior",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISNEY_JR)/manifest.mpd",
+        "key": "56b7aafe4e99fb4c1dca742a052b5c97",
+        "kid": "ff7c8f203d81edcf702c301caac299f9",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Dw Amerika",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DW_AMERIKA)/manifest.mpd",
+        "key": "469a2f4852920f15562cd1c4590f1a39",
+        "kid": "020091e8e6ea7ba2e025ad54f0cdbaeb",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Dw Tv",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DW)/manifest.mpd",
+        "key": "18b87faea8df9df8b5dfcf49869a90a9",
+        "kid": "af55e9dc1d6bd4792eba824f2bd9840d",
+        "country": "MX"
+    },
+    {
+        "channel_name": "El Gourmet HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOURMET_HD)/manifest.mpd",
+        "key": "4c450c53c2a8731c9aef7bead79ce726",
+        "kid": "5c3307df8d46704c2e3c2bfa79432923",
+        "country": "MX"
+    },
+    {
+        "channel_name": "El Sembrador",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(EL_SEMBRADOR)/manifest.mpd",
+        "key": "5e75a17fe9cfdcc55a865617e721ac39",
+        "kid": "7f86b81bce11de82fb8e509335d42a32",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Enlace",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ENLACE)/manifest.mpd",
+        "key": "ddeae440cd9007d4d5a41240ecbfbd02",
+        "kid": "ab0782844b5172a1b6402ab9fb1f9fdd",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Espn 2",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd",
+        "key": "b7a98812ab8d8974649a6ec420c013e1",
+        "kid": "8d7cb8fbc81cf3eddf8ebb5db5e11282",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Espn 3",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd",
+        "key": "404636ec78dfaf363333805c9a2c3f66",
+        "kid": "eb04e4ec7049c0712e09c57aea9c1cb7",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Espn HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd",
+        "key": "cc1d8219be0130da85e4c4ce73a75abb",
+        "kid": "0f85a4e1fc5937a827313597d04f8e27",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Espn Ms HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd",
+        "key": "39371baca096e3c1c896e55bab88b564",
+        "kid": "1edee1ef683e9518a172af824b07642a",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Ewtn",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(EWTN)/manifest.mpd",
+        "key": "f46e7bfb08176d137ed4a70d079082c6",
+        "kid": "34bbb9033e5a03393185525774436afd",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Fox News",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXNEWS)/manifest.mpd",
+        "key": "d09528aeb149826b1a7893af5873764c",
+        "kid": "0c56549efbe584be875ee07b909c8d8d",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Fox Sports 2 HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd",
+        "key": "8ea4292586d4df3ab4ef173453f6c555",
+        "kid": "49020ffc8b5cc542c469370c40000565",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Fox Sports 3 HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd",
+        "key": "a90ca0de14cc1ea2305bb26ce18d2abe",
+        "kid": "859a7ef7e969a0ae9584005a8b642fd6",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Fox Sports HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd",
+        "key": "2344766901410ed6306e445a9c43249e",
+        "kid": "4509cc12887f5d8402cc9c0025ecdd52",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Fox Sports Premium HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
+        "key": "5fe60fd77dfa61dbf41d1a0ac959621d",
+        "kid": "91a21f7ffc03b3e46fe348dd0755758e",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Fx HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FX_HD)/manifest.mpd",
+        "key": "ebb851c742c86c1cdd0ceaf85fe0e685",
+        "kid": "d45978fc259a5013c6416ff983ae7b1e",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Glitz",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GLITZ)/manifest.mpd",
+        "key": "de75c4c9d22414cdb25a0c96a0e2fa1d",
+        "kid": "6e9ae537226254e3ccaa7379f8fb486f",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Golden HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLDEN_HD)/manifest.mpd",
+        "key": "b5607e3891e8fb4c0cc82d8f82abe569",
+        "kid": "a2d6a86311c21a2c0f6e90d58fd7e590",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Golden Premier HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLDEN_PREMIER_HD)/manifest.mpd",
+        "key": "0fbb02bd94744aacd0a629251e5c1385",
+        "kid": "a48c540035837a0295a318326ab8ad95",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Golf Channel HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLF_CHANNEL_HD)/manifest.mpd",
+        "key": "30fbc1f86af8a320dc339e73b3a6dac3",
+        "kid": "429ee2c743e8834646f68fece3cabb1a",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Hbo 2 HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_2_HD)/manifest.mpd",
+        "key": "f783cbdeb990b7672f10657311c709f7",
+        "kid": "bd63098a0de43a5e15ab2a9aecefec25",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Hbo Family Este HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd",
+        "key": "e127011108b6b5b9646a0deb3a5d71bd",
+        "kid": "1d7ed3815cbae3785cebfe6b42f3c655",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Hbo HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_HD)/manifest.mpd",
+        "key": "c6c8da4827cfd666291549dabe0a3bdc",
+        "kid": "973b868af0608d0a49a685e79300612e",
+        "country": "MX"
+    },
+    {
+        "channel_name": "HBO Mundi",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MAX)/manifest.mpd",
+        "key": "0311906d5f457c6bf8f081aa49b9f85a",
+        "kid": "a5740072d5e9fbd322f8e7b1291df73f",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Hbo Plus Este HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD)/manifest.mpd",
+        "key": "1218f4e03244d1531623c395f043f92e",
+        "kid": "6600d095ffdd38f9b685551da6c5117a",
+        "country": "MX"
+    },
+    {
+        "channel_name": "HBO Pop HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MAX_UP_HD)/manifest.mpd",
+        "key": "6eb27072b6b7dbcf4a13ae58ba39646e",
+        "kid": "10d4eaa10a1cb843a32a9d68c47a13a6",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Hbo Signature HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_SIGNATURE_HD)/manifest.mpd",
+        "key": "9d2ed3badd97607e4ae0f87c078cda27",
+        "kid": "e790d2fdd1cbfc31ec07c9e6de1c57f8",
+        "country": "MX"
+    },
+    {
+        "channel_name": "HBO Xreme HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MAX_PRIME_HD)/manifest.mpd",
+        "key": "b84ee5a54279203858314dcc04fc000b",
+        "kid": "726ba11e0d4da81ab665db59eb44bb52",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Headline News",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HEADLINE_NEWS)/manifest.mpd",
+        "key": "64e246ecf980c7bf1f35a2ea505449c5",
+        "kid": "47dbeba6d4dda8576ef965a9ab3fdd11",
+        "country": "MX"
+    },
+    {
+        "channel_name": "History 2 HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(H2_HD)/manifest.mpd",
+        "key": "3325d43bf783d0f92297f5705b4b3ffb",
+        "kid": "33290edc4117d612218fdc6b1b7c1aac",
+        "country": "MX"
+    },
+    {
+        "channel_name": "History Channel HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HISTORY_CHANNEL_HD)/manifest.mpd",
+        "key": "ddf73aab675225c6edd1d9b2ee5e7bd8",
+        "kid": "2d0afa4581af1d11f96db1412ba8247d",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Hola HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HOLA_TV_HD)/manifest.mpd",
+        "key": "c6731f6056616fe920554ce406ad9bac",
+        "kid": "215ebce90f83476a26126496852faa50",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Htv",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HTV)/manifest.mpd",
+        "key": "8e256990975be741ffeafe4add4e0e23",
+        "kid": "9393e331b9936ae0317651763b1fe91e",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Id HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ID_HD)/manifest.mpd",
+        "key": "19d028bccc1bbbeb73380f721e940c7c",
+        "kid": "804808363f908d4f588b4e5f9363c528",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Inti HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(INTI_HD)/manifest.mpd",
+        "key": "9c19cb876dce492531443aae9eea0a2d",
+        "kid": "e3a12a9a2d6e53a809b59df41a8475ca",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Isat",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ISAT)/manifest.mpd",
+        "key": "36fc8fb19de227ecd74b69c181811657",
+        "kid": "0d6949a5fbe6494356bd48fe8233cd84",
+        "country": "MX"
+    },
+    {
+        "channel_name": "M\u00c1s Chic HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MASCHIC_HD)/manifest.mpd",
+        "key": "66bc0b9e0f07f6e4fa9fd9e509629bc4",
+        "kid": "72c455b06c04c4bbe18e9710345ab341",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Mtv HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MTV_HD)/manifest.mpd",
+        "key": "9e0e6d9993a60f7652b7f55a8cdf6bf4",
+        "kid": "ecbb8541f0db28e66cec620753e1a72b",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Mtv Hits",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MTV_HITS)/manifest.mpd",
+        "key": "b7574dfee433d0409aa55a4503a906ee",
+        "kid": "7881c699a915fd25e441f6d7a874d7da",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Mtv Live HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MTV_LIVE_HD)/manifest.mpd",
+        "key": "24df22c3d0214e6785783470315ad018",
+        "kid": "9881d146000b8d5d45461307c87fbba9",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Multipremier",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MULTIPREMIER)/manifest.mpd",
+        "key": "8560ac95e0923f2de9f1a450c9bad789",
+        "kid": "461b4a91b255b46c11bb5540507a37c0",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Natgeo HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NATGEO_HD)/manifest.mpd",
+        "key": "d84d90193b192a3604f41cf4c213dad7",
+        "kid": "b9c20dac5bbea5e375a14f826bf2c685",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Nick 2 HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NICK_2_HD)/manifest.mpd",
+        "key": "f650c3f23317074bce3b853660c5556c",
+        "kid": "2dbef982f13bea39e39b58cfa8ed78d2",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Nick Jr HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NICK_JR_HD)/manifest.mpd",
+        "key": "75afe1e81ab9392c9a8f0e8b8e5eb53e",
+        "kid": "ab26d0a5f01ef6b53d4119891f453fde",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Nicktoons",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NICKTOONS)/manifest.mpd",
         "key": "4f8f17d8b9e7c8c6baea633469b5d687",
         "kid": "a15b0430c06d2631ed0e850fa419c4d7",
         "country": "MX"
+    },
+    {
+        "channel_name": "Ntn 24",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NTN24)/manifest.mpd",
+        "key": "2ad12900d11184deee7594084c7ecb30",
+        "kid": "ba5a70cc766cb7cd6cec4861acaa22ca",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Nuestra Tele",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NUESTRA_TELE)/manifest.mpd",
+        "key": "71b498e81dfc3675f4710fa59638106b",
+        "kid": "992910952365467099e95e69abd5cdb4",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Paramount Channel HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(PARAMOUNT_HD)/manifest.mpd",
+        "key": "095b278cfe65a5e467b9f2a693db0d12",
+        "kid": "a28fde6908e0b0d031324986617d69a3",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Pasiones HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(PASIONES_HD)/manifest.mpd",
+        "key": "a975283846427d25df13a345bc40bdc1",
+        "kid": "6bbdd5a6a21ea3d5bec34c515078e124",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Radiola",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(RADIOLA)/manifest.mpd",
+        "key": "d28645703f483579799ad0e4b494aace",
+        "kid": "2f822fdd255d342a868b9230c70a4f44",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Rcn Telenovelas",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(RCN_TELENOVELAS)/manifest.mpd",
+        "key": "4631062ebdd3d61235a1c2dcf6ab9dec",
+        "kid": "4caf4d12f4c1b3cbed67f1cdb7a66edd",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Se\u00d1al Colombia HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(SENAL_COLOMBIA_HD)/manifest.mpd",
+        "key": "7e07baf1b863c973beac85a08e9a8dc1",
+        "kid": "7f29c0fd24b7e277283aa3ad9a417295",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Sony HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(SONY_HD)/manifest.mpd",
+        "key": "2eb37daecbb438e58c316646b715fc82",
+        "kid": "b2b45d7a7db07370f3a1c5e91646b062",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Space HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(SPACE_HD)/manifest.mpd",
+        "key": "9602d3f815f25df87552b4762a1ea00e",
+        "kid": "e68b024fa163e3304cd532484598b6e8",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Syfy HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(SYFYHD_ARG)/manifest.mpd",
+        "key": "4e1029ec4bf1a05e83fd3d1d4b540bcc",
+        "kid": "694fb05a939c02bcf445999e945b8619",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tbs HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TBS_HD)/manifest.mpd",
+        "key": "496ac5c2011d66992099b49e1c86ebfe",
+        "kid": "39d66f53de6c751ee1dabad49c65f495",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tcm",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TCM)/manifest.mpd",
+        "key": "190ec74a991582088d72c66972f07f60",
+        "kid": "4792d51840d3d92b2cbba3b06764f9cc",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Teleamiga",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TELEAMIGA)/manifest.mpd",
+        "key": "a6475dd8d4bd300a3882bc48f031b146",
+        "kid": "44119648017897ccad96225a77b4e243",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tl Novelas",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd",
+        "key": "6f18f24433288d9462597aed58138336",
+        "kid": "e78391deb5706f9311d952d6be6a6139",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tlc HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLC_HD)/manifest.mpd",
+        "key": "e330748886946a2f6c37f3b9ffefeab8",
+        "kid": "21bdccc7ff729a627c4b890f077e9203",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tnt HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TNT_HD)/manifest.mpd",
+        "key": "caf6f6544d3184b1f066ffda52c7cf82",
+        "kid": "ce0bf519cc6a7cf3ba76f1720784baab",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tnt Series HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TNT_SERIES_HD)/manifest.mpd",
+        "key": "2620596f0e4390cca126a5894dd14016",
+        "kid": "fd43a6ace05a4788ea32080adf50a586",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tooncast",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TOONCAST)/manifest.mpd",
+        "key": "fc817d45af5dce33cbb79793224b834c",
+        "kid": "d6f00381cc1a58668a11e2a3e0f20fd9",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tru Tv HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TRU_TV_HD)/manifest.mpd",
+        "key": "8ded0edf602914075472a2f335831b4d",
+        "kid": "233acf46698eb30c37dd52677d8014a2",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tv Agro HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TV_AGRO_HD)/manifest.mpd",
+        "key": "8d34b0d2a72bda6f0f9bf1b39c0e8a13",
+        "kid": "a6c15411f196354c9021d7b25c22d42a",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tv5 Monde",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TV5)/manifest.mpd",
+        "key": "6bbf73529badb7ddecce7363a57dbd72",
+        "kid": "ab33c29354d157e07fdf25ef8c80f00d",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Tve",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TVE)/manifest.mpd",
+        "key": "47247ee07cff0bae1f236dda74ce5785",
+        "kid": "b260ee30b0f73eda324a133d518cf492",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Universal Cinema HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd",
+        "key": "54882694734874f280259fb8b6766ab3",
+        "kid": "66ee81febe768875ae2fee5b8f512e15",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Universal Comedy HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd",
+        "key": "d9befb259f2523d17dd5f7ae5ba2dd74",
+        "kid": "9a778fbd54a4b2285cea8d44c514a2fd",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Universal Crime HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd",
+        "key": "2bd42314bdcf4028eeb25fcf61b7b6e3",
+        "kid": "dd87aca2d338122cbd283bdd3a0f7502",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Universal HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd",
+        "key": "c2cd19c2e73c8b7d6c384ba745161444",
+        "kid": "96388f9c9cbc73d4256a97974f9a2aef",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Universal Premiere HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd",
+        "key": "abb4d0aff05248ae5e53d3e8454671d6",
+        "kid": "d01c9488e528697a9cd8ebe35b067729",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Universal Reality HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd",
+        "key": "afcb5b67f584f2eeb1783474644a9f8e",
+        "kid": "aeced86dd6c5ecf4f39cd193109f39f7",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Vh1 Classic",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(VH1_CLASSIC)/manifest.mpd",
+        "key": "1f243f80dded5c238b9cbf64b9804cf3",
+        "kid": "a07144b93bfe4d614d23fc0ec46a9977",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Vh1 HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(VH1_HD)/manifest.mpd",
+        "key": "3092f8bd894ebf8b8cd4967790fd691f",
+        "kid": "38dfc37f9dd52db85421ff8eb115dff6",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Warner Channel HD",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(WARNER_HD)/manifest.mpd",
+        "key": "05c77592b06e36644676bc93cec8b71f",
+        "kid": "b0adc810ea2f34ec6904592c12ca5490",
+        "country": "MX"
+    },
+    {
+        "channel_name": "Zoom",
+        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ZOOM)/manifest.mpd",
+        "key": "b10125fb1f94bdf57480406d54e3120e",
+        "kid": "e4cff414dcedc0ec76a6cc4c4a09cddb",
+        "country": "MX"
+    }
+]	
 
 
 
