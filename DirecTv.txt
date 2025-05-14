@@ -3750,162 +3750,341 @@ https://anbalancer.express.com.ar/live/c1eds/MTV/SA_DASH_cipix/MTV.mpd
 #EXTVLCOPT--http-reconnect=true 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q92YtSh/azteca-logo.png" tvg-group="MEXICO",HBO
 https://dtvott-abc.akamaized.net/dash_live_1140/manifest.mpd
+CC
+https://dish.akamaized.net/Content/DASH/Live/channel(50dd60bc-94f1-a686-3a3f-a093154f9229)/manifest.mpd
+ee3ad5fb53e7b4f65d732ce7f03d53a4:e4a1ef4d19cbac85da7f6a29da2c5135
 
+CINELATINO
+https://dish.akamaized.net/Content/DASH/Live/channel(b4540d49-0e51-9219-ced1-8624e83e6bf3)/manifest.mpd
+e28ec76b3e800ded41db58719ad8b8f4:4e40f2c54234fc211f471ed049b22649
 
-#EXTINF:-1,TELEMUNDO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/657
+EXA TV
+https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae-34f938ae4b98)/manifest.mpd
+3443518a438f72c299ecedd7a8a2ad28:36a6301c3d722a2305c99e3c938aac58
 
-#EXTINF:-1,TELEMUNDO44
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654
+LA MEJOR
+https://dish.akamaized.net/Content/DASH/Live/channel(681bf69f-31fc-6394-82b1-96a0c643eb70)/manifest.mpd
+706240e6eab2a1137262a0c2b8c4be6a:e5a2e8bbe1b4b9cbdb12a2b586aa9b1d
 
-#EXTINF:-1,TELEMUNDOLA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/656
+MC
+https://dish.akamaized.net/Content/DASH/Live/channel(6f29f4bb-a84c-6924-9782-a5647d2146a0)/manifest.mpd
+077105b9c52693e7c1df39521ab65803:7189d75c1469f0bd11efa54d58d3499b
 
-#EXTINF:-1,TELEMUNDO48
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/655
+MILENIO HD
+https://dish.akamaized.net/Content/DASH/Live/channel(mileniohd)/manifest.mpd
+95693bf13a5faa3afb2c25624b021038:70aa363b9f8d9d553d62f8a139781a1b
 
-#EXTINF:-1,TELEMUNDONEWYORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/658
+MTV
+https://dish.akamaized.net/Content/DASH/Live/channel(83640aad-3943-f226-67b6-94086f915fd5)/manifest.mpd
+bb8a6b32e830d4c9c52606d93b852262:12ae020d159c4ef6c5a7a411a3d0aa51
 
-#EXTINF:-1,Canal De Las Estrellas
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/682
+MC MULTIPREMIER
+https://dish.akamaized.net/Content/DASH/Live/channel(526dd1aa-3af4-bca0-f021-f48180f1974a)/manifest.mpd
+55122e37d92b6b4ab03c427cd4f471b9:0c2d5950edcafe9a2ea09098a155bdda
 
-#EXTINF:-1,Canal 5
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/681
+MVS
+https://dish.akamaized.net/Content/DASH/Live/channel(mvshd)/manifest.mpd
+03a6be34f620b1cbd96800a709346b23:0ed65893fb20d712602af499878596eb
 
-#EXTINF:-1,TELEMUNDO ARIZONA
-https://v-px.mybtv.net/live/39.m3u8?env=prd&uid=-1&x=1
+ANTENA3
+https://dish.akamaized.net/Content/DASH/Live/channel(f20abae4-d469-344f-5bb4-4fc88c1d683b)/manifest.mpd
+1236cdf9b12eba6d4a4d1494f7a0dd30:3737ce9763b0816e3feab4624e1aa9a7
 
-#EXTINF:-1,TUDN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
+HOLA
+https://dish.akamaized.net/Content/DASH/Live/channel(93b5438f-d00d-3a75-e257-95bdb326e721)/manifest.mpd
+b2cea93a0a01e1218cf0a3d0d2d09f25:a06ac367319c8926249057a2eb2a78d9
 
+HBO XTREME MX
+https://dish.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6-821201567186)/manifest.mpd
+761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
 
-#EXTINF:-1,DISCOVERY CIVILIZATION
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/686
-#EXTINF:-1,DISTRITO COMEDIA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
-#EXTINF:-1,E! Entertaiment USA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
-#EXTINF:-1,ESPN1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
-#EXTINF:-1,FX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+HBO POP MX
+https://dish.akamaized.net/Content/DASH/Live/channel(d46beb3e-6178-5996-6106-413fbc44e12f)/manifest.mpd
+2fccd34e42603163d29e9df57b61b951:b8d12ee1376883921d2596715dcc62f5
 
+HBO MUNDI MX
+https://dish.akamaized.net/Content/DASH/Live/channel(8bd5b62b-fad1-7abc-2cec-cb781f5f5f20)/manifest.mpd
+0e53c5914737e3287fe737a8875f7044:73a5e41a4c611ee26e7998cb4ebdfb67
 
-#EXTINF:-1,NATGEO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
-#EXTINF:-1,NFL NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/616
-#EXTINF:-1,SYFY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/652
+HBO SIGNATURE MX
+https://dish.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)/manifest.mpd
+7aeefc391f09edf06ba2b039e8e8c439:e322483381692e91ff8927e518a75ea0
 
-#EXTINF:-1,TNT
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
-#EXTINF:-1,TOONCAST
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
-#EXTINF:-1,DESTINATION AMERICA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/508
-#EXTINF:-1,DISCOVERYFAMENG
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/509
-#EXTINF:-1,DISCOVERYFAMSPA
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
-#EXTINF:-1,VELOCITY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/669
-#EXTINF:-1,DISNEY
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/512
-#EXTINF:-1,DISNEYJR
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
-#EXTINF:-1,DISNEYXD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/514
-#EXTINF:-1,GALAVISION
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
-#EXTINF:-1,Lifetime Movie
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
-#EXTINF:-1,NATGEO MUNDO HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
-#EXTINF:-1,NUEVE 9
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+HBO PLUS MX
+https://dish.akamaized.net/Content/DASH/Live/channel(e8dd8035-5c7e-f820-eec5-65a93cc4b912)/manifest.mpd
+54c5643771d1eb28857f6d6cb7947aa8:caa44ad81c2175a711fd4f3c646a9950
 
-#EXTINF:-1,UNIMAS HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/663
-#EXTINF:-1,UNIVERSO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/665
-#EXTINF:-1,UNIVISION SPORTS   ULTIMO
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/666
+HBO FAMILY MX
+https://dish.akamaized.net/Content/DASH/Live/channel(462e4822-6eac-91a1-f974-311a8ed1b829)/manifest.mpd
+23d5d6a7be1238a89b59cb79ed2ab349:596508e11a62a8ebb20f67da8852e8f1
 
-#EXTINF:-1,FOX DEPORTES HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/531
-#EXTINF:-1,FS1
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/549
-#EXTINF:-1,FS2
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/550
+HBO 2 MX
+https://dish.akamaized.net/Content/DASH/Live/channel(59866a3c-83ad-17d1-3025-d9f794babca9)/manifest.mpd
+9aaf6aa38c694e24b60787618a0f3793:4cee5d8856488e593964a082562db4ff
 
-#EXTINF:-1,GOLF CHANNEL HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/558
+HBO HD MX
+https://dish.akamaized.net/Content/DASH/Live/channel(a4bb2449-4f30-142f-1e65-d757b3d53b78)/manifest.mpd
+cec01f73570fd6820a31d386b39b731d:86e27a11d47e800fb903dc07d1f02b7e
 
-#EXTINF:-1,Fox News HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/734
-#EXTINF:-1,MLB NETWORKS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/736
-#EXTINF:-1,Investigation Discovery ID
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/735
-#EXTINF:-1,MTV LIVE
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/737
-#EXTINF:-1,NATGEO KIDS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+BABYFIRST
+https://dish.akamaized.net/Content/DASH/Live/channel(648fabb8-962b-0e85-93d5-44d56a12851e)/manifest.mpd
+82d882f3aada7d99b71695d0cb418538:ce445596de9e7a97f62515559cd67bdb
 
-#EXTINF:-1,TBS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/758
-#EXTINF:-1,TIIN
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
-#EXTINF:-1,TRUTV ESP
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/760
+Nickelodeon
+https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.mpd
+7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
 
-#EXTINF:-1,VEPLUSTV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/762
-#EXTINF:-1,AFIZZIONADOS
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
-#EXTINF:-1,REDBULL TV
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/756
-#EXTINF:-1,TVC DEPORTES
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
-#EXTINF:-1,BEIN SPORTS ENG HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
+NICK JR
+https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
+6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
 
-#EXTINF:-1,NFL 15
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/608
-#EXTINF:-1,NFL GAMEPASS 01
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/739
-#EXTINF:-1,NFL GAMEPASS 02
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/740
-#EXTINF:-1,NFL GAMEPASS 03
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/741
-#EXTINF:-1,NFL GAMEPASS 04
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/742
-#EXTINF:-1,NFL GAMEPASS 05
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/743
-#EXTINF:-1,NFL GAMEPASS 06
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/744
-#EXTINF:-1,NFL GAMEPASS 07
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/745
-#EXTINF:-1,NFL GAMEPASS 08
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/746
-#EXTINF:-1,NFL GAMEPASS 09
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/747
-#EXTINF:-1,NFL GAMEPASS 10
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/748
-#EXTINF:-1,NFL GAMEPASS 11
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/749
-#EXTINF:-1,NFL GAMEPASS 12
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/750
-#EXTINF:-1,NFL GAMEPASS 13
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/751
-#EXTINF:-1,NFL GAMEPASS 14
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/752
-#EXTINF:-1,UFC ESP
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/726
-#EXTINF:-1,ESTRELLATV
+PARAMOUNT
+https://dish.akamaized.net/Content/DASH/Live/channel(Paramount)/manifest.mpd
+32b13be3cd4a6b293a8f1e8d69ba03cb:83451d1709e2ff8ab5db1ac05e78f577
 
+MTV 00s
+https://dish.akamaized.net/Content/DASH/Live/channel(mtv00shd)/manifest.mpd
+5b2a17bad7db3bd57210661153c66473:b061ffc051848625349ddefe8d7ce171
+
+AMC
+https://dish.akamaized.net/Content/DASH/Live/channel(amc)/manifest.mpd
+6772d26ccb1dee07b3b8703520286e8e:e3836e151d5ff729fe237f29605f039b
+
+ANIMAL PLANET
+https://dish.akamaized.net/Content/DASH/Live/channel(animalplanethd)/manifest.mpd
+283ebc0dcc0ad5220cc9476fb2bd9b38:6c5120bd84de6233793e0ec556612e6d
+
+CARTOON NETWORK
+https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/manifest.mpd
+0a8e88e5b5b3eef72f2cb4aae4462f47:8cf6200e54c309754ed4e99cab5874f6
+
+CINEMAX
+https://dish.akamaized.net/Content/DASH/Live/channel(cinemax)/manifest.mpd
+540b2a870d04b8b73d18788ad6519c2c:4badcf5feda55f3a727430d78f0ede84
+
+CNN
+https://dish.akamaized.net/Content/DASH/Live/channel(cnn)/manifest.mpd
+eb72c9e7401ffa4cc0ab3936cb869751:e45142790c822b02f6c2a77f5a40de66
+
+DISCOVERY CHANNEL
+https://dish.akamaized.net/Content/DASH/Live/channel(discoverychannelhd)/manifest.mpd
+8aba4faf1f6acb51cbde42de8c7add3d:c78da1bf648851714612ec36a187ab7a
+
+DISCOVERY H&H
+https://dish.akamaized.net/Content/DASH/Live/channel(discoveryhomeandhealthhd)/manifest.mpd
+42e70e74d2d731b7053caaa0a2621ca2:1c77ee4a9bf25791b0f1b11c7118f39e
+
+Investigation Discovery
+https://dish.akamaized.net/Content/DASH/Live/channel(investigationdiscoveryhd)/manifest.mpd
+efe8aa76c0e7c3aeefed0966453b5baf:fbccf5bf2a03a2cef118f92210fb75bd
+
+DISCOVERY TURBO
+https://dish.akamaized.net/Content/DASH/Live/channel(discoveryturbohd)/manifest.mpd
+db8878cba41b2ee282b624fb75977b26:f3e8cdd2586046c0cf087bbe6012ce97
+
+ESPN 2 MX
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd
+ae99daa35220336fe9460b9060fa65a9:ac284e8e24296f30496d1f39a7138205
+
+ESPN 3 MX
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/manifest.mpd
+430f38110162f19a042b4dcdc2005140:50541179fbd5750aea8767cb6e6b3a7b
+
+ESPN EXTRA
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_extra)/manifest.mpd
+ef0779dad62e7a021ac8b82a5a8dd329:e18c7892858eb04bf8d2dcf4f057dd77
+
+FX
+https://dish.akamaized.net/Content/DASH/Live/channel(fx)/manifest.mpd
+ef5157845628b5f3f07a40d2c6e851bc:0f416467760f72e2269abfbab2e3c564
+
+HISTORY
+https://dish.akamaized.net/Content/DASH/Live/channel(history)/manifest.mpd
+c60825bef7f79a30696e835532e2c1e5:9917be8378ddcb8ff4aa26c554da639e
+
+E!
+https://dish.akamaized.net/Content/DASH/Live/channel(e_entertainment_hd)/manifest.mpd
+80fa37cfc97ec6425a03fdc6892eecd6:895c40f6e9d35f296e1554af8bbe590c
+
+ESPN
+https://dish.akamaized.net/Content/DASH/Live/channel(espn)/manifest.mpd
+5abcf43f19d39b08596ef593c466df7a:8f3fc1c6f4c20c6e6e98e42c2ae0e42c
+
+FILM & ARTS
+https://dish.akamaized.net/Content/DASH/Live/channel(film_and_arts)/manifest.mpd
+c2aecc40a610b30b03f61e965942266e:89a83e6b4512fd9a9e1455ac0abbe975
+
+TNT
+https://dish.akamaized.net/Content/DASH/Live/channel(tnt)/manifest.mpd
+4139b9f4b9b13b81c2d1b53acd01e5e5:24f771215b927cd0961be8ab963bb8d2
+
+SPACE
+https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd
+e6441ec9b4f7ddfbc4cac8801f4df9df:676229a75fdbc1a6b5f4a50c383490d9
+
+TNT SERIES
+https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/manifest.mpd
+af697afe95d1a333a845aee5ba676946:c57bdecf3169b78e51865403c6e723bd
+
+STAR CHANNEL
+https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
+6de957e2c8090588b2cc3b4cfe0470f4:52d97d7f43b204d2379b43ee7d3a2a21
+
+STUDIO UNIVERSAL
+https://dish.akamaized.net/Content/DASH/Live/channel(studio_universal)/manifest.mpd
+ff583851013fa7fb7abeaa8d0e762a41:ad289e896926729a4e7559bdaa04e537
+
+TBS
+https://dish.akamaized.net/Content/DASH/Live/channel(tbs_sd)/manifest.mpd
+1ebf460dd523ee3dd4a6a35857dea58e:c10b54a2581a0f664e32e03f166ab010
+
+LIFETIME
+https://dish.akamaized.net/Content/DASH/Live/channel(lifetimehd)/manifest.mpd
+4c17e69d6e92861fc2ca18df9c23c9c6:09e1bda6f1a7edeb9fb9f40f54f84be8
+
+TLC
+https://dish.akamaized.net/Content/DASH/Live/channel(tlchd)/manifest.mpd
+6254689477110d794617a8b8da688570:a1126eaea3add2df3e27f3da40911ae2
+
+EL GOURMET
+https://dish.akamaized.net/Content/DASH/Live/channel(e_gourment)/manifest.mpd
+5f3eebd14fc7f6fcbe4ba310dd654a6b:249312af2692abff48daa39c0dc8607d
+
+EUROPA EUROPA
+https://dish.akamaized.net/Content/DASH/Live/channel(europa_europa)/manifest.mpd
+de24e1b99c8b18ff9aa6d1faf2e71720:66f2ae3dc379900b5495f440f68c674a
+
+SYFY
+https://dish.akamaized.net/Content/DASH/Live/channel(syfy)/manifest.mpd
+39773b0d7b389430776142a2fa613ad9:bce74121a4884ec7d2ed9dd96442a775
+
+UNIVERSAL CHANNEL
+https://dish.akamaized.net/Content/DASH/Live/channel(universal_channel)/manifest.mpd
+88cabfce565963d816be9ec08dccc29e:7912df72c3cb820a6a9026ef6aa71508
+
+SONY
+https://dish.akamaized.net/Content/DASH/Live/channel(sony)/manifest.mpd
+896f730715176bb90484f8385512cba7:7372951666a6653c2dbff9f2646c1c5d
+
+WARNER CHANNEL
+https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/manifest.mpd
+79dc87836d93d0fb7c1bb10e301bab82:8b0e2a78cad3b2fe84b116adb0a9d9ef
+
+MAS CHIC
+https://dish.akamaized.net/Content/DASH/Live/channel(mas_chic)/manifest.mpd
+fe371e8ac45e6f11927f8a91abf3f268:e5bf0822bd2eaaf5e5c466c894c8ed6e
+
+UNIVERSAL PREMIERE
+https://dish.akamaized.net/Content/DASH/Live/channel(UniversalPremiereWest)/manifest.mpd
+115d8a1195650f9dea6fa2d87e135418:90e1a8aacacbee7f35ab30fea1c4ab4e
+
+UNIVERSAL CINEMA
+https://dish.akamaized.net/Content/DASH/Live/channel(UniversalCinemaWest)/manifest.mpd
+29efd3db92ba3a4655e86c1512cfe338:fe098b90492e9e66c7d971119d638bd6
+
+UNIVERSAL CRIME
+https://dish.akamaized.net/Content/DASH/Live/channel(UniversalCrime)/manifest.mpd
+cfe6e0c1bf0de723b34491baf1243b5a:bf2bca1d9221381e886936a5fde48cb6
+
+UNIVERSAL REALITY
+https://dish.akamaized.net/Content/DASH/Live/channel(UniversalReality)/manifest.mpd
+eac062be2e594e14626f7064145395c8:5fd5c1eb0b0f3cebde29b06460275cc1
+
+UNIVERSAL COMEDY
+https://dish.akamaized.net/Content/DASH/Live/channel(universalcomedy)/manifest.mpd
+57c0bef7e975ae07bd76c4c6b551b6cc:d8f2a76c4ae9542211e63c6e95c9421d
+
+OUTDOOR CHANNEL
+https://dish.akamaized.net/Content/DASH/Live/channel(outdoor)/manifest.mpd
+06723e4db0084a4bd5a107cc2e60c273:05d239ff5f8735342942487773cb8131
+
+HTV
+https://dish.akamaized.net/Content/DASH/Live/channel(htv)/manifest.mpd
+f637de627548fda78b4258774cb96b86:5afcd3efb734e21f0f45fb2f784ee239
+
+TELERITMO
+https://dish.akamaized.net/Content/DASH/Live/channel(teleritmo)/manifest.mpd
+c83f3b8a3140e199e3f91e50632dd288:f1c11a5f6214a1692cf21966e2ab4605
+
+GOLF CHANNEL
+https://dish.akamaized.net/Content/DASH/Live/channel(golflatin)/manifest.mpd
+2ab02862fda94a3d1b56fe7d1f691583:684faca772cb75ad0b3574c3a84463f7
+
+AYM SPORTS
+https://dish.akamaized.net/Content/DASH/Live/channel(aymsports)/manifest.mpd
+4de3280b9e07e13d5fcd9cf5116b76d2:b9806c1b660b83e923a25cb805971117
+
+DISCOVERY KIDS
+https://dish.akamaized.net/Content/DASH/Live/channel(discoverykids)/manifest.mpd
+a57ec54090c0b450f2e2ef90de4013f9:a49da89c878182c99b9d2e9282d5aa3a
+
+TELEFORMULA
+https://dish.akamaized.net/Content/DASH/Live/channel(teleformula)/manifest.mpd
+78e5edc6768e248bb933f4703a6cef27:5208e7e0187c9ef4cb79c957c4793194
+
+A3 SERIES
+https://dish.akamaized.net/Content/DASH/Live/channel(a3series)/manifest.mpd
+f41eb0f3367804d8fc48dec22c2c7d68:42983f2821aba0d2d17afc373a3c3dab
+
+PX SPORTS
+https://dish.akamaized.net/Content/DASH/Live/channel(pxsports)/manifest.mpd
+7a3331860220a10a7e8b16c137c61765:e9ab4d4a676be421e88c6e0127c6e087
+
+TRACE SPORTS
+https://dish.akamaized.net/Content/DASH/Live/channel(tracesports)/manifest.mpd
+98bac57a85139ab4321a50beb774288c:f5b8cb9ca54c0dc4cd1d2296fcff70be
+
+GAMETOON
+https://dish.akamaized.net/Content/DASH/Live/channel(gametoon)/manifest.mpd
+075dae7484cb440084f04913a99311e0:3a8cfc19eb78725106c975479cd28bd6
+
+CLARO SPORTS
+https://dish.akamaized.net/Content/DASH/Live/channel(clarosports)/manifest.mpd
+21a7580dfcec81607492d5a2db40727e:20e15c193a68a6631b5d0d1f6e5c6204
+
+TYC SPORTS INT
+https://dish.akamaized.net/Content/DASH/Live/channel(tycsports)/manifest.mpd
+abb4405bf296d53b612b9124b6ff9b57:7dff5070b84e6890b35a88a86ce44f40
+
+FAST AND FUN HD
+https://dish.akamaized.net/Content/DASH/Live/channel(fastandfunhd)/manifest.mpd
+d05351999664ac94a18cbcb4e68d37e8:071481a9a6867bf8af578f73b2d45014
+
+FIGHTBOX HD
+https://dish.akamaized.net/Content/DASH/Live/channel(fightboxhd)/manifest.mpd
+5a2334b7bae13628eb27062e3b79f294:aff28dcb8ca6b51a3fe252bcabf7941c
+
+TVC DEPORTES
+https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/manifest.mpd
+ffdd8c79a09c11c5d42bc4f2d85bded7:72adc5405cee0fc1288bc75b8ef11759
+
+GINXSPORTS
+https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/manifest.mpd
+5fd24b691f5e5108a4b9bfaf70066463:9d54422436550ad2dbb979546a0caf71
+
+H2
+https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/manifest.mpd
+35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210
+
+A&E
+https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/manifest.mpd
+5009add9e5b2cd627ac6ef8aa6db9123:3448834b1b496ed26e9727983c080844
+
+ISAT
+https://dish.akamaized.net/Content/DASH/Live/channel(isatsd)/manifest.mpd
+fbd1db8e8d7cb678ecb49df1bada02c5:8d404c0e150855e4784ce016b3d0170c
+
+CARTOONITO
+https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/manifest.mpd
+dd2c2f31defc5f22f031365d3333c880:f0597b0c74656c330dd6ccd50dfc5464
+
+CNN INTERNATIONAL
+https://dish.akamaized.net/Content/DASH/Live/channel(cnninternacional)/manifest.mpd
+290e9d634140a533d040fe7ec239d160:cfff5ccb4c18d2b6f9deb3be039da98c
+
+TELEMUNDO INTERNACIONAL
+https://dish.akamaized.net/Content/DASH/Live/channel(telemundohd)/manifest.mpd
+37c93f4babaaabc0da1d8b24828c3ff7:88e2ac75ce14cd5fbfb79083f37107dd
 
 
 
