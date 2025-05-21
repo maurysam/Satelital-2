@@ -3849,93 +3849,326 @@ MC
 https://dish.akamaized.net/Content/DASH/Live/channel(6f29f4bb-a84c-6924-9782-a5647d2146a0)/manifest.mpd
 077105b9c52693e7c1df39521ab65803:7189d75c1469f0bd11efa54d58d3499b
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",MILENIO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95693bf13a5faa3afb2c25624b021038:70aa363b9f8d9d553d62f8a139781a1b
+https://dish.akamaized.net/Content/DASH/Live/channel(mileniohd)/manifest.mpd
+
 MILENIO HD
 https://dish.akamaized.net/Content/DASH/Live/channel(mileniohd)/manifest.mpd
 95693bf13a5faa3afb2c25624b021038:70aa363b9f8d9d553d62f8a139781a1b
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",MTV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb8a6b32e830d4c9c52606d93b852262:12ae020d159c4ef6c5a7a411a3d0aa51
+https://dish.akamaized.net/Content/DASH/Live/channel(83640aad-3943-f226-67b6-94086f915fd5)/manifest.mpd
 
 MTV
 https://dish.akamaized.net/Content/DASH/Live/channel(83640aad-3943-f226-67b6-94086f915fd5)/manifest.mpd
 bb8a6b32e830d4c9c52606d93b852262:12ae020d159c4ef6c5a7a411a3d0aa51
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",MULTIPREMIER
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55122e37d92b6b4ab03c427cd4f471b9:0c2d5950edcafe9a2ea09098a155bdda
+https://dish.akamaized.net/Content/DASH/Live/channel(526dd1aa-3af4-bca0-f021-f48180f1974a)/manifest.mpd
+
 MC MULTIPREMIER
 https://dish.akamaized.net/Content/DASH/Live/channel(526dd1aa-3af4-bca0-f021-f48180f1974a)/manifest.mpd
 55122e37d92b6b4ab03c427cd4f471b9:0c2d5950edcafe9a2ea09098a155bdda
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",MVS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03a6be34f620b1cbd96800a709346b23:0ed65893fb20d712602af499878596eb
+https://dish.akamaized.net/Content/DASH/Live/channel(mvshd)/manifest.mpd
 
 MVS
 https://dish.akamaized.net/Content/DASH/Live/channel(mvshd)/manifest.mpd
 03a6be34f620b1cbd96800a709346b23:0ed65893fb20d712602af499878596eb
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",ANTENA 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1236cdf9b12eba6d4a4d1494f7a0dd30:3737ce9763b0816e3feab4624e1aa9a7
+https://dish.akamaized.net/Content/DASH/Live/channel(f20abae4-d469-344f-5bb4-4fc88c1d683b)/manifest.mpd
+
 ANTENA3
 https://dish.akamaized.net/Content/DASH/Live/channel(f20abae4-d469-344f-5bb4-4fc88c1d683b)/manifest.mpd
 1236cdf9b12eba6d4a4d1494f7a0dd30:3737ce9763b0816e3feab4624e1aa9a7
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HOLA TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b2cea93a0a01e1218cf0a3d0d2d09f25:a06ac367319c8926249057a2eb2a78d9
+https://dish.akamaized.net/Content/DASH/Live/channel(93b5438f-d00d-3a75-e257-95bdb326e721)/manifest.mpd
 
 HOLA
 https://dish.akamaized.net/Content/DASH/Live/channel(93b5438f-d00d-3a75-e257-95bdb326e721)/manifest.mpd
 b2cea93a0a01e1218cf0a3d0d2d09f25:a06ac367319c8926249057a2eb2a78d9
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HBO XTREME
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
+https://dish.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6-821201567186)/manifest.mpd
+
 HBO XTREME MX
 https://dish.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6-821201567186)/manifest.mpd
 761160036506af26092b33aa78cf320c:f4e90d977d91cd5be891c2a50a11f979
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HBO POP
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fccd34e42603163d29e9df57b61b951:b8d12ee1376883921d2596715dcc62f5
+https://dish.akamaized.net/Content/DASH/Live/channel(d46beb3e-6178-5996-6106-413fbc44e12f)/manifest.mpd
 
 HBO POP MX
 https://dish.akamaized.net/Content/DASH/Live/channel(d46beb3e-6178-5996-6106-413fbc44e12f)/manifest.mpd
 2fccd34e42603163d29e9df57b61b951:b8d12ee1376883921d2596715dcc62f5
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HBO MUNDI
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e53c5914737e3287fe737a8875f7044:73a5e41a4c611ee26e7998cb4ebdfb67
+https://dish.akamaized.net/Content/DASH/Live/channel(8bd5b62b-fad1-7abc-2cec-cb781f5f5f20)/manifest.mpd
+
 HBO MUNDI MX
 https://dish.akamaized.net/Content/DASH/Live/channel(8bd5b62b-fad1-7abc-2cec-cb781f5f5f20)/manifest.mpd
 0e53c5914737e3287fe737a8875f7044:73a5e41a4c611ee26e7998cb4ebdfb67
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HBO SIGNATURE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aeefc391f09edf06ba2b039e8e8c439:e322483381692e91ff8927e518a75ea0
+https://dish.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)/manifest.mpd
 
 HBO SIGNATURE MX
 https://dish.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9-71719e2cccfe)/manifest.mpd
 7aeefc391f09edf06ba2b039e8e8c439:e322483381692e91ff8927e518a75ea0
 
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HBO PLUS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54c5643771d1eb28857f6d6cb7947aa8:caa44ad81c2175a711fd4f3c646a9950
+https://dish.akamaized.net/Content/DASH/Live/channel(e8dd8035-5c7e-f820-eec5-65a93cc4b912)/manifest.mpd
+
 HBO PLUS MX
 https://dish.akamaized.net/Content/DASH/Live/channel(e8dd8035-5c7e-f820-eec5-65a93cc4b912)/manifest.mpd
 54c5643771d1eb28857f6d6cb7947aa8:caa44ad81c2175a711fd4f3c646a9950
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23d5d6a7be1238a89b59cb79ed2ab349:596508e11a62a8ebb20f67da8852e8f1
+https://dish.akamaized.net/Content/DASH/Live/channel(462e4822-6eac-91a1-f974-311a8ed1b829)/manifest.mpd
 
 HBO FAMILY MX
 https://dish.akamaized.net/Content/DASH/Live/channel(462e4822-6eac-91a1-f974-311a8ed1b829)/manifest.mpd
 23d5d6a7be1238a89b59cb79ed2ab349:596508e11a62a8ebb20f67da8852e8f1
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9aaf6aa38c694e24b60787618a0f3793:4cee5d8856488e593964a082562db4ff
+https://dish.akamaized.net/Content/DASH/Live/channel(59866a3c-83ad-17d1-3025-d9f794babca9)/manifest.mpd
+
 HBO 2 MX
 https://dish.akamaized.net/Content/DASH/Live/channel(59866a3c-83ad-17d1-3025-d9f794babca9)/manifest.mpd
 9aaf6aa38c694e24b60787618a0f3793:4cee5d8856488e593964a082562db4ff
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HBO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cec01f73570fd6820a31d386b39b731d:86e27a11d47e800fb903dc07d1f02b7e
+https://dish.akamaized.net/Content/DASH/Live/channel(a4bb2449-4f30-142f-1e65-d757b3d53b78)/manifest.mpd
 
 HBO HD MX
 https://dish.akamaized.net/Content/DASH/Live/channel(a4bb2449-4f30-142f-1e65-d757b3d53b78)/manifest.mpd
 cec01f73570fd6820a31d386b39b731d:86e27a11d47e800fb903dc07d1f02b7e
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",BABY FIRST
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82d882f3aada7d99b71695d0cb418538:ce445596de9e7a97f62515559cd67bdb
+https://dish.akamaized.net/Content/DASH/Live/channel(648fabb8-962b-0e85-93d5-44d56a12851e)/manifest.mpd
+
 BABYFIRST
 https://dish.akamaized.net/Content/DASH/Live/channel(648fabb8-962b-0e85-93d5-44d56a12851e)/manifest.mpd
 82d882f3aada7d99b71695d0cb418538:ce445596de9e7a97f62515559cd67bdb
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10", NICKELODEON 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
+https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.mpd
 
 Nickelodeon
 https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/manifest.mpd
 7ec274831caa80e1ec173dbd5b0d5e83:cc5fb77171900013b60e4ef49da9f1ac
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10", NICKELODEON 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
+https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
+
 NICK JR
 https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/manifest.mpd
 6678b21d11148fc9604268ddbe008d72:8ba320049c30a2df809a90679c49b63d
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",PARAMOUNT
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32b13be3cd4a6b293a8f1e8d69ba03cb:83451d1709e2ff8ab5db1ac05e78f577
+https://dish.akamaized.net/Content/DASH/Live/channel(Paramount)/manifest.mpd
 
 PARAMOUNT
 https://dish.akamaized.net/Content/DASH/Live/channel(Paramount)/manifest.mpd
 32b13be3cd4a6b293a8f1e8d69ba03cb:83451d1709e2ff8ab5db1ac05e78f577
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",MTV 00s
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b2a17bad7db3bd57210661153c66473:b061ffc051848625349ddefe8d7ce171
+https://dish.akamaized.net/Content/DASH/Live/channel(mtv00shd)/manifest.mpd
+
 MTV 00s
 https://dish.akamaized.net/Content/DASH/Live/channel(mtv00shd)/manifest.mpd
 5b2a17bad7db3bd57210661153c66473:b061ffc051848625349ddefe8d7ce171
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",AMC
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6772d26ccb1dee07b3b8703520286e8e:e3836e151d5ff729fe237f29605f039b
+https://dish.akamaized.net/Content/DASH/Live/channel(amc)/manifest.mpd
 
 AMC
 https://dish.akamaized.net/Content/DASH/Live/channel(amc)/manifest.mpd
 6772d26ccb1dee07b3b8703520286e8e:e3836e151d5ff729fe237f29605f039b
 
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=283ebc0dcc0ad5220cc9476fb2bd9b38:6c5120bd84de6233793e0ec556612e6d
+https://dish.akamaized.net/Content/DASH/Live/channel(animalplanethd)/manifest.mpd
+
 ANIMAL PLANET
 https://dish.akamaized.net/Content/DASH/Live/channel(animalplanethd)/manifest.mpd
 283ebc0dcc0ad5220cc9476fb2bd9b38:6c5120bd84de6233793e0ec556612e6d
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a8e88e5b5b3eef72f2cb4aae4462f47:8cf6200e54c309754ed4e99cab5874f6
+https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/manifest.mpd
+
 CARTOON NETWORK
 https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/manifest.mpd
 0a8e88e5b5b3eef72f2cb4aae4462f47:8cf6200e54c309754ed4e99cab5874f6
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",CINEMAX
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=540b2a870d04b8b73d18788ad6519c2c:4badcf5feda55f3a727430d78f0ede84
+https://dish.akamaized.net/Content/DASH/Live/channel(cinemax)/manifest.mpd
 
 CINEMAX
 https://dish.akamaized.net/Content/DASH/Live/channel(cinemax)/manifest.mpd
