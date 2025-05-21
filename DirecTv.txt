@@ -503,691 +503,692 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
         "kid": "69ef132188562de105cc7cffaa19803b",
         
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",DHE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Dhe HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DHE_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=3a55e9bcbae391130968fd233f51f4a3:6cf22000512a631d0e2b8e67ab083129
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DHE_HD)/manifest.mpd
+        
         "key": "6cf22000512a631d0e2b8e67ab083129",
         "kid": "3a55e9bcbae391130968fd233f51f4a3",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",DIA TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "D\u00cda Tv HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DIA_TV_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=5f7db9812e4856c79d43663dd9fe7a2d:7686eda368739081a34485e8fea8c766
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DIA_TV_HD)/manifest.mpd
+        
         "key": "7686eda368739081a34485e8fea8c766",
         "kid": "5f7db9812e4856c79d43663dd9fe7a2d",
-        "country": "MX"
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png", DISCOVERY CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Discovery Channel HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=eed776072da78773eec45b41232c69d2:91da1be2381e58311407172ff7de8597
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_CHANNEL_HD)/manifest.mpd
+        
         "key": "91da1be2381e58311407172ff7de8597",
         "kid": "eed776072da78773eec45b41232c69d2",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png", DISCOVERY HOME AND HEALTH
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Discovery Home And Health HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=ed7db993e483308dcd1d3a266018d787:def528875559963d3f125af875ae08c3
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/manifest.mpd
+        
+        
         "key": "def528875559963d3f125af875ae08c3",
         "kid": "ed7db993e483308dcd1d3a266018d787",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png", DISCOVERY KIDS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Discovery Kids HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=651f6dd6967f69266539faca5336fc79:cab01b81a1dc7772fef494e5f898b50c
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd
+
         "key": "cab01b81a1dc7772fef494e5f898b50c",
         "kid": "651f6dd6967f69266539faca5336fc79",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png", DISCOVERY SCIENCE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Discovery Science",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_SCIENCE)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=bcec638d4341a5662df97721354fd32a:f7f1fe9fd56f9c6419bd27a310cc705f
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_SCIENCE)/manifest.mpd
+
         "key": "f7f1fe9fd56f9c6419bd27a310cc705f",
         "kid": "bcec638d4341a5662df97721354fd32a",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png", DISCOVERY THEATER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Discovery Theater HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_THEATER_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=ddc8c470b241b37134bb714d1688924b:437d2cbfda22e984cacb6606049c0fe5
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_THEATER_HD)/manifest.mpd
+        
         "key": "437d2cbfda22e984cacb6606049c0fe5",
         "kid": "ddc8c470b241b37134bb714d1688924b",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png", DISCOVERY WORLD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Discovery World",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_WORLD_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=fad42367cba301114c25e9c5226656ad:652a5f3353e045464a8607b67ebfe8d8
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_WORLD_HD)/manifest.mpd
+        
         "key": "652a5f3353e045464a8607b67ebfe8d8",
         "kid": "fad42367cba301114c25e9c5226656ad",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",DISNEY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Disney HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=027e637afed7db11853ff1a19cc8e4db:608f91f05536f5a6c93e70cdd95aba5c
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
+        
         "key": "608f91f05536f5a6c93e70cdd95aba5c",
         "kid": "027e637afed7db11853ff1a19cc8e4db",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",DISNEY JR
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Disney Junior",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISNEY_JR)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=ff7c8f203d81edcf702c301caac299f9:56b7aafe4e99fb4c1dca742a052b5c97
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEY_JR)/manifest.mpd
+        
         "key": "56b7aafe4e99fb4c1dca742a052b5c97",
         "kid": "ff7c8f203d81edcf702c301caac299f9",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",DW AMERICA
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Dw Amerika",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DW_AMERIKA)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=020091e8e6ea7ba2e025ad54f0cdbaeb:469a2f4852920f15562cd1c4590f1a39
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DW_AMERIKA)/manifest.mpd
+        
         "key": "469a2f4852920f15562cd1c4590f1a39",
         "kid": "020091e8e6ea7ba2e025ad54f0cdbaeb",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",DW
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Dw Tv",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DW)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=af55e9dc1d6bd4792eba824f2bd9840d:18b87faea8df9df8b5dfcf49869a90a9
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DW)/manifest.mpd
+        
         "key": "18b87faea8df9df8b5dfcf49869a90a9",
         "kid": "af55e9dc1d6bd4792eba824f2bd9840d",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",EL GOURMET 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "El Gourmet HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOURMET_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=5c3307df8d46704c2e3c2bfa79432923:4c450c53c2a8731c9aef7bead79ce726
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(GOURMET_HD)/manifest.mpd
+        
         "key": "4c450c53c2a8731c9aef7bead79ce726",
         "kid": "5c3307df8d46704c2e3c2bfa79432923",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",EL SEMBRADOR
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "El Sembrador",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(EL_SEMBRADOR)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=7f86b81bce11de82fb8e509335d42a32:5e75a17fe9cfdcc55a865617e721ac39
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(EL_SEMBRADOR)/manifest.mpd
+        
         "key": "5e75a17fe9cfdcc55a865617e721ac39",
         "kid": "7f86b81bce11de82fb8e509335d42a32",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",ENLACE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Enlace",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ENLACE)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=ab0782844b5172a1b6402ab9fb1f9fdd:ddeae440cd9007d4d5a41240ecbfbd02
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ENLACE)/manifest.mpd
+        
         "key": "ddeae440cd9007d4d5a41240ecbfbd02",
         "kid": "ab0782844b5172a1b6402ab9fb1f9fdd",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",ESPN 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Espn 2",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=8d7cb8fbc81cf3eddf8ebb5db5e11282:b7a98812ab8d8974649a6ec420c013e1
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_2_HD)/manifest.mpd
+        
         "key": "b7a98812ab8d8974649a6ec420c013e1",
         "kid": "8d7cb8fbc81cf3eddf8ebb5db5e11282",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",ESPN 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Espn 3",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=eb04e4ec7049c0712e09c57aea9c1cb7:404636ec78dfaf363333805c9a2c3f66
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_3_HD)/manifest.mpd
+        
         "key": "404636ec78dfaf363333805c9a2c3f66",
         "kid": "eb04e4ec7049c0712e09c57aea9c1cb7",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",ESPN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Espn HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd
+        
         "key": "cc1d8219be0130da85e4c4ce73a75abb",
         "kid": "0f85a4e1fc5937a827313597d04f8e27",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",ESPN 4
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Espn Ms HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=1edee1ef683e9518a172af824b07642a:39371baca096e3c1c896e55bab88b564
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_PLUS_HD)/manifest.mpd
+        
         "key": "39371baca096e3c1c896e55bab88b564",
         "kid": "1edee1ef683e9518a172af824b07642a",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",EWTN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Ewtn",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(EWTN)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=34bbb9033e5a03393185525774436afd:f46e7bfb08176d137ed4a70d079082c6
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(EWTN)/manifest.mpd
+        
         "key": "f46e7bfb08176d137ed4a70d079082c6",
         "kid": "34bbb9033e5a03393185525774436afd",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",FOX NEWS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Fox News",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXNEWS)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=0c56549efbe584be875ee07b909c8d8d:d09528aeb149826b1a7893af5873764c
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXNEWS)/manifest.mpd
+        
         "key": "d09528aeb149826b1a7893af5873764c",
         "kid": "0c56549efbe584be875ee07b909c8d8d",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",FOX SPORTS 2 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Fox Sports 2 HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=49020ffc8b5cc542c469370c40000565:8ea4292586d4df3ab4ef173453f6c555
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS2_HD)/manifest.mpd
+
         "key": "8ea4292586d4df3ab4ef173453f6c555",
         "kid": "49020ffc8b5cc542c469370c40000565",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",FOX SPORTS 3 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Fox Sports 3 HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=859a7ef7e969a0ae9584005a8b642fd6:a90ca0de14cc1ea2305bb26ce18d2abe
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS3_HD)/manifest.mpd
+        
         "key": "a90ca0de14cc1ea2305bb26ce18d2abe",
         "kid": "859a7ef7e969a0ae9584005a8b642fd6",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",ESPN 5
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Fox Sports HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=4509cc12887f5d8402cc9c0025ecdd52:2344766901410ed6306e445a9c43249e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
+        
         "key": "2344766901410ed6306e445a9c43249e",
         "kid": "4509cc12887f5d8402cc9c0025ecdd52",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",FOX SPORTS PREMIUM 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Fox Sports Premium HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=91a21f7ffc03b3e46fe348dd0755758e:5fe60fd77dfa61dbf41d1a0ac959621d
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXSPORTS_PREMIUM_HD)/manifest.mpd
+        
         "key": "5fe60fd77dfa61dbf41d1a0ac959621d",
         "kid": "91a21f7ffc03b3e46fe348dd0755758e",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",FX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Fx HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FX_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=d45978fc259a5013c6416ff983ae7b1e:ebb851c742c86c1cdd0ceaf85fe0e685
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FX_HD)/manifest.mpd
+        
         "key": "ebb851c742c86c1cdd0ceaf85fe0e685",
         "kid": "d45978fc259a5013c6416ff983ae7b1e",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",GLITZ
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Glitz",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GLITZ)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=6e9ae537226254e3ccaa7379f8fb486f:de75c4c9d22414cdb25a0c96a0e2fa1d
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(GLITZ)/manifest.mpd
+        
         "key": "de75c4c9d22414cdb25a0c96a0e2fa1d",
         "kid": "6e9ae537226254e3ccaa7379f8fb486f",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",GOLDEN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Golden HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLDEN_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=a2d6a86311c21a2c0f6e90d58fd7e590:b5607e3891e8fb4c0cc82d8f82abe569
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(GOLDEN_HD)/manifest.mpd
+        
         "key": "b5607e3891e8fb4c0cc82d8f82abe569",
         "kid": "a2d6a86311c21a2c0f6e90d58fd7e590",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",GOLDEN PREMIER
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Golden Premier HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLDEN_PREMIER_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=a48c540035837a0295a318326ab8ad95:0fbb02bd94744aacd0a629251e5c1385
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(GOLDEN_PREMIER_HD)/manifest.mpd
+        
         "key": "0fbb02bd94744aacd0a629251e5c1385",
         "kid": "a48c540035837a0295a318326ab8ad95",
-        "country": "MX"
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",GOLF CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Golf Channel HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLF_CHANNEL_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=429ee2c743e8834646f68fece3cabb1a:30fbc1f86af8a320dc339e73b3a6dac3
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(GOLF_CHANNEL_HD)/manifest.mpd
+        
         "key": "30fbc1f86af8a320dc339e73b3a6dac3",
         "kid": "429ee2c743e8834646f68fece3cabb1a",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Hbo 2 HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_2_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=bd63098a0de43a5e15ab2a9aecefec25:f783cbdeb990b7672f10657311c709f7
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_2_HD)/manifest.mpd
+        
         "key": "f783cbdeb990b7672f10657311c709f7",
         "kid": "bd63098a0de43a5e15ab2a9aecefec25",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO FAMILY
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Hbo Family Este HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=1d7ed3815cbae3785cebfe6b42f3c655:e127011108b6b5b9646a0deb3a5d71bd
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
+        
         "key": "e127011108b6b5b9646a0deb3a5d71bd",
         "kid": "1d7ed3815cbae3785cebfe6b42f3c655",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Hbo HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=973b868af0608d0a49a685e79300612e:c6c8da4827cfd666291549dabe0a3bdc
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_HD)/manifest.mpd
+        
         "key": "c6c8da4827cfd666291549dabe0a3bdc",
         "kid": "973b868af0608d0a49a685e79300612e",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO MUNDI
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "HBO Mundi",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MAX)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=a5740072d5e9fbd322f8e7b1291df73f:0311906d5f457c6bf8f081aa49b9f85a
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(MAX)/manifest.mpd
+        
         "key": "0311906d5f457c6bf8f081aa49b9f85a",
         "kid": "a5740072d5e9fbd322f8e7b1291df73f",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO PLUS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Hbo Plus Este HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=6600d095ffdd38f9b685551da6c5117a:1218f4e03244d1531623c395f043f92e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD)/manifest.mpd
+        
         "key": "1218f4e03244d1531623c395f043f92e",
         "kid": "6600d095ffdd38f9b685551da6c5117a",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO POP
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "HBO Pop HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MAX_UP_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=10d4eaa10a1cb843a32a9d68c47a13a6:6eb27072b6b7dbcf4a13ae58ba39646e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(MAX_UP_HD)/manifest.mpd
+
         "key": "6eb27072b6b7dbcf4a13ae58ba39646e",
         "kid": "10d4eaa10a1cb843a32a9d68c47a13a6",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO SIGNATURE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Hbo Signature HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_SIGNATURE_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=e790d2fdd1cbfc31ec07c9e6de1c57f8:9d2ed3badd97607e4ae0f87c078cda27
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HBO_SIGNATURE_HD)/manifest.mpd
+        
         "key": "9d2ed3badd97607e4ae0f87c078cda27",
         "kid": "e790d2fdd1cbfc31ec07c9e6de1c57f8",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HBO XTREME
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "HBO Xreme HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MAX_PRIME_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=726ba11e0d4da81ab665db59eb44bb52:b84ee5a54279203858314dcc04fc000b
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(MAX_PRIME_HD)/manifest.mpd
+        
         "key": "b84ee5a54279203858314dcc04fc000b",
         "kid": "726ba11e0d4da81ab665db59eb44bb52",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HEADLINE NEWS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Headline News",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HEADLINE_NEWS)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=47dbeba6d4dda8576ef965a9ab3fdd11:64e246ecf980c7bf1f35a2ea505449c5
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HEADLINE_NEWS)/manifest.mpd
+        
         "key": "64e246ecf980c7bf1f35a2ea505449c5",
         "kid": "47dbeba6d4dda8576ef965a9ab3fdd11",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HISTORY 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "History 2 HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(H2_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=33290edc4117d612218fdc6b1b7c1aac:3325d43bf783d0f92297f5705b4b3ffb
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(H2_HD)/manifest.mpd
+        
         "key": "3325d43bf783d0f92297f5705b4b3ffb",
         "kid": "33290edc4117d612218fdc6b1b7c1aac",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HISTORY CHANNEL
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "History Channel HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HISTORY_CHANNEL_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=2d0afa4581af1d11f96db1412ba8247d:ddf73aab675225c6edd1d9b2ee5e7bd8
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HISTORY_CHANNEL_HD)/manifest.mpd
+        
         "key": "ddf73aab675225c6edd1d9b2ee5e7bd8",
         "kid": "2d0afa4581af1d11f96db1412ba8247d",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HOLA TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Hola HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HOLA_TV_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=215ebce90f83476a26126496852faa50:c6731f6056616fe920554ce406ad9bac
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HOLA_TV_HD)/manifest.mpd
+        
         "key": "c6731f6056616fe920554ce406ad9bac",
         "kid": "215ebce90f83476a26126496852faa50",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",HTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Htv",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HTV)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=9393e331b9936ae0317651763b1fe91e:8e256990975be741ffeafe4add4e0e23
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(HTV)/manifest.mpd
+        
         "key": "8e256990975be741ffeafe4add4e0e23",
         "kid": "9393e331b9936ae0317651763b1fe91e",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",ID
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Id HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ID_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=804808363f908d4f588b4e5f9363c528:19d028bccc1bbbeb73380f721e940c7c
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ID_HD)/manifest.mpd
+        
         "key": "19d028bccc1bbbeb73380f721e940c7c",
         "kid": "804808363f908d4f588b4e5f9363c528",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",INTI
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Inti HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(INTI_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=e3a12a9a2d6e53a809b59df41a8475ca:9c19cb876dce492531443aae9eea0a2d
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(INTI_HD)/manifest.mpd
+        
         "key": "9c19cb876dce492531443aae9eea0a2d",
         "kid": "e3a12a9a2d6e53a809b59df41a8475ca",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",ISAT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Isat",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(ISAT)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=0d6949a5fbe6494356bd48fe8233cd84:36fc8fb19de227ecd74b69c181811657
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ISAT)/manifest.mpd
+        
         "key": "36fc8fb19de227ecd74b69c181811657",
         "kid": "0d6949a5fbe6494356bd48fe8233cd84",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",MASCHIC
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "M\u00c1s Chic HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MASCHIC_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=72c455b06c04c4bbe18e9710345ab341:66bc0b9e0f07f6e4fa9fd9e509629bc4
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(MASCHIC_HD)/manifest.mpd
+        
         "key": "66bc0b9e0f07f6e4fa9fd9e509629bc4",
         "kid": "72c455b06c04c4bbe18e9710345ab341",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",MTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Mtv HD",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MTV_HD)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=ecbb8541f0db28e66cec620753e1a72b:9e0e6d9993a60f7652b7f55a8cdf6bf4
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(MTV_HD)/manifest.mpd
+        
         "key": "9e0e6d9993a60f7652b7f55a8cdf6bf4",
         "kid": "ecbb8541f0db28e66cec620753e1a72b",
-        "country": "MX"
+        
 
-#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",MTV HITS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=a15b0430c06d2631ed0e850fa419c4d7:4f8f17d8b9e7c8c6baea633469b5d687
-        "channel_name": "Mtv Hits",
-        "mpd_url": "https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(MTV_HITS)/manifest.mpd",
+#KODIPROP:inputstream.adaptive.license_key=7881c699a915fd25e441f6d7a874d7da:b7574dfee433d0409aa55a4503a906ee
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(MTV_HITS)/manifest.mpd
+        
         "key": "b7574dfee433d0409aa55a4503a906ee",
         "kid": "7881c699a915fd25e441f6d7a874d7da",
-        "country": "MX"
+        
 
 #EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://megatelevisiontv.live/img/history.png",nicktoon
 #EXTVLCOPT:network-caching=1000
