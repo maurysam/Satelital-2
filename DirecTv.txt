@@ -4342,7 +4342,7 @@ https://dish.akamaized.net/Content/DASH/Live/channel(e_entertainment_hd)/manifes
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5abcf43f19d39b08596ef593c466df7a:8f3fc1c6f4c20c6e6e98e42c2ae0e42c
+#KODIPROP:inputstream.adaptive.license_key=8f3fc1c6f4c20c6e6e98e42c2ae0e42c:5abcf43f19d39b08596ef593c466df7a
 https://dish.akamaized.net/Content/DASH/Live/channel(espn)/manifest.mpd
 
 ESPN
@@ -4754,45 +4754,156 @@ TELEFORMULA
 https://dish.akamaized.net/Content/DASH/Live/channel(teleformula)/manifest.mpd
 78e5edc6768e248bb933f4703a6cef27:5208e7e0187c9ef4cb79c957c4793194
 
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",A3 SERIES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f41eb0f3367804d8fc48dec22c2c7d68:42983f2821aba0d2d17afc373a3c3dab
+https://dish.akamaized.net/Content/DASH/Live/channel(a3series)/manifest.mpd
+
 A3 SERIES
 https://dish.akamaized.net/Content/DASH/Live/channel(a3series)/manifest.mpd
 f41eb0f3367804d8fc48dec22c2c7d68:42983f2821aba0d2d17afc373a3c3dab
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",PX SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a3331860220a10a7e8b16c137c61765:e9ab4d4a676be421e88c6e0127c6e087
+https://dish.akamaized.net/Content/DASH/Live/channel(pxsports)/manifest.mpd
 
 PX SPORTS
 https://dish.akamaized.net/Content/DASH/Live/channel(pxsports)/manifest.mpd
 7a3331860220a10a7e8b16c137c61765:e9ab4d4a676be421e88c6e0127c6e087
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",TRACE SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98bac57a85139ab4321a50beb774288c:f5b8cb9ca54c0dc4cd1d2296fcff70be
+https://dish.akamaized.net/Content/DASH/Live/channel(tracesports)/manifest.mpd
+
 TRACE SPORTS
 https://dish.akamaized.net/Content/DASH/Live/channel(tracesports)/manifest.mpd
 98bac57a85139ab4321a50beb774288c:f5b8cb9ca54c0dc4cd1d2296fcff70be
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",GAMETOON
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=075dae7484cb440084f04913a99311e0:3a8cfc19eb78725106c975479cd28bd6
+https://dish.akamaized.net/Content/DASH/Live/channel(gametoon)/manifest.mpd
 
 GAMETOON
 https://dish.akamaized.net/Content/DASH/Live/channel(gametoon)/manifest.mpd
 075dae7484cb440084f04913a99311e0:3a8cfc19eb78725106c975479cd28bd6
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",CLARO SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21a7580dfcec81607492d5a2db40727e:20e15c193a68a6631b5d0d1f6e5c6204
+https://dish.akamaized.net/Content/DASH/Live/channel(clarosports)/manifest.mpd
+
 CLARO SPORTS
 https://dish.akamaized.net/Content/DASH/Live/channel(clarosports)/manifest.mpd
 21a7580dfcec81607492d5a2db40727e:20e15c193a68a6631b5d0d1f6e5c6204
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",TYC SPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abb4405bf296d53b612b9124b6ff9b57:7dff5070b84e6890b35a88a86ce44f40
+https://dish.akamaized.net/Content/DASH/Live/channel(tycsports)/manifest.mpd
 
 TYC SPORTS INT
 https://dish.akamaized.net/Content/DASH/Live/channel(tycsports)/manifest.mpd
 abb4405bf296d53b612b9124b6ff9b57:7dff5070b84e6890b35a88a86ce44f40
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",FAST AND FUN
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d05351999664ac94a18cbcb4e68d37e8:071481a9a6867bf8af578f73b2d45014
+https://dish.akamaized.net/Content/DASH/Live/channel(fastandfunhd)/manifest.mpd
+
 FAST AND FUN HD
 https://dish.akamaized.net/Content/DASH/Live/channel(fastandfunhd)/manifest.mpd
 d05351999664ac94a18cbcb4e68d37e8:071481a9a6867bf8af578f73b2d45014
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",FIGHTBOX
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a2334b7bae13628eb27062e3b79f294:aff28dcb8ca6b51a3fe252bcabf7941c
+https://dish.akamaized.net/Content/DASH/Live/channel(fightboxhd)/manifest.mpd
 
 FIGHTBOX HD
 https://dish.akamaized.net/Content/DASH/Live/channel(fightboxhd)/manifest.mpd
 5a2334b7bae13628eb27062e3b79f294:aff28dcb8ca6b51a3fe252bcabf7941c
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",TVC DEPORTES
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffdd8c79a09c11c5d42bc4f2d85bded7:72adc5405cee0fc1288bc75b8ef11759
+https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/manifest.mpd
+
 TVC DEPORTES
 https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/manifest.mpd
 ffdd8c79a09c11c5d42bc4f2d85bded7:72adc5405cee0fc1288bc75b8ef11759
 
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",GINXSPORTS
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fd24b691f5e5108a4b9bfaf70066463:9d54422436550ad2dbb979546a0caf71
+https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/manifest.mpd
+
 GINXSPORTS
 https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/manifest.mpd
 5fd24b691f5e5108a4b9bfaf70066463:9d54422436550ad2dbb979546a0caf71
+
+#EXTINF:-1 group-title="CANALES VARIADOS solo OTT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3pVqc0uZWlBF9r_6ZPgU5D0WgWIGE_5N9S5Uun2JDfZR6LU7FxMpKZhi&s=10",HISTORY 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=35ac7c20bf38822bd1c9fb001c07ed23:10d14cdc8a18dfbc131bfbd123fde210
+https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/manifest.mpd
 
 H2
 https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/manifest.mpd
