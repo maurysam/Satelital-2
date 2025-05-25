@@ -1,1 +1,695 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml""
+
+#EXTINF:-1 group-title="Lista 34",Azteca Uno HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecaunohd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",uno
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecaunohd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",MULTIMEDIOS TV HD
+https://dish.akamaized.net/Content/DASH/Live/channel(multimediosplus)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",multi
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(multimediosplus)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Azteca 7  HD
+https://dish.akamaized.net/Content/DASH/Live/channel(azteca7hd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",7
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(azteca7hd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",ADN 40
+https://dish.akamaized.net/Content/DASH/Live/channel(adn40hd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",40
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(adn40hd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Star Channel
+https://dish.akamaized.net/Content/DASH/Live/channel(start_channel)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",star
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(start_channel)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",MVS TV (Dish)
+https://dish.akamaized.net/Content/DASH/Live/channel(mvshd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",mvt
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mvshd)/variant.m3u8 
+#EXTINF:-1 group-title="Lista 34",mvt
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Universal Tv
+https://dish.akamaized.net/Content/DASH/Live/channel(universal_channel)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",uni
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(universal_channel)/  variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Canal Sony
+https://dish.akamaized.net/Content/DASH/Live/channel(sony)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",sony
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(sony)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Warner Channel 
+https://dish.akamaized.net/Content/DASH/Live/channel(warner_channel)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",warner
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(warner_channel)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",AMC
+https://dish.akamaized.net/Content/DASH/Live/channel(amc)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",amc
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(amc)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",AXN HD
+https://dish.akamaized.net/Content/DASH/Live/channel(axnhd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",axn
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(axnhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",FX
+https://dish.akamaized.net/Content/DASH/Live/channel(fx)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",fx
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(fx)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Space  
+https://dish.akamaized.net/Content/DASH/Live/channel(space)/variant.mpd  
+#EXTINF:-1 group-title="Lista 34",space
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(space)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",usa
+https://dish.akamaized.net/Content/DASH/Live/channel(usamexico)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",usa
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(usamexico)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Adult Swim
+https://dish.akamaized.net/Content/DASH/Live/channel(adultswim)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",adult
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(adultswim)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Lifetime
+https://dish.akamaized.net/Content/DASH/Live/channel(lifetimehd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",life
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(lifetimehd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",A&E HD
+https://dish.akamaized.net/Content/DASH/Live/channel(aehd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",ae
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aehd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",DHE HD
+https://dish.akamaized.net/Content/DASH/Live/channel(dnehd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",dhe
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(dnehd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",TNT Series HD
+https://dish.akamaized.net/Content/DASH/Live/channel(tntseries)/variant.mpd   
+#EXTINF:-1 group-title="Lista 34",tnt ser
+https://dish.akamaized.net/Content/HLS_M3U8/Live/channel(tntseries)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",A3  series  HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(a3series)/variant.mpd    
+#EXTINF:-1 group-title="Lista 34",a3
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(a3series)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",STARTV
+https://dish.akamaized.net/Content/DASH/Live/channel(startvhd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",STARTV
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(startvhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Corazón
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecacorazon)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",CORA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecacorazon)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Telemundo HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(telemundohd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",TELE
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(telemundohd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",TNT Novelas
+https://dish.akamaized.net/Content/DASH/Live/channel(tntnovelashd)/variant.mpd   
+#EXTINF:-1 group-title="Lista 34",TNT NOV
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tntnovelashd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Pasiones  HD
+https://dish.akamaized.net/Content/DASH/Live/channel(pasioneshd)/variant.mpd   
+#EXTINF:-1 group-title="Lista 34",PASIO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(pasioneshd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Kanal D Drama 
+https://dish.akamaized.net/Content/DASH/Live/channel(kanalddrama)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",KANAL DRA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(kanalddrama)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Vive Kanal D Drama 
+https://ssaisas.serverside.ai/resolver/hls/view/e6fbbdf8-9025-44f0-9716-4ff27f573b5e?api-key=1059692f-b40a-42ae-b3a4-15c598cc17bc https://vivekanalddrama.akamaized.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Ve Plus HD Latam 
+https://dish.akamaized.net/Content/DASH/Live/channel(veplus)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",VE
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(veplus)/variant.m3u8 
+
+#EXTINF:-1 group-title="Lista 34",Novelisima
+https://dish.akamaized.net/Content/DASH/Live/channel(novelisima)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",NOVE
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(novelisima)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Discovery Home & Health
+https://dish.akamaized.net/Content/DASH/Live/channel(discoveryhomeandhealthhd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",DIS HH
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(discoveryhomeandhealthhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Food Network
+https://dish.akamaized.net/Content/DASH/Live/channel(foodnetwork)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",FOOD
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(foodnetwork)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Discovery World
+https://dish.akamaized.net/Content/DASH/Live/channel(discoveryworld)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",DIS WO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(discoveryworld)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",HGTV
+https://dish.akamaized.net/Content/DASH/Live/channel(hgtv)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",HGTV
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(hgtv)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",TLC
+https://dish.akamaized.net/Content/DASH/Live/channel(tlchd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",TLC
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tlchd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",ID
+https://dish.akamaized.net/Content/DASH/Live/channel(investigationdiscoveryhd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",ID
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(investigationdiscoveryhd)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Clic 
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecaclichd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",CLIC
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecaclichd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",a   más
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecamas)/variant.mpd  
+#EXTINF:-1 group-title="Lista 34",A MAS
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecamas)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",El  Gourmet
+https://dish.akamaized.net/Content/DASH/Live/channel(e_gourment)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",GOUR
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(e_gourment)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Mas Chic
+https://dish.akamaized.net/Content/DASH/Live/channel(mas_chic)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",MAS
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mas_chic)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",FashionBox
+https://dish.akamaized.net/Content/DASH/Live/channel(fashionbox)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",FASHI
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(fashionbox)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",HOLA! TV
+https://dish.akamaized.net/Content/DASH/Live/channel(93b5438f-d00d-3a75-e257-95bdb326e721)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",HOLA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(93b5438f-d00d-3a75-e257-
+95bdb326e721)/variant.m3u8 E! Entertainment TV
+ 
+#EXTINF:-1 group-title="Lista 34",E
+https://dish.akamaized.net/Content/DASH/Live/channel(e_entertainment_hd)/ variant.mpd" 
+#EXTINF:-1 group-title="Lista 34",E
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(e_entertainment_hd)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Latin Angels
+https://dish.akamaized.net/Content/DASH/Live/channel(latinangelgirlshd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",LATIN
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(latinangelgirlshd)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Show Business TV HD
+https://dish.akamaized.net/Content/DASH/Live/channel(showbusinesstvhd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",SHWO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(showbusinesstvhd)/
+variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Azteca Internacional
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecainternacionalhd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",AZTECA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecainternacionalhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Antena 3 Internacional
+https://dish.akamaized.net/Content/DASH/Live/channel(f20abae4-d469-344f-5bb4- 4fc88c1d683b)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",ANETAN
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(f20abae4-d469-344f-5bb4-
+4fc88c1d683b)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",TVE
+https://dish.akamaized.net/Content/DASH/Live/channel(tvespanolhd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",TVE
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tvespanolhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Europa Europa 
+https://dish.akamaized.net/Content/DASH/Live/channel(europa_europa)/variant.mpd   
+#EXTINF:-1 group-title="Lista 34",EUROPA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(europa_europa)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",TV5   Monde   HD
+https://dish.akamaized.net/Content/DASH/Live/channel(tv5mondehd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",TV5
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tv5mondehd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Caracol Internacional HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(caracoltvhd)/variant.mpd  
+#EXTINF:-1 group-title="Lista 34",CARACOL
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(caracoltvhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Arirang  TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Comedy Central
+https://dish.akamaized.net/Content/DASH/Live/channel(50dd60bc-94f1-a686-3a3f- a093154f9229)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",COMEDY
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(50dd60bc-94f1-a686-3a3f- a093154f9229)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",MTV
+https://dish.akamaized.net/Content/DASH/Live/channel(83640aad-3943-f226-67b6- 94086f915fd5)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",MTV
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(83640aad-3943-f226-67b6- 94086f915fd5)/variant.m3u8
+ 
+#EXTINF:-1 group-title="Lista 34",EXA TV
+https://dish.akamaized.net/Content/DASH/Live/channel(13c8fed2-46b8-3bfb-90ae- 34f938ae4b98)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",EXA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(13c8fed2-46b8-3bfb-90ae- 34f938ae4b98)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",MTV Hits Latin America 
+https://dish.akamaized.net/Content/DASH/Live/channel(MTV_Hits)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",MTV HI
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(7618ef68-db19-3c9f-d0a1- 44c3ed11c58d)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",MTV00S
+https://dish.akamaized.net/Content/DASH/Live/channel(mtv00shd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",MTV 00
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mtv00shd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Club  MTV 
+https://dish.akamaized.net/Content/DASH/Live/channel(clubmtvsd)/variant.mpd   
+#EXTINF:-1 group-title="Lista 34",CLUB MTV
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(clubmtvsd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",MTV 80's
+https://dish.akamaized.net/Content/DASH/Live/channel(mtv80sd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",MTV 80
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mtv80sd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Video Rola
+https://dish.akamaized.net/Content/DASH/Live/channel(videorolahd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",VIDEO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(videorolahd)/variant.m3u8  
+
+#EXTINF:-1 group-title="Lista 34",HTV
+https://dish.akamaized.net/Content/DASH/Live/channel(htv)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",HTV
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(htv)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Trace Latina
+https://tracelatina.akamaized.net/hls/live/2104849/tracelatina/playlist.m3u8     
+#EXTINF:-1 group-title="Lista 34",TRACE
+https://ssaisas.serverside.ai/resolver/hls/view/8e8fdc9d-687e-4a97-84ce-b3ec5e75a8d1?api-key=1059692f-b40a-42ae-b3a4-15c598cc17bc
+
+#EXTINF:-1 group-title="Lista 34",Trace Urban HD 
+https://traceurban.akamaized.net/hls/live/2104850/traceurban/playlist.m3u8    
+#EXTINF:-1 group-title="Lista 34",TRACE LA
+https://ssaisas.serverside.ai/resolver/hls/view/79a0cb21-0229-4c06-a07b-2ac81bbf1079?api-key=1059692f-b40a-42ae-b3a4-15c598cc17bc
+
+#EXTINF:-1 group-title="Lista 34",Discovery Kids
+https://dish.akamaized.net/Content/DASH/Live/channel(discoverykids)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",DISCOVERY KIDS
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(discoverykids)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Anime Onegai
+https://live.animeonegai.com/
+desktop94pq6o1cvu57ep6/076456b0e6f138491ee36b3abe0743fa.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Disney Channel 
+https://dish.akamaized.net/Content/DASH/Live/channel(disney_channel)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",DISNEY
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(disney_channel)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Disney Junior
+https://dish.akamaized.net/Content/DASH/Live/channel(disney_Junior)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",JURNIOR
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(disney_Junior)/variant.m3u8    
+
+#EXTINF:-1 group-title="Lista 34",Dreamworks
+https://dish.akamaized.net/Content/DASH/Live/channel(dreamworkshd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",DREA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(dreamworkshd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Nickelodeon 
+https://dish.akamaized.net/Content/DASH/Live/channel(Nickelodeon)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",NICK
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(Nickelodeon)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Cartoon Network HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(cartoonnetworks)/variant.mpd     
+#EXTINF:-1 group-title="Lista 34",CARTOON
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(cartoonnetworks)/
+variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Fix&Foxi  HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(fixandfoxihd)/variant.mpd  
+#EXTINF:-1 group-title="Lista 34",FIX
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(fixandfoxihd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Clan Tv
+https://dish.akamaized.net/Content/DASH/Live/channel(clantvhd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",CLAN
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(clantvhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Nick Jr.
+https://dish.akamaized.net/Content/DASH/Live/channel(nickjrhd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",NICK
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(nickjrhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Cartoonito
+https://dish.akamaized.net/Content/DASH/Live/channel(cartoonitohd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",CARTOO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(cartoonitohd)/variant.m3u8
+
+
+
+#EXTINF:-1 group-title="Lista 34",Baby1
+https://dish.akamaized.net/Content/DASH/Live/channel(648fabb8-962b-0e85-93d5-44d56a12851e)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",BABY
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(648fabb8-962b-0e85-93d5-   44d56a12851e)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Baby  Tv
+https://dish.akamaized.net/Content/DASH/Live/channel(babytv)/variant.mpd  
+#EXTINF:-1 group-title="Lista 34",BABYTV
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(babytv)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Discovery Channel
+https://dish.akamaized.net/Content/DASH/Live/channel(discoverychannelhd)/manifest.mpd
+
+8aba4faf1f6acb51cbde42de8c7add3d:c78da1bf648851714612ec36a187ab7a 
+#EXTINF:-1 group-title="Lista 34",DISCO CHA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(discoverychannelhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",DIS CI
+Discovery Science https://dish.akamaized.net/Content/DASH/Live/channel(discoveryscience)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",DIS CI
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(discoveryscience)/  variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Discovery Theater HD
+https://dish.akamaized.net/Content/DASH/Live/channel(discoverytheater)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34", DISC THE
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(discoverytheater)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Animal Planet
+https://dish.akamaized.net/Content/DASH/Live/channel(animalplanethd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",ANMAL
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(animalplanethd)/
+variant.m3u8
+ 
+#EXTINF:-1 group-title="Lista 34",National Geographic
+https://dish.akamaized.net/Content/DASH/Live/channel(national_geographic)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",NATIO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(national_geographic)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",History
+https://dish.akamaized.net/Content/DASH/Live/channel(history)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",HISTORY
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(history)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",History 2
+https://dish.akamaized.net/Content/DASH/Live/channel(history2hd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",H2
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(history2hd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",World of Business Ideas 
+https://dish.akamaized.net/Content/DASH/Live/channel(wobihd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",IDEAS
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(wobihd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Curiosity Stream 
+https://dish.akamaized.net/Content/DASH/Live/channel(curiositystreamhd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",CURIOSITY
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(curiositystreamhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",FILMEX DOCUMENTALES
+https://dish.akamaized.net/Content/DASH/Live/channel(filmexdocumentaleshd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",FILMEX
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(filmexdocumentaleshd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Classic Arts Showcase
+https://dish.akamaized.net/Content/DASH/Live/channel(69640806-9c20-bb90-cd6e-483ab61cdc9e)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",CLASSIC
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(69640806-9c20-bb90-cd6e-483ab61cdc9e)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Agrotendencia
+https://dish.akamaized.net/Content/DASH/Live/channel(agrotendenciatvhd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",AGRIO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(agrotendenciatvhd)/ variant.m3u8
+
+
+
+#EXTINF:-1 group-title="Lista 34",Canal  ESNE
+https://dish.akamaized.net/Content/DASH/Live/channel(4f73ec8e-3b3f-51db-2a8d-ac9ae0ff0fa4)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",ESNE
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(4f73ec8e-3b3f-51db-2a8d-ac9ae0ff0fa4)/variant.m3u8
+
+
+ 
+#EXTINF:-1 group-title="Lista 34",Discovery Turbo
+https://dish.akamaized.net/Content/DASH/Live/channel(discoveryturbohd)/variant.mpd  
+#EXTINF:-1 group-title="Lista 34",TURBO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(discoveryturbohd)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Azteca Deportes
+https://dish.akamaized.net/Content/DASH/Live/channel(aztecadeporteshd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",DEPOR
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecadeporteshd)/ variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",FOX Sports (Cono Norte México)
+https://dish.akamaized.net/Content/DASH/Live/channel(foxsportshd)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",FOX
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(foxsportshd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Fox Sports 2	HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(foxsports2hd)/variant.mpd  
+#EXTINF:-1 group-title="Lista 34",FOX 2
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(foxsports2hd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Fox Sports 3 (Cono Norte) 
+https://dish.akamaized.net/Content/DASH/Live/channel(foxsports3hd)/variant.mpd  
+#EXTINF:-1 group-title="Lista 34",FOX 3
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(foxsports3hd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Fox Sports Premium 
+https://dish.akamaized.net/Content/DASH/Live/channel(foxsportsprhd)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",FOX PRE
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(foxsportsprhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Claro Sports 
+https://dish.akamaized.net/Content/DASH/Live/channel(clarosports)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",CLARO
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(clarosports)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",DocuBox HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(docuboxhd)/variant.mpd    
+#EXTINF:-1 group-title="Lista 34",DOCU
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(docuboxhd)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",ESPN
+https://dish.akamaized.net/Content/DASH/Live/channel(espn)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",ESPN
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(espn)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",ESPN 2
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_2)/manifest.mpd 
+#EXTINF:-1 group-title="Lista 34",ESPN2
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(espn_2)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",ESPN Tres North 
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_3)/manifest.mpd   
+#EXTINF:-1 group-title="Lista 34",ESPN3 
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(espn_3)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",ESPN EXTRA
+https://dish.akamaized.net/Content/DASH/Live/channel(espn_extra)/manifest.mpd
+#EXTINF:-1 group-title="Lista 34",ESPN  ESTRA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(espn_extra)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",TVC Deportes 
+https://dish.akamaized.net/Content/DASH/Live/channel(tvcdeportes)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",TVC
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tvcdeportes)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",AyM Sports
+https://dish.akamaized.net/Content/DASH/Live/channel(aymsports)/variant.mpd
+#EXTINF:-1 group-title="Lista 34",AYM
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aymsports)/variant.m3u8
+ 
+#EXTINF:-1 group-title="Lista 34",TyC Sports International
+https://dish.akamaized.net/Content/DASH/Live/channel(tycsports)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",TYV
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tycsports)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",NBA TV International (Spanish) HD
+https://dish.akamaized.net/Content/DASH/Live/channel(nbatvhd)/variant.mpd    
+#EXTINF:-1 group-title="Lista 34",NBA
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(nbatvhd)/variant.m3u8
+
+The Golf Channel Latinoamerica https://dish.akamaized.net/Content/DASH/Live/channel(golflatin)/variant.mpd   https://dish.akamaized.net/Content/HLS_MP4/Live/channel(golflatin)/variant.m3u8
+
+Fastnfunbox HD https://dish.akamaized.net/Content/DASH/Live/channel(fastandfunhd)/variant.mpd       https://dish.akamaized.net/Content/HLS_MP4/Live/channel(fastandfunhd)/variant.m3u8
+
+PX Sports HD https://dish.akamaized.net/Content/DASH/Live/channel(pxsports)/variant.mpd      https://dish.akamaized.net/Content/HLS_MP4/Live/channel(pxsports)/variant.m3u8
+
+Outdoor Channel https://dish.akamaized.net/Content/DASH/Live/channel(outdoor)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(outdoor)/variant.m3u8
+
+World Fishing Network HD (US)
+https://dish.akamaized.net/Content/HDALS_HM/PL4i/vLei/vceh/acnnhealn(newlor(lwdofrilisdhfisnsgghh)ii/nvvga)r/ivanrti.amnptd.m3u8           FUEL TV
+https://dish.akamaized.net/Content/DASH/Live/channel(fueltvhd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(fueltvhd)/variant.m3u8
+
+Moto ADV TV HD
+https://dish.akamaized.net/Content/DASH/Live/channel(motoadvtvhd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(motoadvtvhd)/variant.m3u8
+
+FightBox   HD https://dish.akamaized.net/Content/DASH/Live/channel(fightboxhd)/variant.mpd       https://dish.akamaized.net/Content/HLS_MP4/Live/channel(fightboxhd)/variant.m3u8
+
+Dazn Combat
+https://ssaisas.serverside.ai/resolver/hls/view/32de385b-ba6e-4f5f-aeeb-    bc50889a7b1f?api-key=1059692f-b40a-42ae-b3a4-15c598cc17bc https://dazncombat.akamaized.net/playlist.m3u8
+
+Ginx TV International https://dish.akamaized.net/Content/DASH/Live/channel(ginxesportstvhd)/variant.mpd  https://dish.akamaized.net/Content/HLS_MP4/Live/channel(ginxesportstvhd)/ variant.m3u8
+
+Gametoon HD https://dish.akamaized.net/Content/DASH/Live/channel(gametoon)/variant.mpd     https://dish.akamaized.net/Content/HLS_MP4/Live/channel(gametoon)/variant.m3u8
+
+Trace Sports Stars International HD https://dish.akamaized.net/Content/DASH/Live/channel(tracesports)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tracesports)/variant.m3u8 Milenio HD
+ 
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(mileniohd)/variant.m3u8 https://dish.akamaized.net/Content/DASH/Live/channel(mileniohd)/variant.mpd
+
+Teleformula https://dish.akamaized.net/Content/DASH/Live/channel(teleformula)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(teleformula)/variant.m3u8
+
+CNN en Español https://dish.akamaized.net/Content/DASH/Live/channel(cnn)/variant.mpd     https://dish.akamaized.net/Content/HLS_MP4/Live/channel(cnn)/variant.m3u8
+
+CNNI Latin America https://dish.akamaized.net/Content/DASH/Live/channel(cnninternacional)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(cnninternacional)/ variant.m3u8
+
+BBC World News (Latin America) HD https://dish.akamaized.net/Content/DASH/Live/channel(bbcworldnews)/variant.mpd      https://dish.akamaized.net/Content/HLS_MP4/Live/channel(bbcworldnews)/variant.m3u8
+
+Canal 24H https://dish.akamaized.net/Content/DASH/Live/channel(24hours)/variant.mpd   https://dish.akamaized.net/Content/HLS_MP4/Live/channel(24hours)/variant.m3u8
+
+ 
+France 24
+htdtnpts:=/e/xlpi=v1e7.1f7r6a6n4c22e2144~~.acolm=/live/F24  FR  HI
+ 
+
+HLS/playlist.m3u8?
+ 
+*~hmac=27e64a1aaf96ba059ee44e4920c22042f725743b923fee61d3174ec09104a815&partner=dis   h_mexico
+
+France 24 Español SD https://live.france24.com/live/F24_ES_HI_HLS/playlist.m3u8?      hdnts=exp=1685952438~acl=/live/F24_ES_HI_HLS/
+*~id=distribution~hmac=f4e4caad32c493898c0d06d4de0850be8c2501790f3aa716e65d6e011641  fbfa&partner=dish-mexico
+
+France 24 English https://live.france24.com/live/F24_EN_HI_HLS/playlist.m3u8?   hdnts=exp=1685952438~acl=/live/F24_EN_HI_HLS/
+*~id=distribution~hmac=f4e4caad32c493898c0d06d4de0850be8c2501790f3aa716e65d6e011641  fbfa&partner=dish-mexico
+
+Bloomberg	TV HD, https://dish.akamaized.net/Content/DASH/Live/channel(bloombergtvhd)/variant.mpd    https://dish.akamaized.net/Content/HLS_MP4/Live/channel(bloombergtvhd)/variant.m3u8
+
+TNT
+https://dish.akamaized.net/Content/DASH/Live/channel(tnt)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tnt)/variant.m3u8
+
+MC
+https://dish.akamaized.net/Content/DASH/Live/channel(6f29f4bb-a84c-6924-9782-    a5647d2146a0)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(6f29f4bb-a84c-6924-9782-    a5647d2146a0)/variant.m3u8
+
+
+Cinemax https://dish.akamaized.net/Content/DASH/Live/channel(cinemax)/variant.mpd
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(cinemax)/variant.m3u8
+ 
+Multipremier
+https://dish.akamaized.net/Content/DASH/Live/channel(526dd1aa-3af4-bca0-f021- f48180f1974a)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(526dd1aa-3af4-bca0-f021- f48180f1974a)/variant.m3u8
+
+Cinecanal https://dish.akamaized.net/Content/DASH/Live/channel(cinecanal)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(cinecanal)/variant.m3u8
+
+Studio Universal https://dish.akamaized.net/Content/DASH/Live/channel(studio_universal)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(studio_universal)/ variant.m3u8
+
+Paramount Network https://dish.akamaized.net/Content/DASH/Live/channel(Paramount)/variant.mpd   https://dish.akamaized.net/Content/HLS_MP4/Live/channel(Paramount)/variant.m3u8
+
+Claro Cinema HD https://dish.akamaized.net/Content/DASH/Live/channel(clarocinemahd)/variant.mpd       https://dish.akamaized.net/Content/HLS_MP4/Live/channel(clarocinemahd)/variant.m3u8
+
+A3 Cine HD
+
+https://dish.akamaized.net/Content/DASH/Live/channel(a3cine)/variant.mpd  https://dish.akamaized.net/Content/HLS_MP4/Live/channel(a3cine)/variant.m3u8
+
+Cine  Latino  HD
+https://dish.akamaized.net/Content/DASH/Live/channel(b4540d49-0e51-9219-ced1- 8624e83e6bf3)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(b4540d49-0e51-9219-ced1- 8624e83e6bf3)/variant.m3u8
+
+Filmex https://dish.akamaized.net/Content/DASH/Live/channel(filmexhd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(filmexhd)/variant.m3u8
+
+Cine Estelar https://dish.akamaized.net/Content/DASH/Live/channel(cineestelarhd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(cineestelarhd)/variant.m3u8
+
+Cinema https://dish.akamaized.net/Content/DASH/Live/channel(aztecacinemahd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(aztecacinemahd)/ variant.m3u8
+
+Filmex Clasico https://dish.akamaized.net/Content/DASH/Live/channel(filmexclasicohd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(filmexclasicohd)/ variant.m3u8
+
+Cine Nostalgia https://dish.akamaized.net/Content/DASH/Live/channel(cinenostalgiahd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(cinenostalgiahd)/ variant.m3u8
+
+Film & Arts https://dish.akamaized.net/Content/DASH/Live/channel(film_and_arts)/variant.mpd
+ 
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(film_and_arts)/variant.m3u8
+
+FilmBox Arthouse https://dish.akamaized.net/Content/DASH/Live/channel(filmboxarthousehd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(filmboxarthousehd)/ variant.m3u8
+
+Cindie Lite https://cindielite.akamaized.net/scheduler/scheduleMaster/387.m3u8   https://ssaisas.serverside.ai/resolver/hls/view/32ca0212-d1f5-4b40-a18b-  3475390580ad?api-key=0a758571-c139-4a3e-829e-78eeea50cd09
+
+TVCortos https://dish.akamaized.net/Content/DASH/Live/channel(tvcortoshd)/variant.mpd  https://dish.akamaized.net/Content/HLS_MP4/Live/channel(tvcortoshd)/variant.m3u8
+
+HBO
+https://dish.akamaized.net/Content/DASH/Live/channel(a4bb2449-4f30-142f-1e65- d757b3d53b78)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(a4bb2449-4f30-142f-1e65- d757b3d53b78)/variant.m3u8
+
+HBO 2
+https://dish.akamaized.net/Content/DASH/Live/channel(59866a3c-83ad-17d1-3025-   d9f794babca9)/variant.mpd
+
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(59866a3c-83ad-17d1-3025-   d9f794babca9)/variant.m3u8
+
+HBO Family
+https://dish.akamaized.net/Content/DASH/Live/channel(462e4822-6eac-91a1-f974- 311a8ed1b829)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(462e4822-6eac-91a1-f974- 311a8ed1b829)/variant.m3u8
+
+HBO Plus
+https://dish.akamaized.net/Content/DASH/Live/channel(e8dd8035-5c7e-f820-eec5- 65a93cc4b912)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(e8dd8035-5c7e-f820-eec5- 65a93cc4b912)/variant.m3u8
+
+HBO Signature
+https://dish.akamaized.net/Content/DASH/Live/channel(fdde0576-5d28-3fd0-68f9- 71719e2cccfe)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(fdde0576-5d28-3fd0-68f9- 71719e2cccfe)/variant.m3u8
+
+HBO Mundi
+https://dish.akamaized.net/Content/DASH/Live/channel(8bd5b62b-fad1-7abc-2cec- cb781f5f5f20)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(8bd5b62b-fad1-7abc-2cec- cb781f5f5f20)/variant.m3u8
+
+HBO POP
+https://dish.akamaized.net/Content/DASH/Live/channel(d46beb3e-6178-5996-6106-   413fbc44e12f)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(d46beb3e-6178-5996-6106-
+413fbc44e12f)/variant.m3u8  HBO Xtreme
+ 
+https://dish.akamaized.net/Content/DASH/Live/channel(c0d08eba-2d62-97ad-fbc6- 821201567186)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(c0d08eba-2d62-97ad-fbc6- 821201567186)/variant.m3u8
+
+Universal Premiere HD https://dish.akamaized.net/Content/DASH/Live/channel(UniversalPremiereWest)/  variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(UniversalPremiereWest)/  variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Universal Cinema HD
+https://dish.akamaized.net/Content/DASH/Live/channel(UniversalCinemaWest)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",un
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(UniversalCinemaWest)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",universal Comedy HD 
+https://dish.akamaized.net/Content/DASH/Live/channel(universalcomedy)/variant.mpd 
+#EXTINF:-1 group-title="Lista 34",come
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(universalcomedy)/variant.m3u8
+
+#EXTINF:-1 group-title="Lista 34",Universal Crime 
+https://dish.akamaized.net/Content/DASH/Live/channel(UniversalCrime)/variant.mpd   
+#EXTINF:-1 group-title="Lista 34",cri
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(UniversalCrime)/variant.m3u8 
+
+#EXTINF:-1 group-title="Lista 34",Universal Reality HD
+https://dish.akamaized.net/Content/DASH/Live/channel(UniversalReality)/variant.mpd
+
+#EXTINF:-1 group-title="Lista 34",rea
+https://dish.akamaized.net/Content/HLS_MP4/Live/channel(UniversalReality)/ variant.m3u8
+
+Playboy TV Latin America https://dish.akamaized.net/Content/DASH/Live/channel(playboyhd)/variant.mpd https://dish.akamaized.net/Content/HLS_MP4/Live/channel(playboyhd)/variant.m3u8
+
+Sexy Hot HD https://dish.akamaized.net/Content/DASH/Live/channel(sexyhothd)/variant.mpd      https://dish.akamaized.net/Content/HLS_MP4/Live/channel(sexyhothd)/variant.m3u8
+
+Sky Sports 1 MX
+https://bcovlive-a.akamaihd.net/5a138f0758ca4e0992a0ffb9359c2ef6/us-west- 2/6057994531001/ts-10380e91fda5e303-b91c129cf6654abd8f6440a30c1e52a2/ playlist_ts.mpd
+
+Sky Sports 6 MX
+https://bcovlive-a.akamaihd.net/7bc1911a899a45b2869e461ac516230c/us-west-  2/6057994531001/ts-10380e91fda5e303-4a437de1aef8401eaf6694b3a32aa293/ playlist_ts.mpd
 
