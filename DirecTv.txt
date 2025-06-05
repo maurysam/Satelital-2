@@ -1,70 +1,2453 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml""
-
-pastebin
-Paste Search Dynamic
-
-Recent pastes
-Death to god now. Death to all
-22 minutes ago
-Death to god now. Death to all
-22 minutes ago
-Death to god now. Death to all
-22 minutes ago
-Death to god now. Death to all
-22 minutes ago
-Death to god now. Death to all
-23 minutes ago
-Death to god now. Death to all
-23 minutes ago
-Death to god now. Death to all
-23 minutes ago
-Death to god now. Death to all
-23 minutes ago
-Death to god now. Death to all
-23 minutes ago
-Death to god now. Death to all
-23 minutes ago
-CANALES
 #EXTM3U
- 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Enlace-TV-en-vivo-Online.png" group-title="Canales",Enlace
-https://player-api.new.livestream.com/accounts/27460990/events/8266905/broadcasts/230726974.secure.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Enlace-Juvenil-TV-en-vivo-Online.png" group-title="Canales",EJTV
-https://player-api.new.livestream.com/accounts/27460990/events/8266929/broadcasts/230712925.secure.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-hkHuuQwF8Cs/WoHsOm5RLOI/AAAAAAAAcGI/QGRjaD2-pN8fVkbFncV9yc2tpO8dUNHOACLcBGAs/s200/CBNespanol.png" group-title="Canales",CBN EspaÃ±ol
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTlO9ybJHO3F08Op6-hLZQF1llwf6Av615HA&usqp=CAU" group-title="Canales",CNN En EspaÃ±ol
-https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8?__b__=650
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="Canales",Deutsche Welle EspaÃ±ol
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="Canales",France 24 EspaÃ±ol
-http://static.france24.com/live/F24_ES_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="Canales",The Box
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Canales",Box Hits
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CIRCNib.png" group-title="Canales",Stingray Classica
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tv&profilesFromStream=true
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="Canales",La casa acceso total
-https://dcs3-live.mp.lura.live/server/podserve/A4MWMDFvNwreF4Zj/rendition.m3u8?track=video-5&ts=1686078068&psi=249e0c6a661c46f64a776f2e6b2d2cfa&encp=4DsshooQtRRM99aEkRg7EA:KbnISbdwAt_8I-3oLpXOmVIuoppAO8Bfy7BYuHzAcvHWpArbiVwIZN2kwD3eP5m0eHCu3SDeO9Z5Dmv1X05ihqW1o6SesvpwAs9gqzL9BWSdvUEiZe3pNM-A5jEVQlNjSQ84vQltsT1Y12Jf06QG5eh5t_19FGJo4P4Zud4ZmcbdC5J4zzKET4IuId-Aws_eYg1ItVcmMmajsKUhmRRXmsf3-oycKjl0lCXUKA8riXv8QiePNNlUSBaUFIiQb_EhpCScnSrntWEtz2fBHRUsDyw2XXBlb-msfwOwg4pNS_hySr67iRaw5nKp4cEvisgvX8-sLFIJcLiQ-udu2aX_2VDhy_9kyKxvcLbXPpH9EkuZX791pAvLbl5Cmls36Muw2Mvc8BBllepslxdTpuDsJvqZpe96tK6_PM3R3zlQ--t1_yutz7gahaAyDlnk3TqGQXtAezPCujAqFXR0ByvJrZEoKWK5rSv1TxlNFbDmLJE7KLOnzHEh-bPxrG7w9WRGanRpLOXYYg31mk92s8fx5NFeBHiOYizdsTni7Yb2x4BbFXcwjJJi9BPoAbr0cQP2l9wV0sLSNOCFelRp4uSz96uaESWBV42-wO0CdqUVyaXc8VlYzHdz5zWntf4m28Djn6GPAg5yxBSwOaV2k3BTy3WFIB7O0X397quE1YOakX8_GoDqH5vBJ4DWjkv5yxZcNnrpT9VzWqntEKXl8hy5SKx0lei0k0kTAddDivvckIqW39DepG7B4JJm0C37l1Ji6cJFfB0PTWuQB5Jqju3LC55xW3ZT-zd4-ZrNftTuvDZB8nkr4rftpsRJ-36XS04dsmP3wy1NSAJVPOLWmBJbqCIvhj_nu0yVsuFrzGH-YKF7mqZKIwdt9cp4C0W4I6SqRH_nKfbOS6PTeAiqPVZcEeKajDCaC5ZhOTGuvhdWaRtS-F3daTolm6u7MoyqG60qYmsdqfZ2kmbuQJLb16TjsKNOIrC6U9CjcktX8CjNCk0S1BDb0-iCYeTLbEWV8dK94d3Rf8Qk-hRztr3eGRNjBspUOM6W5_9VK5Ku6gPahCa0Sylme2Neke64s5czcdD9Ax15BRoMeoXiFVP94OT0AhQDYBEgLtXbLuUd6K1whYg&sid=cef51b63-53cc-4eb1-a89d-46def14a3122:TUL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="Canales",La casa 24 7 en vivo
-https://dcs3-live.mp.lura.live/server/podserve/A4MWMDFvNwreF4Zj/rendition.m3u8?track=video-5&ts=1686078068&psi=249e0c6a661c46f64a776f2e6b2d2cfa&encp=4DsshooQtRRM99aEkRg7EA:KbnISbdwAt_8I-3oLpXOmVIuoppAO8Bfy7BYuHzAcvHWpArbiVwIZN2kwD3eP5m0eHCu3SDeO9Z5Dmv1X05ihqW1o6SesvpwAs9gqzL9BWSdvUEiZe3pNM-A5jEVQlNjSQ84vQltsT1Y12Jf06QG5eh5t_19FGJo4P4Zud4ZmcbdC5J4zzKET4IuId-Aws_eYg1ItVcmMmajsKUhmRRXmsf3-oycKjl0lCXUKA8riXv8QiePNNlUSBaUFIiQb_EhpCScnSrntWEtz2fBHRUsDyw2XXBlb-msfwOwg4pNS_hySr67iRaw5nKp4cEvisgvX8-sLFIJcLiQ-udu2aX_2VDhy_9kyKxvcLbXPpH9EkuZX791pAvLbl5Cmls36Muw2Mvc8BBllepslxdTpuDsJvqZpe96tK6_PM3R3zlQ--t1_yutz7gahaAyDlnk3TqGQXtAezPCujAqFXR0ByvJrZEoKWK5rSv1TxlNFbDmLJE7KLOnzHEh-bPxrG7w9WRGanRpLOXYYg31mk92s8fx5NFeBHiOYizdsTni7Yb2x4BbFXcwjJJi9BPoAbr0cQP2l9wV0sLSNOCFelRp4uSz96uaESWBV42-wO0CdqUVyaXc8VlYzHdz5zWntf4m28Djn6GPAg5yxBSwOaV2k3BTy3WFIB7O0X397quE1YOakX8_GoDqH5vBJ4DWjkv5yxZcNnrpT9VzWqntEKXl8hy5SKx0lei0k0kTAddDivvckIqW39DepG7B4JJm0C37l1Ji6cJFfB0PTWuQB5Jqju3LC55xW3ZT-zd4-ZrNftTuvDZB8nkr4rftpsRJ-36XS04dsmP3wy1NSAJVPOLWmBJbqCIvhj_nu0yVsuFrzGH-YKF7mqZKIwdt9cp4C0W4I6SqRH_nKfbOS6PTeAiqPVZcEeKajDCaC5ZhOTGuvhdWaRtS-F3daTolm6u7MoyqG60qYmsdqfZ2kmbuQJLb16TjsKNOIrC6U9CjcktX8CjNCk0S1BDb0-iCYeTLbEWV8dK94d3Rf8Qk-hRztr3eGRNjBspUOM6W5_9VK5Ku6gPahCa0Sylme2Neke64s5czcdD9Ax15BRoMeoXiFVP94OT0AhQDYBEgLtXbLuUd6K1whYg&sid=cef51b63-53cc-4eb1-a89d-46def14a3122:TUL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="Canales",CÃ¡mara 1
-https://dcs3-live.mp.lura.live/server/podserve/0m535qFNEeoKIXx0/rendition.m3u8?track=video-5&ts=1686078268&psi=85eded56d3f207c0b49242f63ff94b31&encp=UMKeYPtsrIXxT2gQPc0GpQ:SDpx0gMU6U-Qtq65VKfFAthIhXTWCf2qGfiGCV9xKM3pxxti0zuz-TxGtlX2uy8QDQ29B1dK5Ib86-Q7Ye1O2RKFHRu6TS51JQS0jhbqdMMkwnRuxTnopbCa_SMcZC24mLwMo_gp0-qlnFiUskJO8rEWiWid5vx8wDMWQrCjp5qVn6NX6lipz34eJVlBd6Cva8kLLcop2f9a9Vs9qtV5t1V-yA5AI2pycKvTAMUY8w4PaU_Z5nQnTDhvc6QT7chTKrmjV4nLy_YJeVwCem0sEkVGzj7hVaaTfQjRyR6K6Wx6bn11hWVRAMHXjkT9AidIw2CPoZg_NdUGw2pS2HZsuUXiViSCej-5Tt41yMUVbMtQdHgHdEDTb3IRvhAs7rQFBo-0PMB8dYcohRdeqqgQJEKBdx1JhEM5Gf5KnJRTaYqUwQkCzgInhZMcYF9DAj5ygq4JSCK20bq0_Xo2omoyllOsKR3sM_yzIVWl3xgn7eTTvHHlaJMSqMIXMU0VCKU3ekCQXhsrEfDz4TFyg6Z18i8ylFa_mcqn7MFrVgdf2d-Y53oJta34kYXD3F9OHD8undp8FPKNFFTGfqGncG7xrxRE3rjxzaOw8WBsrhVvV6-LDMFW_1hDET3YJuR26tzu1N3kGRjzbbyywNx-68emYwHjvGjSUYMZEjx8FLHI-mt7YGBMfa7CHjHAbH6Xa7aIok9e7Jio8askftLVMY4Obk1h4uorI9qbEHYBJfvWGcg78aUNWsYEWfGiIIpAWO3VUE42QJChSuDoOs2RPxdQX79N1HMeSEzk-BN-T52XaV-c6__CSA5fPPhG2Mfv7wHC6Y5mkkMdKCyqsAmEIjgUzgcn2yxuKlTsYrW5jUlIlkkPARja5M9n3Dauo5FUyX2Ph5k5K_O6Dn-fDAhGmp9I8y3uhMhimYD9OfOcMxXOEvzybmd6UaEcWwTQOkxi1a3FoaypqB0URBDTs6a-lBSdNEDys1rM6XvJq-UI8XFwd0DY6ioeHAmVP_qp1cWRNCs--ERVJDotTdsEOfr9knjarr-7ltq3LLAkB62AQx_qzwFEpfOUmBqM2gfqbwomNAM6jqc_5qPnO9d4cL4ZnYzANlv7p2CY8I3R-eai5kTVh7s&sid=b53d4bd4-1014-48da-9c5e-2df6b5f60d8a:DLS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="Canales",CÃ¡mara 2
-https://dcs3-live.mp.lura.live/server/podserve/AzX9XeTnwbXQS9Z7/rendition.m3u8?track=video-4&ts=1686078389&psi=7ef4a6c8a97500646dd47e721e92283f&encp=BCGNcjDtcI6mB0dAbNt5Tg:Otc43vvouLR2svO39yZu5lRGb3HhQ3szNdxqilLW-DlFo-w5NA9gqDEims5UAhWmcAOb8hYKm1QjcbhO3udMkdZ3jqIk_2kO5KTNAscSGYpMqOWpKuOvemiINCsvTfVf7xj3DAlEeghzFPQnPkrXtvt58i_xfJnSnpMmJzeaNLl3tJu1iPSKl6tQmD1g12lm_6SIenRzCi1SpBe6B15Qi0t1-JlKXSMBj7dxd-bQyA1AFUrCLcQCIBFv4SRfUnmWCblczpMvBdKzksBsmLKobl8RH-aUPT_BsN5_bdeRr5YbcUtO51M3U_OCUQCFs_0cVYk7W6t3666m77CktPfAV5aq5ybXhThozP29Ts6T4lsz6MVMN4JtBuNkqjZ6OcEVvfIxNCAACSEioVFREF2URwXcq07MzSGWM7MfP5dZjCTQd5ueWntdnudwSigbrOAeW8vqfwCDkI2hmps1qZK-7GYWzfY6uqo7D6UybL_Ya6r5FQvpDah-5rIpdTalEH2wUe2-B3B5I65gOC1pZ0UU1m_RI8vvsI88CuGsUClkJyyDMt6fHfl65ACPTKnl3uBHaR3C7vbBsBHr9REfadQL14Pvg-nJberw10bAiLkIo2SAU3XvPFC5R_37smww3w8z0Quds14_N3ZUQ7aY663t5WeG2Cf5oRCd72MDke9L9y_N8wZtud87VUd0k4QlzIPATlGiUI6Eh9RAGVHfFMwlfzglMVSbZX_BZZhlIvzlClBgEV6AbfnZJM-cqHV3jRXaezzI076rPjlIdkKG5CKRfFgS7AsAr2z3xH5FOmPXmER9hMhdSGJcgrWFhWQdQeiKpGjrChHAaffpTISGoTya8G9pN04p2e8__fd8zKH0R6ov5NxbIsi3dptCu1ars_iPGzcMAdeNCfrmSbLPml1e7hWf30jtt6vCC6jqVBMTzfpUdQgNVSapdctLyw4FgZvzn_kh_R5P-lHjOItIZWAc8Z-MlA6Yy3FoDzzIfWRthRR6i0I8IscNF51mTMg9P6Vw-CDlislBC3v7zH_jN6IdyroYMPy4lYXe9FDmu3f5fxxtG_J4kcxKpo49tFqTAYMbFmFOgEocqjTzjLeoZv_7D4BGLEl6HZMJvow2FyceLns&sid=34de74b8-8955-45ac-974a-0be00f73c2f2:MRN2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="Canales",CÃ¡mara 3
-https://dcs3-live.mp.lura.live/server/podserve/Aazyz4fOD2Pgsbgj/rendition.m3u8?track=video-5&ts=1686078471&psi=7830a308fc296d57daf15f1598a84374&encp=bXQ5Bq5aB_xvdI1y5d2IZg:uB9xXxaejwhPjIvk2cHv8Cw4EGztzUSmQjaa1QetTwPO70MeZCudReYbB4kkoI9bsTRN3gumvPo6T5_byFsgyzwgofh-GDUjWBkeL9RiXIJK3VVzLAJH6aQE7rX8FhQj43HhJy5iQYMmi3TEK3MJx9oBYayzziwz-6pXKWgFWtHkoTmVEgjmaAU4O4d3_ZL8czf8Jg3a8UyYtLZm2OuZOv3l6as-v6iC5OY_D8Cu4tc7nJSmPoHkWFeAXhSExjOWhvmBvAEZyGDcgg2iGh8oQ2O5lLDD1NysUqWm7787aijEUXCvdmQ4Qwuv_ebPi7cZIxJNkgBTqxqFsrXeBIkRstdXfjqOP_6gg-Q2NEh9Rq6u3xpOFva20VhEQtF_V972zYhuB8e4jz2NVui7MJnCcGu16bCrTHFi7aN__OyzltTZCaaZE-lkCj_QGKfqbW7d1UOZ5joj1s6TcngUjwu-zuHq3GYoWFSdikUFGIiRyrRz63bOWec4hr9LeDDImJ2wy-7qh857T0kJBQwtNFF9e73cqvqg62fkP7ymsKwMRvsYeFLAI11TKpum_ba5dATVFlJW3onrVYydpGzuFphOFINDcWiIZNS68y1cAE541jhjUP1ITuDbMv7fnKDccSyznJ33TvwQ4yUSiMpokDxDPsDt8ZACqk_4XRFJW0zGkn9larBFDdirokdcO3nA_3egDnFxqIcaOR9o0HKnOqXNDVdWaNJFyazKBNgLUm4V1-td1N-57haUPNZVp6kOSdTboHdskHOriEjhQ9svvLCSvQ_1BvIIJEs3WORtlQIsmvlA7ZR4M9DQnZMkmtMOYDXcIIYpp6KkoMBpBFzshH85AdMuvoDDhL5awmRBWA9jhGsvU0amXHtXnj_21zNfY2ny4-Iz54CEttEhquBjTfkSBbmrUJEyUXDAX2WJytVoTNW4wIBSKGZlf3BnpiztacmctSg42FJWMugOgyv7D8xg3VZKBqFt5g1DSjhNz9ubD7_gWV5-j6vK8dMfONsBGJtQ6WYOJY_JENsHXyqiPZ37E_h3XXx3PMoaUiH9GcvavYrALWPJe04gvFaFh9gND-qQqoOfPsXOVqyEmUvoCXCa2rKAAqV_Vs_qKNEbblDvU2s&sid=f984df01-7d1c-4c05-99b2-2537de78783a:MRN2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="Canales",CÃ¡mara 4
-https://dcs3-live.mp.lura.live/server/podserve/019n91h1VmpZsKw0/rendition.m3u8?track=video-5&ts=1686070035&psi=651fd0e5cd0946d26d19cc3caaea1ba4&encp=E18EtZWNCzEAGc712729IQ:OoW1AV8hsyi8beb7RbnUTTjSnagEGAv4TY_jiXlQoB-2pyMXW3qHvXZK5MmY80eU8VZU_x02LI-9rXWTcW4F0XxyIt3zqkyhWdCcYxd9rtvoK28NDn9m64bKOf3tlFJqArRyPBFn6VvDpJG5OyJVEi9fkDWmNzxnT1ViQeFqh7cdTcUA_i34ixpjnuFvpMcTcqMHzqZW_6mHaY4kb4vGTKbQQh3yLPClFpMCxcz4mu4uWJcfRdZeOeqkI1edEa9JUA6GOUffggEy1dEv7Qvx-6soGvyJs0iMaoBvD9a47cFPXFTyZFL2kbfMqltMyE3jvcLg-pMH63twBil5cMSOXRz_QoEUn2tqSvgJUs15uNZyFMz_JeK_WfmEXPDMvcpyvCfuRxbRueG6NjEp0kAymuM_GTXNgBTLUQlAISHCa_kA5trp-LapN2KtIy9Btb38M-8DTzS7KKtpgNWGpmRQTXt8yiM3MgqwJVIE1mmQ5lEPeaICmB3XjogVHh997kH4IvKtuAcUVSvZQOTxP0IgRHDAZJrasKjLITdRd_QldLfISARFMyZRqbWdmSezJhmF_uanFZ6c1FjgO-WAJPQ9HE7Rk9yHQXoPPaPgPLykDRst20ecRv3CiqsDt1rQfNj6RNCEz2QMsUcVr9AHFORjJv_gp6mijejle4Gr1q9hhGh_vqAyCo5VllrdmPAUBA_wY06EK44jNpHIsVzRo3bztM4fuRjboKx5m9ghg6STFsZ7ULqcqOFmdWayKcEFLdY03xB9ZEu1tb8JnQbFwXrivE2C7cZxadTYk8Iua3Ou-C_20ZLHFiUZxEMAh2XzbWFxxM83Ju_Bgojno2KImR4Lfqpg5QwyH6WdZffuhPUc2TZXsa3ZDu5BlpRPy05b4bybYNJSTZZMQpiAp4jAOLUj-vLlOTNEsf7p7zxSWPage8P5htyp6J4AvHEfHpbolf0OhXtXQKQsrE-5aRzZT-ZmPjcCmhQwSEkkPOy5zIdou7LUYG62-EmO4HvmSE6fX4GzbCMUjFAzV7hpqnj43CEOF63TIg8U6SWMCYU-myY5E8upVqe6mA2ieiilAquXXA1Ve3jC7vpDlZp__7F6-3ail11tVhUFGCTp3E_kCCaJw9k&sid=1dbf2dcd-58e2-4f04-8084-d71d17f67e70:DLS
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/LaCasaDeLosFamososM%C3%A9xico.png" group-title="Canales",CÃ¡mara 5
-https://dcs3-live.mp.lura.live/server/podserve/7RWKW6uLlrqoFg90/rendition.m3u8?track=video-5&ts=1686070116&psi=f8097eddd8b8d77d05391212b2859b12&encp=w9clIGq90lz1xoHPt6eWtg:uWPxUdO_ej-g55EWbky_pCzo9-E5SrATrbH9DTXNqV6a52aWn2_1LODjjYNzHELhn5tIt4IOdekASfMuXkVV93MK5kyiC6Ku-Rk4Bt2M5dFNf2bn8sfvcwh4orb4heirah732Ay9gWYmBe6u274aED4LN6ELwJ1OxM8m7cn5kFRf3jXvxStXQOo_5sHO597cPIPGyIy2rHBFl23iFBGdb21IIcKAWGktizE6tEVSHsBbrnqt1n4IUaOTNeMMJdEnPQx3LM0Ci3hlUBYoQAPoiCaEJCX5wunQcpnLKiTNQ0_A2UwfwbWWafhZi_-_Fuo4VleUQue63_yfpo63JMOMXeGmyCPXsiFFSOdwQ2ScXD-hgvUStZNpg2eCGmGCgzFgfp1NmsNHIv420-SlIgn7XwC6cJRzDHUaR_l_LBQtPdMcTvsiF2wlzAkssMRR2OEbnMiLVJwtGWCwyTGi6bed97xtn9FOI3rZ0umZGZT-PAWUliBPMywRCp1H95U7qUeNNvHfkU5BLjomuT0BLKAahXp08H1tXMK9KfaAVjFypVdd1P_c3WE56fXwF8_4zlN1wwhzacTfZOR6i70l-JE3-O4Zzdam5_3MSd_zHK0q4dokPgjg5ycQYSmOsnsojVRhnDl7L9WF4XWdizt3L_C2IG1B2-Q19OFZvclqeT9cUf3NCJhRnfljfB6ScRQCGGzOABmtmWzHexXGcxNWaiLzXVEsuMl4oZlx7v5uE4a38x9Ml_Ugo4nHJ6Z1iL1l0GwIIp0Sh5wsBURTis51j-w56Lth4KNyXrCMS2dja_KlDhyfwQO2zm47-6RV_DeQUp3wI3iOYN8ttrokV_MLk-vygRG1hyptrxhCFeD947CPuWZ4bAANMgHFALgwfLhcTSY3fb07klgeQIZqvWMjWUVuNjwGMJnqn3Er1YovVokhMt9fIzSZAdunnOXe9zXqJuKQIkSoyw0orMxIOlPJFudq5Q4xoaWcaeC8M9oOdH1d2kU6iC4fVFkJ93-fWLmMm0SWBPOSfN2427EqNclYx4kDADbHBq0OEFS7E_grMgVM4VcjKC3Ijo1mTJwS6pf1J_3vtOGsonI9UuaxdT-iWIJLJhXUy5MZ7rG_wQGgy3Xxxss&sid=25a02237-d557-45a3-b669-33368a2f5243:DLS
-Parsed in 0.003 seconds
 
-comments powered by disqus
+#EXTINF:-1 group-title="TNT", TF1
 
-pastebin - Proudly developed by Php-Pastebin V.2 Rev: 9
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
 
+#EXTINF:-1 group-title="TNT", france 2 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
+
+#EXTINF:-1 group-title="TNT", CANAL+
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
+
+#EXTINF:-1 group-title="TNT", france 5
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
+
+#EXTINF:-1 group-title="TNT", M6
+
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
+
+#EXTINF:-1 group-title="TNT", arte
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
+
+#EXTINF:-1 group-title="TNT", C8
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
+
+#EXTINF:-1 group-title="TNT", W9
+
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
+
+#EXTINF:-1 group-title="TNT", TMC
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
+
+#EXTINF:-1 group-title="TNT", TFX
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
+
+#EXTINF:-1 group-title="TNT", NRJ 12
+
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+
+#EXTINF:-1 group-title="TNT", LCP
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u8
+
+#EXTINF:-1 group-title="TNT", france 4 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
+
+#EXTINF:-1 group-title="TNT", BFM TV
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", CNEWS
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnewsdm.m3u8
+
+#EXTINF:-1 group-title="TNT", CSTAR
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
+
+#EXTINF:-1 group-title="TNT", Gulli
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
+
+#EXTINF:-1 group-title="TNT", TF1 Séries Films
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=b002b139dcc7149a8c1de34168332842:a77fda48fd486c153e8cb4d93a51831c
+
+#EXTINF:-1 group-title="TNT", Infosport+
+
+https://viamotionhsi.netplus.ch/live/eds/infosportplus/browser-dash-VMX/infosportplus.mpd
+
+#EXTINF:-1 group-title="TNT", la chaine l'équipe
+
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=be42db5bcf21387e838f22d0da5b80c3:4603398e17b27d8330c1870764ccc1bd
+
+#EXTINF:-1 group-title="TNT", 6ter
+
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
+
+#EXTINF:-1 group-title="TNT", RMC Story
+
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+
+#EXTINF:-1 group-title="TNT", RMC Découverte
+
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+
+#EXTINF:-1 group-title="TNT", Chérie 25
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
+
+#EXTINF:-1 group-title="TNT", LCI
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
+
+#EXTINF:-1 group-title="TNT", france info 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
+
+#EXTINF:-1 group-title="TNT", france tv docs
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
+
+#EXTINF:-1 group-title="TNT", france tv series
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
+
+#EXTINF:-1 group-title="TNT", TV5 Monde FBSM
+
+https://lc.cx/9Qx6um
+
+#EXTINF:-1 group-title="TNT", TV5 Monde Europe
+
+https://oha.to/play/3769189460/index.m3u8
+
+#EXTINF:-1 group-title="TNT", Trace Urban
+
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TNT", Trace Latina
+
+https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TNT", Nat. Geographic
+
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/81.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=34e3a5cece65558c632f98b35365ef85:c7d3f4946d30b8d3256d5a2d68abc9f6
+
+#EXTINF:-1 group-title="TNT", Planète+ Crime
+
+https://viamotionhsi.netplus.ch/live/eds/planetejustice/browser-dash-VMX/planetejustice.mpd
+
+#EXTINF:-1 group-title="TNT", TV Monaco
+
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/1/media.m3u8
+
+#EXTINF:-1 group-title="TNT", Monaco Info
+
+https://webtv.monacoinfo.com/live/prod/index.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 alpes
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/alpes.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 auverge
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/auvergne.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 rhone alpes
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/rhonealpes.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 bourgogne
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bourgogne.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 franche comte
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/franchecomte.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 bretagne
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bretagne.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 val de loire
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/centre.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 viastela
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/corse.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 alsace
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/alsace.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 champagne
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/champagne.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 lorraine
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/lorraine.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 nord pas de calais
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/nordpdc.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 picardie 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/picardie.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 basse normandie 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bnormandie.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 haute normandie 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/hnormandie.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 aquitaine
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/aquitaine.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 limousin 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/limousin.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 poitou charentes
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/poitoucharentes.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 nouvelle aquitaine
+
+https://raw.githubusercontent.com/Paradise-91
+
+#EXTINF:-1 group-title="TNT", france 3 languedoc roussillon
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/languedoc.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 midi pyrenées
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/midipyrenees.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 paris idf
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/parisidf.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 pays de la loire
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/paysloire.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 cote d'azur
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/azur.m3u8
+
+#EXTINF:-1 group-title="TNT", france 3 provence alpes
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
+
+#EXTINF:-1 group-title="TNT", BFM 2
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Business
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Alpes
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Alsace
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Haute-Provence
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Lille
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Littoral
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Lyon
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Marseille
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Nice
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Normandie
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Paris
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", BFM Toulon
+
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 group-title="TNT", ICI Montréal
+
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
+#EXTINF:-1 group-title="TNT", ICI RDI
+
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
+
+#EXTINF:-1 group-title="TNT", NCI
+
+https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+
+#EXTINF:-1 group-title="TNT", Sport en France 
+
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF:-1 group-title="TNT", Equida
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+
+#EXTINF:-1 group-title="TNT", l'équipe live foot
+
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
+
+#EXTINF:-1 group-title="TNT", l'équipe live 1 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1.m3u8
+
+#EXTINF:-1 group-title="TNT", l'équipe live 2
+
+https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+
+#EXTINF:-1 group-title="TNT", l'équipe live 3
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3.m3u8
+
+#EXTINF:-1 group-title="TNT", l'équipe live 4
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-4.m3u8
+
+#EXTINF:-1 group-title="TNT", l'équipe live 5
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5.m3u8
+
+#EXTINF:-1 group-title="TNT", l'équipe live 6 
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-6.m3u8
+
+#EXTINF:-1 group-title="TNT", l'équipe live 7
+
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-7.m3u8
+
+#EXTINF:-1 group-title="TNT", CANAL+ 
+
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
+
+#EXTINF:-1 group-title="TNT", CANAL+ Foot
+
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/88.m3u8
+
+#EXTINF:-1 group-title="TNT", CANAL+ Sport 360
+
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/58.m3u8
+
+#EXTINF:-1 group-title="TNT", beIN Sports 1
+
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/44.m3u8
+
+#EXTINF:-1 group-title="TNT", beIN Sports 2
+
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/49.m3u8
+
+#EXTINF:-1 group-title="TNT", Eurosport 1
+
+https://oha.to/play/2172924275/index.m3u8
+
+#EXTINF:-1 group-title="TNT", DAZN 1
+
+https://oha.to/play/3567590597/index.m3u8
+
+#EXTINF:-1 group-title="TNT", DAZN 1 v.2
+
+https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/150.m3u8
+
+#EXTINF:-1 group-title="TNT", DAZN 2
+
+https://oha.to/play/2587190923/index.m3u8
+
+#EXTINF:-1 group-title="TNT", Sony One Favoris
+
+https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TNT", Sony One Séries Comédie
+
+https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TNT", Sony One Thriller
+
+https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TNT", Sony One Blacklist
+
+https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TNT", Sony One Action Hits
+
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="TNT", Sony One Hits Comédie
+
+https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="GXR World", Ligue 1 TV
+
+https://d3lo3tng5bhk8x.cloudfront.net/out/v1/72fe3457c15c41dca5c8be973de674e6/index_6.m3u8
+
+#EXTINF:-1 group-title="GXR World", Ligue 1 TV 2
+
+https://dx12yig2oz0vp.cloudfront.net/out/v1/48bb590edb2f4bcd91e0ab46950bf94a/index_5.m3u8
+
+#EXTINF:-1 group-title="GXR World", Ligue 1 TV 3 
+
+https://dl9xjvbatywk3.cloudfront.net/out/v1/1016ac3efc7648169a230c711c722393/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", Ligue 1 TV 4
+
+https://d1yz7zmm8mka3t.cloudfront.net/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", Ligue 1 TV 5
+
+https://d1iueuayxapr8k.cloudfront.net/out/v1/60de15506f514c95977012e28b5b9d57/index_6.m3u8
+
+#EXTINF:-1 group-title="GXR World", Ligue 1 TV 6
+
+https://d2qjo96l2vgrgl.cloudfront.net/out/v1/da04718ce9854fc0a6e3ce5295807391/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", Ligue 1 TV 7
+
+https://dsud9fvx2fc2.cloudfront.net/out/v1/dd31215670d24452b68d1d07fdcf27c9/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", La Liga TV
+
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", La Liga TV 2
+
+https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", La Liga TV 3
+
+https://d17bxgt1i8pqpz.cloudfront.net/out/v1/a357febe927946d7b8ef752fdfe2e104/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", La Liga Dos
+
+https://d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", Serie A TV
+
+https://d29vola26poupl.cloudfront.net/out/v1/20a0a9c90ff0479e84ede2f0759a7c7b/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", Serie A TV 2
+
+https://dgskp1r42tkch.cloudfront.net/out/v1/82fc00778c3949d2a77c7d2b8592ec4e/index_15.m3u8
+
+#EXTINF:-1 group-title="GXR World", Serie A TV 3
+
+https://d1b90vvogu5l86.cloudfront.net/out/v1/0f3cd98364204082b4b536a244cd6296/index_7.m3u8
+
+#EXTINF:-1 group-title="GXR World", Serie A TV 4
+
+https://d1bcmel1n71ygh.cloudfront.net/out/v1/b02ca7c20c09418abff7b28c9fc6c66e/index_7.m3u8
+
+#EXTINF:-1 group-title="English", beIN Sports
+
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 group-title="English", beIN Sports Extra
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+
+#EXTINF:-1 group-title="English", USA Network
+
+http://fl2.moveonjoy.com/USA_Network/index.m3u8
+
+#EXTINF:-1 group-title="English", NBC
+
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="English", CNBC
+
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+
+#EXTINF:-1 group-title="English", MSNBC
+
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
+
+#EXTINF:-1 group-title="English", Golf Channel
+
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="English", ABC
+
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="English", ESPN
+
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/44.m3u8
+
+#EXTINF:-1 group-title="English", ESPN 2
+
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 group-title="English", ESPN U
+
+http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-1 group-title="English", ACC Network
+
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="English", SEC Network
+
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/385.m3u8
+
+#EXTINF:-1 group-title="English", ESPN News
+
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 group-title="English", CBS Sports
+
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="English", CBS Sports Golazo Network
+
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
+#EXTINF:-1 group-title="English", FOX
+
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 group-title="English", Fox Sports 1
+
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="English", Fox Sports 2
+
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/264.m3u8
+
+#EXTINF:-1 group-title="English", Fox Sports Soccer+
+
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/265.m3u8
+
+#EXTINF:-1 group-title="English", TNT
+
+http://fl2.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 group-title="English", NBA TV
+
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 group-title="English", NFL Network
+
+https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="English", NFL Redzone
+
+http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
+
+#EXTINF:-1 group-title="English", Tennis Channel
+
+https://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="English", ITV 1
+
+https://photocalltv.org/m3dr/fo.m3u8?ch=itv1
+
+#EXTINF:-1 group-title="English", ITV 2
+
+https://photocalltv.org/m3dr/fo.m3u8?ch=itv2
+
+#EXTINF:-1 group-title="English", ITV 3
+
+https://photocalltv.org/m3dr/fo.m3u8?ch=itv3
+
+#EXTINF:-1 group-title="English", ITV 4
+
+https://photocalltv.org/m3dr/fo.m3u8?ch=itv4
+
+#EXTINF:-1 group-title="English", SBS
+
+https://i.mjh.nz/.r/sbs.m3u8
+
+#EXTINF:-1 group-title="English", SBS Viceland
+
+https://i.mjh.nz/.r/sbs-viceland.m3u8
+
+#EXTINF:-1 group-title="English", Channel 9
+
+#EXTINF:-1 group-title="English", 9 Gem
+
+#EXTINF:-1 group-title="English", 9 Go!
+
+#EXTINF:-1 group-title="English", 9 Life
+
+#EXTINF:-1 group-title="English", 9 Rush
+
+#EXTINF:-1 group-title="Spanish", beIN Sports Ñ
+
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/372.m3u8
+
+#EXTINF:-1 group-title="Spanish", beIN Sports Extra Ñ
+
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Spanish", ESPN Deportes
+
+https://streamsy.online:2999/live/venomj/EmoOmOskzq/528.m3u8
+
+#EXTINF:-1 group-title="Spanish", Fox Deportes
+
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/643.m3u8
+
+#EXTINF:-1 group-title="Spanish", Telemundo
+
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/281.m3u8
+
+#EXTINF:-1 group-title="Spanish", TUDN
+
+https://848b3516657c-usatv.baby-beamup.club/public/m3u/66.m3u8
+
+#EXTINF:-1 group-title="Spanish", Unimas
+
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/286.m3u8
+
+#EXTINF:-1 group-title="Spanish", Univision
+
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/1522.m3u8
+
+#EXTINF:-1 group-title="Spanish", ESPN
+
+#EXTINF:-1 group-title="Spanish", ESPN 2
+
+#EXTINF:-1 group-title="Spanish", ESPN 3
+
+#EXTINF:-1 group-title="Spanish", FOX Sports 1
+
+#EXTINF:-1 group-title="Spanish", FOX Sports 2
+
+https://848b3516657c-argentinatv.baby-beamup.club/public/m3u/788.m3u8
+
+#EXTINF:-1 group-title="Spanish", FOX Sports 3
+
+http://181.13.173.86:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 group-title="Spanish", TyC Sports
+
+https://848b3516657c-argentinatv.baby-beamup.club/public/m3u/746.m3u8
+
+#EXTINF:-1 group-title="Spanish", la 1
+
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+
+#EXTINF:-1 group-title="Spanish", la 2
+
+https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
+
+#EXTINF:-1 group-title="Spanish", Teledeporte
+
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
+
+#EXTINF:-1 group-title="Spanish", Esport 3
+
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 group-title="Spanish", Senal Colombia
+
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="Radio", RTL
+
+https://streamer-01.rtl.fr/rtl-1-44-128
+
+#EXTINF:-1 group-title="Radio", France Bleu Saint-Etienne
+
+https://icecast.radiofrance.fr/fbstetienne-midfi.mp3
+
+#EXTINF:-1 group-title="Radio", Maritima Radio
+
+https://maritima1072.ice.infomaniak.ch/maritima1072-128.mp3
+
+#EXTINF:-1 group-title="Radio", RMC
+
+https://audio.bfmtv.com/rmcradio_128.mp3
+
+#EXTINF:-1 group-title="Radio", RMC Event 1
+
+https://audio.bfmtv.com/eventradio1.mp3
+
+#EXTINF:-1 group-title="VIP America", CTV
+
+https://cdn1-9p.teleuptv.net/a445e842-7b0d-4914-bac1-7788c460f589/tracks-v5a1/rewind-28800.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
+
+#EXTINF:-1 group-title="VIP America", TSN 1
+
+https://chimera-clips.video.9c9media.com/f/TSN/TSN1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
+
+#EXTINF:-1 group-title="VIP America", TSN 2
+
+https://chimera-clips.video.9c9media.com/f/TSN/TSN2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
+
+#EXTINF:-1 group-title="VIP America", TSN 3
+
+https://chimera-clips.video.9c9media.com/f/TSN/TSN3/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
+
+#EXTINF:-1 group-title="VIP America", TSN 4
+
+https://chimera-clips.video.9c9media.com/f/TSN/TSN4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
+
+#EXTINF:-1 group-title="VIP America", TSN 5
+
+https://chimera-clips.video.9c9media.com/f/TSN/TSN5/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=004561b5440b7879d37d01c99a158924:8fb0218456fedf3c8a3da8c88f6177c7
+
+#EXTINF:-1 group-title="VIP America", NBC New York
+
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wnbc)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
+
+#EXTINF:-1 group-title="VIP America", NBC Los Angeles
+
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(knbc)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=00453079be244d74ffef1e8bbfd8b104:d75a81f8e83404cff02f5b6affd0fbb2
+
+#EXTINF:-1 group-title="VIP America", NBC Miami
+
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wtvj)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+
+#EXTINF:-1 group-title="VIP America", USA Network
+
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
+
+#EXTINF:-1 group-title="VIP America", NBC Sports
+
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+
+#EXTINF:-1 group-title="VIP America", Premier League TV
+
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+#EXTINF:-1 group-title="VIP America", CBS Sports HQ
+
+https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/dec09f99-d713-4e4d-b762-c63ec6060d2e:BRU/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
+
+#EXTINF:-1 group-title="VIP America", NFL Network
+
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:baaa81b9144162d81da11d4a7e302017
+
+#EXTINF:-1 group-title="VIP America", NBA TV
+
+https://cdnlb.tvplayhome.lt/live/eds/NBA_HD_HVC/GO3_LIVE_DASH_HVC/NBA_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=54ef857b74c0c6e37b04022a87708382:712ca8c470e9ff4f08915e7a7d91ff33
+
+#EXTINF:-1 group-title="VIP America", beIN Sports N
+
+https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
+
+#EXTINF:-1 group-title="VIP America", NBC Universo
+
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
+
+#EXTINF:-1 group-title="VIP America", Telemundo 47
+
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnju)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=c79967c6d66d38b8a269343bb47471bf:013fc831c0b7e9e2035035df01812556
+
+#EXTINF:-1 group-title="VIP America", Telemundo 51
+
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wscv)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=dfb59142ce523a6c900758d5ee4c7997:bd2d684e590815190eda056a6d9618bc
+
+#EXTINF:-1 group-title="VIP America", Telemundo 52
+
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(kvea)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=45da1df6b7dac6f46f0c95b5850bc2f2:a195dc0206035b2cc8be2d452e71b61d
+
+#EXTINF:-1 group-title="VIP America", TNT Sports AR
+
+https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(TNT_SPORTS)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
+
+#EXTINF:-1 group-title="VIP America", ESPN AR
+
+https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472
+
+#EXTINF:-1 group-title="VIP America", ESPN 2 AR
+
+https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=1b645185cd62d881fa91fd92170690ea:e5f759e256c768c6349deb9cc446cabe
+
+#EXTINF:-1 group-title="VIP America", ESPN 3 AR
+
+https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(ESPN3)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
+
+#EXTINF:-1 group-title="VIP America", ESPN 4 AR
+
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453
+
+#EXTINF:-1 group-title="VIP America", TyC Sports
+
+https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+
+#EXTINF:-1 group-title="VIP America", Fox Sports Premium
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+
+#EXTINF:-1 group-title="VIP America", Fox Sports 1
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+
+#EXTINF:-1 group-title="VIP America", Fox Sports 2
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+
+#EXTINF:-1 group-title="VIP America", Fox Sports 3
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+
+#EXTINF:-1 group-title="VIP Arabic", SSC 1
+
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+
+#EXTINF:-1 group-title="VIP Arabic", SSC 2
+
+https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+
+#EXTINF:-1 group-title="VIP Arabic", SSC 3
+
+https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
+
+#EXTINF:-1 group-title="VIP Arabic", SSC 4
+
+https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+
+#EXTINF:-1 group-title="VIP Arabic", SSC 5
+
+https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
+
+#EXTINF:-1 group-title="VIP Arabic", SSC Extra 1
+
+https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+
+#EXTINF:-1 group-title="VIP Arabic", SSC Extra 2
+
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+
+#EXTINF:-1 group-title="VIP Arabic", SSC Extra 3
+
+https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+#EXTINF:-1 group-title="VIP Arabic", Al-Kass 1
+
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buo/master1080.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Al-Kass 2
+
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master1080.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Al-Kass 3
+
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master1080.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Al-Kass 4
+
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master720.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", AD Sports 1
+
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", AD Sports 2
+
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e74c7d697bd26595b196c6b96e2d4f5b:e288110233737502e8af9184098ab50b
+
+#EXTINF:-1 group-title="VIP Arabic", AD Sports Premium 2
+
+https://uselector.cdn.intigral-ott.net/JAW1/JAW1.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=f1a0982764ea1efaade94a84d13bb32a:884164e9518f12a13b7473798eebac4d
+
+#EXTINF:-1 group-title="VIP Arabic", Sport5
+
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_4k_avc/live.livx?indexMode&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=da7c66ccf42f459c00fdf1ad847d4fc0:13a48dc2c1257fd9a119b448de5225f6
+
+#EXTINF:-1 group-title="VIP Arabic", Sport5 Live
+
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_live/live.livx?indexMode&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=628b14b29136ae26e4ea1a6bdaea7ede:ddafd3d32662550e624a81b8bfc4ed09
+
+#EXTINF:-1 group-title="VIP Arabic", Sport5 Plus
+
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_plus/live.livx?indexMode&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=07e188f7cdfe89f1b157766bc4db084e:7f531e4eed5d07f5ae187c8807b40480
+
+#EXTINF:-1 group-title="VIP Arabic", Sport5 Star
+
+https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/sport_5_starz/live.livx?indexMode&dvr=7200000
+
+#EXTINF:-1 group-title="VIP Arabic", Dubai Sports 1
+
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Dubai Sports 2
+
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Dubai Sports 3
+
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Bahrain Sports 1
+
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Bahrain Sports 2
+
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Kuwait TV Sport 1
+
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="VIP Arabic", Kuwait TV Sport 2
+
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=b1e2ae3754ced9e9258a8df46d261390:bc42486b5253920abdd0cb3e727852f5
+
+#EXTINF:-1 group-title="VIP Arabic", National Geographic
+
+https://uselector.cdn.intigral-ott.net/NGAD/NGAD.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=cbdd636bb2e44f1fa6ebd41f46a3cc52:e6ab6c56a79962dcab612e9dc4fea986
+
+#EXTINF:-1 group-title="VIP Belgium", la Une
+
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/669bb376/9069a322.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+
+#EXTINF:-1 group-title="VIP Belgium", Tipik
+
+https://daiconnect.com/live/dash/rtbf/tipik-56dfkkh-0epa3m40q/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a23c541ad1334ea697bab962336d31e6:996515f9b655011b20993c5514298eb3
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=62aadc845ce948d9adddd73a3f3fb4f2:3bbaae09a9ea8594a85a707f50907154
+
+#EXTINF:-1 group-title="VIP Belgium", RTL TVI
+
+https://live-video.dpgmedia.net/6180c994cb835402/out/v1/24eb589d8c1d473bb1234991a6a774ef/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d5fa7d9ea1dc4a85968edff028e47a0c:0be6fa2b86f40d2c61122df19357808b
+
+#EXTINF:-1 group-title="VIP Belgium", RTL Plug
+
+https://live-video.dpgmedia.net/83ac8fe07ddd10cf/out/v1/dba39cf6cae74bfc894b7e68a7d052bd/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a23c541ad1334ea697bab962336d31e6:996515f9b655011b20993c5514298eb3
+
+#EXTINF:-1 group-title="VIP Belgium", Club RTL
+
+https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/6810477d8b1b4e458506df3803486870/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ef4daa3c90333621e4115ff1ca5bfbda:424c9902fce5a2e7dcbeb37ffc06b906
+
+#EXTINF:-1 group-title="VIP Belgium", VRT 1
+
+https://live.vrtcdn.be/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live.isml/.mpd?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=411833676baf2e9a103bbc2f6382f94c:5c2478f6c203def24d0a16eb05b1d6f3
+
+#EXTINF:-1 group-title="VIP Belgium", Canvas
+
+https://live.vrtcdn.be/groupb/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=691ddd147b3060f94f50fc8c8e851ccb:f2da563774322c63cf65539b36f30f42
+
+#EXTINF:-1 group-title="VIP Belgium", Ketnet
+
+https://live.vrtcdn.be/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live.isml/.mpd
+
+#EXTINF:-1 group-title="VIP Belgium", VTM1
+
+https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
+
+#EXTINF:-1 group-title="VIP Brazil", CazéTV
+
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
+
+#EXTINF:-1 group-title="VIP Brazil", Premiere
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zkafrcxji/out/v1/810ebca1aff0443da717da4acdeda158/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=fd2e8019f37211ca8b78a8b656f1b83a:273189c214e85b43ac36298d1c422330
+
+#EXTINF:-1 group-title="VIP Brazil", Premiere 2
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pgub1bh7o9/out/v1/7a59226197644bfaa2b00f488bd95288/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=9547f9aead1237c8a3b1bf0a91ed9995:534fab4541fef31921dd970c65d51848
+
+#EXTINF:-1 group-title="VIP Brazil", Premiere 3
+
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ce5d18ffd68650affce1985201983ab7:397c64e42507d95e5460830918c22a98
+
+#EXTINF:-1 group-title="VIP Brazil", Premiere 4
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zytzybatcd/out/v1/4e59aa00f6784bb98170741d40b33e3e/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d5a3ac0b892bfccdf352b6def9cb2764:ac0936acc0036fad2273efaa42b1fafd
+
+#EXTINF:-1 group-title="VIP Brazil", Premiere 5
+
+https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/j4y12ucrx0/out/v1/9135597c4400465e9e752dc32de587fd/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=05cedc366ce4ec735ee4b33fcefbf01f:475d6dd40eaba6896e02b26a6cf34d95
+
+#EXTINF:-1 group-title="VIP Brazil", Premiere 6
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cydwktwhqj/out/v1/c6e2919fe4e04a73935691f8284a4afe/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=7ce96e01eee54fb77e5cc4e7b753d6b0:184f94303d3357b9a7381ccdeee9b611
+
+#EXTINF:-1 group-title="VIP Brazil", Premiere 7
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wczqphrl5k/out/v1/7a20b4be236a4a9484fdf5cdfcbe79d5/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=7ba384f9d983c731ab1e3702c16e2faf:f28adca4375e8a041fd22aef26440009
+
+#EXTINF:-1 group-title="VIP Brazil", Premiere 8
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dabubydklo/out/v1/c272f10312ac4e81bcf2183509703dd1/cenc.mpd
+
+#EXTINF:-1 group-title="VIP Germany", 2DF
+
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 group-title="VIP Germany", Das Erste
+
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
+
+#EXTINF:-1 group-title="VIP Germany", RTL
+
+https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=efbb74b4b93e832d76a3d61de1cccf52:579d4341e7c90058733996e3e0176a8c
+
+#EXTINF:-1 group-title="VIP Germany", ProSieben MAXX
+
+https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-dash-VMX/prosiebenmaxx.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=c1c11c3844b0dffdb9d9831900f1a1da:a2c31e15346f339ca2b47bdd8591553f
+
+#EXTINF:-1 group-title="VIP Germany", Sport1+
+
+https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=000b3265e1f9d52374c6c4705a258f7a:d223e0fec55e0a22344d1cacb8cd2855
+
+#EXTINF:-1 group-title="VIP Germany", Sky Sport Top Event
+
+https://linear202-de-dash1-prd-ak.cdn12.skycdp.com/035111-50/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=000b0e3422812fcf3d1eb8cdf7511193:1fe928a3793feb3739f293b0b1b81d1d
+
+#EXTINF:-1 group-title="VIP Germany", Sky Sport Bundesliga 1
+
+https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/031122-50/index_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=000befd7c86292bb122e08bcfc0a06c2:d1cdb3b40de46f75910b2b69ffea9dab
+
+#EXTINF:-1 group-title="VIP Germany", Sky Sport Bundesliga 2
+
+https://linear204-de-dash1-prd-ak.cdn12.skycdp.com/031123-50/index_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=000b2bff43fd13add0f7e3fd8a7d3066:cf859a91af1aed3d87b148e8fcb9111f
+
+#EXTINF:-1 group-title="VIP Germany", Sky Sport Bundesliga 3
+
+https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/031124-50/index_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=000ba721a0fffe492656276b76701d85:746161b7ed203532f40ac3f3852bd12a
+
+#EXTINF:-1 group-title="VIP Germany", Sky Sport Bundesliga 4
+
+https://linear204-de-dash1-prd-ak.cdn12.skycdp.com/031125-50/index_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=000b4dd98709c99e7d3ca61284971da3:d37b0eafb4859024bfe415c37b967ce2
+
+#EXTINF:-1 group-title="VIP Germany", Sky Sport Bundesliga 5
+
+https://linear205-de-dash1-prd-ak.cdn12.skycdp.com/032126-50/index_stereo.mpd
+
+#EXTINF:-1 group-title="VIP Germany", Tennis Channel
+
+https://samsunguk-tennischannel-int-samsunguk-w5aqh.amagi.tv/playlist/samsunguk-tennischannel-int-samsunguk/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
+
+#EXTINF:-1 group-title="VIP Great Britain", BBC One
+
+https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
+
+#EXTINF:-1 group-title="VIP Great Britain", BBC Two
+
+https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=9cc344f5df584c77b9f10d04b7281df7:37020f567d14e9bb8df8d1be0263c3a6
+
+#EXTINF:-1 group-title="VIP Great Britain", BBC Three
+
+https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a76ba7bf50494381beca9e2f7e3be96f:c0a14394f5518ec810656323d3fe9903
+
+#EXTINF:-1 group-title="VIP Great Britain", BBC Four
+
+https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000063340a:5ce85f1aa5771900b952f0ba58857d7a
+
+#EXTINF:-1 group-title="VIP Great Britain", Channel 4
+
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+
+#EXTINF:-1 group-title="VIP Great Britain", TG4
+
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national_3000_.m3u8
+
+#EXTINF:-1 group-title="VIP Great Britain", Sky News
+
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=1109e82e9696324bb1b1dc292cfe6dda:b1d692fd6818ca81a50440d658b9e939
+
+#EXTINF:-1 group-title="VIP Great Britain", Rally TV
+
+https://wrc-rallytv-a.akamaized.net/Content/channel/6a5d6131-aedf-f38a-651c-18273b6fe260/DASH/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+
+#EXTINF:-1 group-title="VIP Great Britain", TNT Sports 1
+
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+
+#EXTINF:-1 group-title="VIP Great Britain", TNT Sports 2
+
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+
+#EXTINF:-1 group-title="VIP Great Britain", TNT Sports 3
+
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+
+#EXTINF:-1 group-title="VIP Great Britain", TNT Sports 4
+
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+
+#EXTINF:-1 group-title="VIP Great Britain", TNT Sports 5
+
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="VIP Great Britain", Premier Sports 1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="VIP Great Britain", Premier Sports 2
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=fc12a94c41e0885dbea8a8d94f0a277d:fc045df077e7669666b1b230e9aa3901
+
+#EXTINF:-1 group-title="VIP Great Britain", LaLiga TV
+
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+
+#EXTINF:-1 group-title="VIP Great Britain", Sky Sports Main Event
+
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1253/go-dash-fhd-avc/IESVC1253.mpd?dam
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+
+#EXTINF:-1 group-title="VIP Great Britain", Sky Sports +
+
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+
+#EXTINF:-1 group-title="VIP Great Britain", Sky Sports F1
+
+https://wp2-g-anp01030103-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1315/go-dash-fhd-avc/IESVC1315.mpd?dam
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+
+#EXTINF:-1 group-title="VIP Great Britain", Sky Sports Football
+
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd?dam
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ba18a87b7de43e579a0d486e8b5b2e49:5fcfe523e9830df1f48a918257c1322d
+
+#EXTINF:-1 group-title="VIP Great Britain", Sky Sports NFL
+
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1259/go-dash-fhd-avc/IESVC1259.mpd?dam
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="VIP Great Britain", Sky Sports Tennis
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=8bea39bc61707784544e6ccd62c9d076:7139535aafe27b59dff555b7dc99eed0
+
+#EXTINF:-1 group-title="VIP Great Britain", Eurosport 1
+
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuswgfaia3/out/v1/5816ef436fc446499e169d89a26dfbed/cenc.mpd
+
+#EXTINF:-1 group-title="VIP Great Britain", Tennis Channel
+
+https://samsunguk-tennischannel-international-samsung-uk-9pdb4.amagi.tv/playlist/samsunguk-tennischannel-international-samsung-uk/playlist.m3u8
+
+#EXTINF:-1 group-title="VIP Great Britain", Tennis Channel 2
+
+https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=b2ac62177a11407290722302e1e3a32c:51a4c173aa6cdf1f169b57602fee1c44
+
+#EXTINF:-1 group-title="VIP Italy", Italia 1
+
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(italia1)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=12623a792c9545fd8d6418bcdeb23915:8f21e45a16436ead68eba884d9f6c755
+
+#EXTINF:-1 group-title="VIP Italy", Canale 5
+
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(canale5)/manifest.mpd
+
+#EXTINF:-1 group-title="VIP Italy", Rai Italia
+
+https://la7live-secure.akamaized.net/RaiLatam/Live.m3u8
+
+#EXTINF:-1 group-title="VIP Italy", Sport Italia
+
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
+
+#EXTINF:-1 group-title="VIP Italy", Sport Italia Live
+
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
+
+#EXTINF:-1 group-title="VIP Italy", Infinity+ 1
+
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036bb3fa7e6f2c334d7cba5c28b6caf:217fa35739cd68e90b2cd23322c01312
+
+#EXTINF:-1 group-title="VIP Italy", Eurosport 1
+
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/313073/FHD/eurosport/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=003670a7034342a4a07c91173818c61c:7b90055c1a1ea34d9090e9ebf6c4db8a
+
+#EXTINF:-1 group-title="VIP Italy", Eurosport 2
+
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31150/FHD/eurosport2/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=003663ddf1acb25ea88a7cf973afc0d5:35ea91b4151d6975007998c328daee6c
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 24
+
+https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport Calcio
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport Arena
+
+https://linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036f13bca1c5603b9f3bb28ec28fa80:f01403bcb5a02c61153d297fb0c4395f
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport Max
+
+https://linear305-it-dash1-prd.selector.skycdn.it/016a/31248/FHD/skysportmax/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport F1
+
+https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31478/FHD/skysportf1/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport MotoGP
+
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport NBA
+
+https://linear308-it-dash1-prd-msg0.cdn13.skycdp.com/016a/31764/FHD/skysportnba/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport Tennis
+
+https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036384f59a2b80ed142f82250c79f77:2e6507cb779a28739b0bb1564f418823
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 251
+
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=003610b4ce44ba838c199b6636cf7431:8369cbbccf0c1ff6bdbacbdae9252a04
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 252
+
+https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32951/FHD/skysport252/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036d3b63b421abd69d9f0d3b6bdcf19:0725c3162d5aefbf9c6d144f06ea0c92
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 253
+
+https://linear311-it-dash1-prd-akg0.cdn13.skycdp.com/016a/32233/FHD/skysport253/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=00369c14c20b78aadb1ec0e3c0e74979:e768767e2c7238d8069887bb36aed7fa
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 254
+
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036b781a22ebb0c20c16ac27d5d1448:f309b94acfda720bf1ed5741489f8967
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 255
+
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=00366f263859fc1cc82d2c4da6a66ef6:754ae922d113c54349002cd9a88694a4
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 256
+
+https://linear312-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31912/FHD/skysport256/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036faeace9872d3ceeb8b1b63f0baa3:dbd41ee944243307d39b7b27f16615a8
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 257
+
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0036fd8ccfddba47c8b40aeff63a797c:dfd5c9d0f4ac6f3a1bd89803399e7026
+
+#EXTINF:-1 group-title="VIP Italy", Sky Sport 258
+
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/32772/skysport258/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=8cffc0bcab1146e8ac9f2374f2c86811:f725c200771774253a822850f48d1254
+
+#EXTINF:-1 group-title="VIP Netherlands", NPO 1
+
+https://nlziet-live.akamaized.net/L4/c8aa2f33/c6c86e9a.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=6a0392c7a18a4cc2b6943208c703eaaa:77b95f41020ad1060569c063870ad795
+
+#EXTINF:-1 group-title="VIP Netherlands", NPO 2
+
+https://nlziet-live.akamaized.net/L22/e5f38352/5f2ba234.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=cc94928a16cf49dda6986b97bf0479e2:7c914471a3a26603d730dd6b4f469b50
+
+#EXTINF:-1 group-title="VIP Netherlands", NPO 3
+
+https://nlziet-live.akamaized.net/L24/a934509f/dd09fcea.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=82f4ad3856f84c30bf2ce78cc59ad3e0:ba998c3861b03cd98c8edbd5d65a6962
+
+#EXTINF:-1 group-title="VIP Netherlands", NPO Extra 1
+
+https://nlziet-live.akamaized.net/L12/92095069/c58ac04e.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=94967b7bf17f4d14ab7f3bc21dda4916:c5a92ee9dd2c7426abc61fcb8495e61b
+
+#EXTINF:-1 group-title="VIP Netherlands", NPO Extra 2
+
+https://nlziet-live.akamaized.net/L24/7b1ef17a/8278691c.isml/.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=16bf72dc22743d929c4318e193408373:eae51a1e3904124963074cbf432c7c8e
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
+
+#EXTINF:-1 group-title="VIP Nordic", HRT 1
+
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=bc01006c0e4b39eeadf359f4178124ca:b7a197afeb4ad5c1dc4d0ffba402d781
+
+#EXTINF:-1 group-title="VIP Nordic", HRT 2
+
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt2e3.smil/1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=c6f88642f0b3381bbb8ab97badb85105:8cc9172bf1c0dfe5974d22ed08fe51bb
+
+#EXTINF:-1 group-title="VIP Nordic", HRT 3
+
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt3.smil/1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d488fe4024933f51a3eca4e5b325dfec:172f3c401d9343c4a74aed53d1fbcc05
+
+#EXTINF:-1 group-title="VIP Nordic", HRT 4
+
+https://cdn1oiv.akamaized.net/hrtliveorigin/hrt4.smil/1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+
+#EXTINF:-1 group-title="VIP Nordic", Arena Sport Premier League
+
+https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=748d32a5e8e64c7780df70a86a3fb1dc:e3deb83f5738e9ce4cdeb6cab7f473f5
+
+#EXTINF:-1 group-title="VIP Nordic",TV3 LT
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_LT_HD_HVC/GO3_LIVE_DASH_HVC/TV3_LT_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ee7da1dc0a6240a4b787c3331c756f99:9ac3bb7530d1dc9120c38acbe4ea395d
+
+#EXTINF:-1 group-title="VIP Nordic", TV3 LV
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_LV_HD_HVC/GO3_LIVE_DASH_HVC/TV3_LV_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=95abe856f5c148b2974f5fb28a74b2e2:be434af7b0e977df382c97a375c47291
+
+#EXTINF:-1 group-title="VIP Nordic", TV3 EE
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_EE_HD_HVC/GO3_LIVE_DASH_HVC/TV3_EE_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=5855e27e90ee43a49726aba6533fa92a:0fdf4e86d01baa8a2b896b20131d4db8
+
+#EXTINF:-1 group-title="VIP Nordic", TV3+
+
+https://cdnlb.tvplayhome.lt/live/eds/3Plus_LV_HD_HVC/GO3_LIVE_DASH_HVC/3Plus_LV_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="VIP Nordic", TV3 Life
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Life_HD_HVC/GO3_LIVE_DASH_HVC/TV3_Life_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d25b55ce8d5d41578fc6cb16fd93f61c:197b7dde9c1daaecf4b785562c386d40
+
+#EXTINF:-1 group-title="VIP Nordic", TV6
+
+https://cdnlb.tvplayhome.lt/live/eds/TV6_LV_HD_HVC/GO3_LIVE_DASH_HVC/TV6_LV_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=b0dd33e4afc041569fb71055a12d2b58:e3a5395b52f55fe420b6d272b9f31303
+
+#EXTINF:-1 group-title="VIP Nordic", Kanal2
+
+https://cdnlb.tvplayhome.lt/live/eds/Kanal2_HD_HVC/GO3_LIVE_DASH_HVC/Kanal2_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=8cef674613af4db5a0e6c64f38149878:65231111f4044f8a067ad0de10b59d49
+
+#EXTINF:-1 group-title="VIP Nordic", ETV
+
+https://cdnlb.tvplayhome.lt/live/eds/ETV_HD_HVC/GO3_LIVE_DASH_HVC/ETV_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=beded6e775a04b0bac876c023e14bab7:96f32a99591584f2194f5162ead8f963
+
+#EXTINF:-1 group-title="VIP Nordic", GO3 Sport Open
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_OPEN_HD/GO3_LIVE_DASH/TV3_Sport_OPEN_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+
+#EXTINF:-1 group-title="VIP Nordic", GO3 Sport 1
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+
+#EXTINF:-1 group-title="VIP Nordic", GO3 Sport 2
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+
+#EXTINF:-1 group-title="VIP Nordic", GO3 Sport 3
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:f47ce553d7e6e13509a4a1ab93fe4548
+
+#EXTINF:-1 group-title="VIP Nordic", GO3 Sport 4
+
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d8d0506523d95fc082d6caef60e84979:69992fd2d7b9211d41ecc2243803e87c
+
+#EXTINF:-1 group-title="VIP Nordic", Viaplay Sport Premium
+
+https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vssp/vssp.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=1af2e3be44145944a0e78832852f5daa:d366e6e9554b9fbcc40d78fa16206ebe
+
+#EXTINF:-1 group-title="VIP Nordic", Viaplay Sport
+
+https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vss/vss.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=3f02ddb8f11b597c84a5393348e047bb:bc52ff5ddb471c7691ffb57ae74726cc
+
+#EXTINF:-1 group-title="VIP Nordic", Viaplay Sport Football
+
+https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vsf/vsf.isml/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:baaa81b9144162d81da11d4a7e302017
+
+#EXTINF:-1 group-title="VIP Nordic", Setanta Sports 1
+
+https://cdnlb.tvplayhome.lt/live/eds/Setanta_LT_HD/GO3_LIVE_DASH/Setanta_LT_HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=beded6e775a04b0bac876c023e14bab7:96f32a99591584f2194f5162ead8f963
+
+#EXTINF:-1 group-title="VIP Nordic", Eurosport 1
+
+https://cdnlb.tvplayhome.lt/live/eds/ESP_HD_HVC/GO3_LIVE_DASH_HVC/ESP_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=beded6e775a04b0bac876c023e14bab7:96f32a99591584f2194f5162ead8f963
+
+#EXTINF:-1 group-title="VIP Nordic", Eurosport 2
+
+https://cdnlb.tvplayhome.lt/live/eds/ESP2_HD_HVC/GO3_LIVE_DASH_HVC/ESP2_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ebf5cd80788d4db78716ba491e8b2e34:4654e61a13c9efb2d15e39f697f99c4b
+
+#EXTINF:-1 group-title="VIP Nordic", National Geographic
+
+https://cdnlb.tvplayhome.lt/live/eds/NatGeo_HD_HVC/GO3_LIVE_DASH_HVC/NatGeo_HD_HVC.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=cf9689067bc0465593084d7832982fd1:07454bafd70413ab57a3eb25de2c79c3
+
+#EXTINF:-1 group-title="VIP Nordic", MTV
+
+https://cdnlb.tvplayhome.lt/live/eds/VH1/GO3_LIVE_DASH/VH1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=113383517c8f882e77fe1a71e0cfc7eb:e2ac0b80cb5be37fdf6de0d27959e110
+
+#EXTINF:-1 group-title="VIP Mexico", Canal 5
+
+https://zap-live-ott.izzigo.tv/out/u/dash/ZAP/CANAL-5-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+
+#EXTINF:-1 group-title="VIP Mexico", TUDN
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
+
+#EXTINF:-1 group-title="VIP Mexico", TNT
+
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
+
+#EXTINF:-1 group-title="VIP Mexico", Fox Sports Premium
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
+
+#EXTINF:-1 group-title="VIP Mexico", FOX Sports
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=23986dae03fa883ed8e489cbf70f9ec3:6a42c42732a9dd1da1205971b2c5c535
+
+#EXTINF:-1 group-title="VIP Mexico", FOX Sports 2
+
+https://aka-live1-ott.izzigo.tv/4/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ed8dd7562fd9f9064bed8d52fa42cc11:d65a22cfe5bfbd33d8d25b183649e44f
+
+#EXTINF:-1 group-title="VIP Mexico", FOX Sports 3
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=9b40cafa23cb7de8418bae6c66159f3a:b1bde4692ea730163539adc9a84cc488
+
+#EXTINF:-1 group-title="VIP Mexico", NFL Network
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/NFL-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+
+#EXTINF:-1 group-title="VIP Mexico", ESPN
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
+
+#EXTINF:-1 group-title="VIP Mexico", ESPN 2
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
+
+#EXTINF:-1 group-title="VIP Mexico", ESPN 3
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-3-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=666607af08b9eeddaae1d6c36a34d689:10fdc24a14e8423f5e5ff03569439b14
+
+#EXTINF:-1 group-title="VIP Mexico", ESPN 4
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-PLUS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports
+
+https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports 21
+
+https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports 16
+
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports 24
+
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports Live 1
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=7239a58fb7388b222a834d549bf18d8f:8b04a883e88dbdebc43673d998ea1cb2
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports Live 2
+
+https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-2-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=561a21ad50f806b77d328dedbe59f93e:edf3e70cc9de81a73e2a00fe9c0611a8
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports Live 3
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-3-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a931b2e953695ffb0cfd38573e97ba33:4ddd99cc4fb168d7f0e20be8a3287100
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports Live 4
+
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-4-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=6c89e84c52eae0428b7d2c8e887a48ec:758a1484f920a0f1aa73e95d5f2be225
+
+#EXTINF:-1 group-title="VIP Mexico", Sky Sports Live 5
+
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
+
+#EXTINF:-1 group-title="VIP Mexico", PX Sports
+
+https://aka-live1-ott.izzigo.tv/4/out/u/dash/PX-SPORTS-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=57d9f2e808050bdf7a604fb2556ff406:789d04a9f546057231db23e68115e951
+
+#EXTINF:-1 group-title="VIP America", Caliente TV
+
+https://cdn-calisports-pri-01.vos360.video/Content/Channel/calientetv/DASH/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=61981531aa7c40ecfd07166f6f87d09b:6b90cb076ce91a29da1e197a8b6995dd
+
+#EXTINF:-1 group-title="VIP Mexico", France 24
+
+https://aka-live1-ott.izzigo.tv/3/out/u/dash/FRANCE-24-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=96be5ca21f087c8cb1d7630457e20000:53cb495864a442f4b7e7df8b540e035d
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 1
+
+https://linear-s.media.skyone.co.nz/sky-sport-1.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ef909acce1f53f5db2a1cdafd2e90000:aba1269d685f474fbddf97ce2b45c725
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 2
+
+https://linear-s.media.skyone.co.nz/sky-sport-2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=79553de34321f11972a72b1e34620000:6f134b10fed345c8be29ab4b318ce502
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 3
+
+https://linear-s.media.skyone.co.nz/sky-sport-3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e33539e4d21850439215205bae640000:ddbb94e284b1490baae2225fa726e46a
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 4
+
+https://linear-s.media.skyone.co.nz/sky-sport-4-v2.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=5492033ac2dc11141cd5c1d1d7a80000:ed8219b7064849d385d26151c90bd306
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 5
+
+https://linear-s.media.skyone.co.nz/sky-sport-5.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a1c36ae483b44fc78025fae101030000:e4ea0adb660139309ab060cfed1a9d3a
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 6
+
+https://linear-s.media.skyone.co.nz/sky-sport-6.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e2fcb4139149486facbfa3192ae00000:f72cfa3a2c1b1f5575421e835ca2a59b
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 7
+
+https://linear-s.media.skyone.co.nz/sky-sport-7.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=ac3615431ccb4a14aedc75dbea7c0000:b50ae9ebd7274c90244989fed8061e7b
+
+#EXTINF:-1 group-title="VIP Oceania", Sky Sport 9
+
+https://linear-s.media.skyone.co.nz/sky-sport-9.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=8eb4a9586edf4b0cade4b5725fd55209:54caa4e2142cf691af9bb6028545afc6
+
+#EXTINF:-1 group-title="VIP Poland", Polsat Sport Premium 1
+
+https://cdn-s-lb2.pluscdn.pl/ch/1459449/266/dash/edb3b20d/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=6a20b49be4db4f328e4bb48853124109:f32c1c3c983354bcafb0f2ccb8a59835
+
+#EXTINF:-1 group-title="VIP Poland", Polsat Sport Premium 2
+
+https://cdn-s-lb2.pluscdn.pl/ch/1459450/267/dash/c0858178/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
+
+#EXTINF:-1 group-title="VIP Poland", Polsat Sport 1
+
+https://cdn-s-lb2.pluscdn.pl/ch/1456452/129/dash/ffe2048f/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
+
+#EXTINF:-1 group-title="VIP Poland", Polsat Sport 2
+
+https://cdn-s-lb2.pluscdn.pl/ch/1455745/96/dash/3880d03f/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330
+
+#EXTINF:-1 group-title="VIP Poland", Polsat Sport 3
+
+https://cdn-s-lb2.pluscdn.pl/ch/1455832/117/dash/790ff37c/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=3bdddc3ae3bb43b7a93d6ff72991e5dc:9a1ca978d3bb5fe1300696f9683567eb
+
+#EXTINF:-1 group-title="VIP Poland", Eleven Sports 1
+
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=db4e84001a1e4fc3bf2612dc154dd75d:ad535148efdde938b29be16c9ab95134
+
+#EXTINF:-1 group-title="VIP Poland", Eleven Sports 2
+
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_sports/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=65c9e7e73a314bacb570514a605ea306:91c84c5a2af36c16e20397da599a6e94
+
+#EXTINF:-1 group-title="VIP Poland", Eleven Sports 3
+
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/11_extra/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=5288e6308fb45f5b89f3ece30b12b1b3:106c98f71aa6a18fbd32da9d58859413
+
+#EXTINF:-1 group-title="VIP Poland", Eleven Sports 4
+
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayerncp/live/eleven_sports_4_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=e87994b160bd48b5ac2f608ef5dc0f09:26840f913d91ed7e355a8cc18b99adef
+
+#EXTINF:-1 group-title="VIP Poland", Eurosport 1
+
+https://cdn-s-lb2.pluscdn.pl/ch/1456336/126/dash/d6c12d19/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=51ab61e7bc85492a9ff91bb55f101709:59acf98d228bddef6443da0b5b0669a2
+
+#EXTINF:-1 group-title="VIP Poland", Eurosport 2
+
+https://lb2-e2-31.pluscdn.pl/ch/1455824/109/dash/8792e496/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=102181f4eb7d8c1e623433b8d93fe692:8be229fe7fe9d78e5faccc79331a011f
+
+#EXTINF:-1 group-title="VIP Poland", Motowizja HD
+
+https://n-22-7.dcs.redcdn.pl/livedash/o2/tvnplayer/live/motowizja_hd/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=1&dvr=7200000
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
+
+#EXTINF:-1 group-title="VIP Spain", la 1
+
+https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
+#EXTINF:-1 group-title="VIP Spain", la 2
+
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+#EXTINF:-1 group-title="VIP Spain", Teledeporte
+
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main_dvr.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+
+#EXTINF:-1 group-title="VIP Spain", DAZN F1
+
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+
+#EXTINF:-1 group-title="VIP Spain", DAZN LaLiga
+
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+
+#EXTINF:-1 group-title="VIP Spain", DAZN 1
+
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+
+#EXTINF:-1 group-title="VIP Spain", DAZN 2
+
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+
+#EXTINF:-1 group-title="VIP Spain", DAZN 3
+
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+
+#EXTINF:-1 group-title="VIP Spain", DAZN 4
+
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+
+#EXTINF:-1 group-title="VIP Spain", LaLiga Hypermotion
+
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+
+#EXTINF:-1 group-title="VIP Spain", LaLiga Hypermotion 2
+
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+
+#EXTINF:-1 group-title="VIP Spain", DAZN LaLiga Hypermotion 3
+
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1 group-title="VIP Spain", Tennis Channel
+
+https://amg01444-tennischannelth-tennischannelspain-samsungspain-f7b4o.amagi.tv/playlist/amg01444-tennischannelth-tennischannelspain-samsungspain/playlist.m3u8
+
+#EXTINF:-1 group-title="VIP Other", TRT 1
+
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 group-title="VIP Other", TRT 2
+
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 group-title="VIP Other", SIC
+
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="",
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="",
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="",
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="",
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=
+
+#EXTINF:-1 group-title="",
 
 
 
