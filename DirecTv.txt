@@ -1,510 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml""
 #EXTM3U
 
-#EXTINF:-1 group-title="TNT", TF1
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-
-#EXTINF:-1 group-title="TNT", france 2 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
-
-#EXTINF:-1 group-title="TNT", CANAL+
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/canalplusclair-hd.m3u8
-
-#EXTINF:-1 group-title="TNT", france 5
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=6e1087ef30f73661beb5fa8bd7a48852:3b4d9f5335c155564a258ac37da69171
-
-#EXTINF:-1 group-title="TNT", M6
-
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-
-#EXTINF:-1 group-title="TNT", arte
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
-
-#EXTINF:-1 group-title="TNT", C8
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/c8.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=e397d5ccb7e73344b51579ca24dc84fc:9c7ebe3311cc7a0ef56d006c507df0b5
-
-#EXTINF:-1 group-title="TNT", W9
-
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/fe03c8da4a9c477da026d2b79a70195b/dash_short_cenc10_w9_hd_index.mpd
-
-#EXTINF:-1 group-title="TNT", TMC
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-
-#EXTINF:-1 group-title="TNT", TFX
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-
-#EXTINF:-1 group-title="TNT", NRJ 12
-
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-
-#EXTINF:-1 group-title="TNT", LCP
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp.m3u8
-
-#EXTINF:-1 group-title="TNT", france 4 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
-
-#EXTINF:-1 group-title="TNT", BFM TV
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", CNEWS
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnewsdm.m3u8
-
-#EXTINF:-1 group-title="TNT", CSTAR
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar.m3u8
-
-#EXTINF:-1 group-title="TNT", Gulli
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/m6plus/gulli.m3u8
-
-#EXTINF:-1 group-title="TNT", TF1 Séries Films
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1sf.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=b002b139dcc7149a8c1de34168332842:a77fda48fd486c153e8cb4d93a51831c
-
-#EXTINF:-1 group-title="TNT", Infosport+
-
-https://viamotionhsi.netplus.ch/live/eds/infosportplus/browser-dash-VMX/infosportplus.mpd
-
-#EXTINF:-1 group-title="TNT", la chaine l'équipe
-
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=be42db5bcf21387e838f22d0da5b80c3:4603398e17b27d8330c1870764ccc1bd
-
-#EXTINF:-1 group-title="TNT", 6ter
-
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/29c7a579af3348b48230f76cd75699a5/dash_short_cenc10_6ter_hd_index.mpd
-
-#EXTINF:-1 group-title="TNT", RMC Story
-
-https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-
-#EXTINF:-1 group-title="TNT", RMC Découverte
-
-https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-
-#EXTINF:-1 group-title="TNT", Chérie 25
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/nrj/cherie25.m3u8
-
-#EXTINF:-1 group-title="TNT", LCI
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
-
-#EXTINF:-1 group-title="TNT", france info 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
-
-#EXTINF:-1 group-title="TNT", france tv docs
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/docs.m3u8
-
-#EXTINF:-1 group-title="TNT", france tv series
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/series.m3u8
-
-#EXTINF:-1 group-title="TNT", TV5 Monde FBSM
-
-https://lc.cx/9Qx6um
-
-#EXTINF:-1 group-title="TNT", TV5 Monde Europe
-
-https://oha.to/play/3769189460/index.m3u8
-
-#EXTINF:-1 group-title="TNT", Trace Urban
-
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="TNT", Trace Latina
-
-https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
-
-#EXTINF:-1 group-title="TNT", Nat. Geographic
-
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/81.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=34e3a5cece65558c632f98b35365ef85:c7d3f4946d30b8d3256d5a2d68abc9f6
-
-#EXTINF:-1 group-title="TNT", Planète+ Crime
-
-https://viamotionhsi.netplus.ch/live/eds/planetejustice/browser-dash-VMX/planetejustice.mpd
-
-#EXTINF:-1 group-title="TNT", TV Monaco
-
-https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/1/media.m3u8
-
-#EXTINF:-1 group-title="TNT", Monaco Info
-
-https://webtv.monacoinfo.com/live/prod/index.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 alpes
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/alpes.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 auverge
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/auvergne.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 rhone alpes
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/rhonealpes.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 bourgogne
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bourgogne.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 franche comte
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/franchecomte.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 bretagne
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bretagne.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 val de loire
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/centre.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 viastela
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/corse.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 alsace
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/alsace.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 champagne
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/champagne.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 lorraine
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/lorraine.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 nord pas de calais
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/nordpdc.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 picardie 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/picardie.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 basse normandie 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/bnormandie.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 haute normandie 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/hnormandie.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 aquitaine
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/aquitaine.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 limousin 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/limousin.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 poitou charentes
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/poitoucharentes.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 nouvelle aquitaine
-
-https://raw.githubusercontent.com/Paradise-91
-
-#EXTINF:-1 group-title="TNT", france 3 languedoc roussillon
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/languedoc.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 midi pyrenées
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/midipyrenees.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 paris idf
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/parisidf.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 pays de la loire
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/paysloire.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 cote d'azur
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/azur.m3u8
-
-#EXTINF:-1 group-title="TNT", france 3 provence alpes
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/regions/provencealpes.m3u8
-
-#EXTINF:-1 group-title="TNT", BFM 2
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Business
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Alpes
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Alsace
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Haute-Provence
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_HAUTEPROVENCE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Lille
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Littoral
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLITTORAL/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Lyon
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Marseille
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Nice
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Normandie
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Paris
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", BFM Toulon
-
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 group-title="TNT", ICI Montréal
-
-https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-
-#EXTINF:-1 group-title="TNT", ICI RDI
-
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
-
-#EXTINF:-1 group-title="TNT", NCI
-
-https://cdnapisec.kaltura.com/p/5571652/sp/5571652/playManifest/entryId/1_no7nfr0h/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-
-#EXTINF:-1 group-title="TNT", Sport en France 
-
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-
-#EXTINF:-1 group-title="TNT", Equida
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
-
-#EXTINF:-1 group-title="TNT", l'équipe live foot
-
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
-
-#EXTINF:-1 group-title="TNT", l'équipe live 1 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-1.m3u8
-
-#EXTINF:-1 group-title="TNT", l'équipe live 2
-
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
-
-#EXTINF:-1 group-title="TNT", l'équipe live 3
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-3.m3u8
-
-#EXTINF:-1 group-title="TNT", l'équipe live 4
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-4.m3u8
-
-#EXTINF:-1 group-title="TNT", l'équipe live 5
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-5.m3u8
-
-#EXTINF:-1 group-title="TNT", l'équipe live 6 
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-6.m3u8
-
-#EXTINF:-1 group-title="TNT", l'équipe live 7
-
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-7.m3u8
-
-#EXTINF:-1 group-title="TNT", CANAL+ 
-
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/106.m3u8
-
-#EXTINF:-1 group-title="TNT", CANAL+ Foot
-
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/88.m3u8
-
-#EXTINF:-1 group-title="TNT", CANAL+ Sport 360
-
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/58.m3u8
-
-#EXTINF:-1 group-title="TNT", beIN Sports 1
-
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/44.m3u8
-
-#EXTINF:-1 group-title="TNT", beIN Sports 2
-
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/49.m3u8
-
-#EXTINF:-1 group-title="TNT", Eurosport 1
-
-https://oha.to/play/2172924275/index.m3u8
-
-#EXTINF:-1 group-title="TNT", DAZN 1
-
-https://oha.to/play/3567590597/index.m3u8
-
-#EXTINF:-1 group-title="TNT", DAZN 1 v.2
-
-https://iptv.frembed.pro/live/A6B56AC724C0686C98984A5A92CA1DC1/150.m3u8
-
-#EXTINF:-1 group-title="TNT", DAZN 2
-
-https://oha.to/play/2587190923/index.m3u8
-
-#EXTINF:-1 group-title="TNT", Sony One Favoris
-
-https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TNT", Sony One Séries Comédie
-
-https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TNT", Sony One Thriller
-
-https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TNT", Sony One Blacklist
-
-https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TNT", Sony One Action Hits
-
-https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="TNT", Sony One Hits Comédie
-
-https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="GXR World", Ligue 1 TV
-
-https://d3lo3tng5bhk8x.cloudfront.net/out/v1/72fe3457c15c41dca5c8be973de674e6/index_6.m3u8
-
-#EXTINF:-1 group-title="GXR World", Ligue 1 TV 2
-
-https://dx12yig2oz0vp.cloudfront.net/out/v1/48bb590edb2f4bcd91e0ab46950bf94a/index_5.m3u8
-
-#EXTINF:-1 group-title="GXR World", Ligue 1 TV 3 
-
-https://dl9xjvbatywk3.cloudfront.net/out/v1/1016ac3efc7648169a230c711c722393/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", Ligue 1 TV 4
-
-https://d1yz7zmm8mka3t.cloudfront.net/out/v1/cad8af14714e4affa48e07d2f48ebf5f/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", Ligue 1 TV 5
-
-https://d1iueuayxapr8k.cloudfront.net/out/v1/60de15506f514c95977012e28b5b9d57/index_6.m3u8
-
-#EXTINF:-1 group-title="GXR World", Ligue 1 TV 6
-
-https://d2qjo96l2vgrgl.cloudfront.net/out/v1/da04718ce9854fc0a6e3ce5295807391/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", Ligue 1 TV 7
-
-https://dsud9fvx2fc2.cloudfront.net/out/v1/dd31215670d24452b68d1d07fdcf27c9/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", La Liga TV
-
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", La Liga TV 2
-
-https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", La Liga TV 3
-
-https://d17bxgt1i8pqpz.cloudfront.net/out/v1/a357febe927946d7b8ef752fdfe2e104/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", La Liga Dos
-
-https://d2yxu0gr4ksneg.cloudfront.net/out/v1/ed259f6465634f6382767e23f564e695/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", Serie A TV
-
-https://d29vola26poupl.cloudfront.net/out/v1/20a0a9c90ff0479e84ede2f0759a7c7b/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", Serie A TV 2
-
-https://dgskp1r42tkch.cloudfront.net/out/v1/82fc00778c3949d2a77c7d2b8592ec4e/index_15.m3u8
-
-#EXTINF:-1 group-title="GXR World", Serie A TV 3
-
-https://d1b90vvogu5l86.cloudfront.net/out/v1/0f3cd98364204082b4b536a244cd6296/index_7.m3u8
-
-#EXTINF:-1 group-title="GXR World", Serie A TV 4
-
-https://d1bcmel1n71ygh.cloudfront.net/out/v1/b02ca7c20c09418abff7b28c9fc6c66e/index_7.m3u8
-
-#EXTINF:-1 group-title="English", beIN Sports
-
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
-#EXTINF:-1 group-title="English", beIN Sports Extra
-
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
-
-#EXTINF:-1 group-title="English", USA Network
-
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
-
 #EXTINF:-1 group-title="English", NBC
 
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
@@ -1973,12 +1469,12 @@ https://zap-live-ott.izzigo.tv/out/u/dash/ZAP/CANAL-5-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
 #EXTINF:-1 group-title="VIP Mexico", TUDN
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1734befb82f4b438bd84195f6c212e7b:2722647f77b44824c432a3c4555830a2
 #EXTINF:-1 group-title="VIP Mexico", TUDN hu
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
 
 
@@ -1988,81 +1484,57 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
 #EXTINF:-1 group-title="VIP Mexico", TNT
-https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
 #EXTINF:-1 group-title="VIP Mexico", Fox Sports Premium
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
 #EXTINF:-1 group-title="VIP Mexico", FOX Sports
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=23986dae03fa883ed8e489cbf70f9ec3:6a42c42732a9dd1da1205971b2c5c535
-
 #EXTINF:-1 group-title="VIP Mexico", FOX Sports 2
-
-https://aka-live1-ott.izzigo.tv/4/out/u/dash/FOX-SPORTS-2-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=ed8dd7562fd9f9064bed8d52fa42cc11:d65a22cfe5bfbd33d8d25b183649e44f
-
 #EXTINF:-1 group-title="VIP Mexico", FOX Sports 3
-
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=9b40cafa23cb7de8418bae6c66159f3a:b1bde4692ea730163539adc9a84cc488
-
 #EXTINF:-1 group-title="VIP Mexico", NFL Network
-
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/NFL-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/NFL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
-
 #EXTINF:-1 group-title="VIP Mexico", ESPN
-
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
-
 #EXTINF:-1 group-title="VIP Mexico", ESPN 2
-
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=0355f64277082b903022985035c498ca:7a8ed20a4958398677e2c9ccd5a53a00
-
 #EXTINF:-1 group-title="VIP Mexico", ESPN 3
-
-https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-3-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-3-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=666607af08b9eeddaae1d6c36a34d689:10fdc24a14e8423f5e5ff03569439b14
-
 #EXTINF:-1 group-title="VIP Mexico", ESPN 4
-
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/ESPN-PLUS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-
 #EXTINF:-1 group-title="VIP Mexico", Sky Sports
-
-https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -2070,7 +1542,7 @@ https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
 
 #EXTINF:-1 group-title="VIP Mexico", Sky Sports 21
 
-https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -2078,7 +1550,7 @@ https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-21-HD/default.mpd
 
 #EXTINF:-1 group-title="VIP Mexico", Sky Sports 16
 
-https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -2086,7 +1558,7 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 #EXTINF:-1 group-title="VIP Mexico", Sky Sports 24
 
-https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -2134,7 +1606,7 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-LIVE-EVENT-5-HD/default.mpd
 
 #EXTINF:-1 group-title="VIP Mexico", PX Sports
 
-https://aka-live1-ott.izzigo.tv/4/out/u/dash/PX-SPORTS-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/PX-SPORTS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
