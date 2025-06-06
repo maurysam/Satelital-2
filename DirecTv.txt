@@ -848,12 +848,12 @@ https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/li
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=e1f756cffcc838e28a3da6541c00ee8b:1444b1c17a5c1f78435de12dcff47c8e
-
+#KODIPROP:inputstream.adaptive.license_key=1444b1c17a5c1f78435de12dcff47c8e:e1f756cffcc838e28a3da6541c00ee8b
 #EXTINF:-1 group-title="VIP America", Telemundo 47
-
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnju)/master.mpd
+
+
+KODIPROP:inputstream.adaptive.license_key=:1444b1c17a5c1f78435de12dcff47c8e
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1469,7 +1469,7 @@ https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1253/
 
 #EXTINF:-1 group-title="VIP Great Britain", Sky Sports +
 
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd?dam
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/go-dash-fhd-avc/IESVC1246.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1477,7 +1477,7 @@ https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1246/
 
 #EXTINF:-1 group-title="VIP Great Britain", Sky Sports F1
 
-https://wp2-g-anp01030103-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1315/go-dash-fhd-avc/IESVC1315.mpd?dam
+https://wp2-g-anp01030103-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1315/go-dash-fhd-avc/IESVC1315.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1485,7 +1485,7 @@ https://wp2-g-anp01030103-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1315/
 
 #EXTINF:-1 group-title="VIP Great Britain", Sky Sports Football
 
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd?dam
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/go-dash-fhd-avc/IESVC1241.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1493,7 +1493,7 @@ https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1241/
 
 #EXTINF:-1 group-title="VIP Great Britain", Sky Sports NFL
 
-https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1259/go-dash-fhd-avc/IESVC1259.mpd?dam
+https://wp4-g-anp02030203-live-ie-prod.prod.cdn.dmdsdp.com/live/disk1/IESVC1259/go-dash-fhd-avc/IESVC1259.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
@@ -1958,43 +1958,46 @@ https://cdnlb.tvplayhome.lt/live/eds/NatGeo_HD_HVC/GO3_LIVE_DASH_HVC/NatGeo_HD_H
 https://cdnlb.tvplayhome.lt/live/eds/VH1/GO3_LIVE_DASH/VH1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=113383517c8f882e77fe1a71e0cfc7eb:e2ac0b80cb5be37fdf6de0d27959e110
-
 #EXTINF:-1 group-title="VIP Mexico", Canal 5
-
 https://zap-live-ott.izzigo.tv/out/u/dash/ZAP/CANAL-5-HD/default.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=113383517c8f882e77fe1a71e0cfc7eb:e2ac0b80cb5be37fdf6de0d27959e110
+#EXTINF:-1 group-title="VIP Mexico", Canal 5 yu
+https://zap-live-ott.izzigo.tv/out/u/dash/ZAP/CANAL-5-HD/default.mpd
 
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
-
 #EXTINF:-1 group-title="VIP Mexico", TUDN
-
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1734befb82f4b438bd84195f6c212e7b:2722647f77b44824c432a3c4555830a2
+#EXTINF:-1 group-title="VIP Mexico", TUDN hu
+https://aka-live1-ott.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dca8597f12f8d6928b55c1291c7bb300:36c8b3f51d474b95f0adad70899343e1
-
 #EXTINF:-1 group-title="VIP Mexico", TNT
-
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=0fefd5d94a8cb5b40c057ab182f7dc27:5548c4823ff7f1ea61bafb7cbc19e005
-
 #EXTINF:-1 group-title="VIP Mexico", Fox Sports Premium
-
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=9e276bd34034a2c4dcf61d74e1242fbf:4b466a4affb61d2672a4194b14e10ef2
-
 #EXTINF:-1 group-title="VIP Mexico", FOX Sports
-
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/FOX-SPORTS-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
