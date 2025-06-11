@@ -1,77 +1,17 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml""
 #EXTM3U
 
-#EXTINF:-1 group-title="English", NBC
 
-http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-
-#EXTINF:-1 group-title="English", CNBC
-
-http://fl2.moveonjoy.com/CNBC/index.m3u8
-
-#EXTINF:-1 group-title="English", MSNBC
-
-http://fl2.moveonjoy.com/MSNBC/index.m3u8
 
 #EXTINF:-1 group-title="English", Golf Channel
 
-http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+http://fl4.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="English", ABC
 
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-
-#EXTINF:-1 group-title="English", ESPN
-
-https://848b3516657c-usatv.baby-beamup.club/public/m3u/44.m3u8
-
-#EXTINF:-1 group-title="English", ESPN 2
-
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 group-title="English", ESPN U
-
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
-
-#EXTINF:-1 group-title="English", ACC Network
-
-http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="English", SEC Network
-
-https://848b3516657c-usatv.baby-beamup.club/public/m3u/385.m3u8
-
-#EXTINF:-1 group-title="English", ESPN News
-
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
-
-#EXTINF:-1 group-title="English", CBS Sports
-
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="English", CBS Sports Golazo Network
-
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-
-#EXTINF:-1 group-title="English", FOX
-
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-
-#EXTINF:-1 group-title="English", Fox Sports 1
-
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-
-#EXTINF:-1 group-title="English", Fox Sports 2
-
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/264.m3u8
-
-#EXTINF:-1 group-title="English", Fox Sports Soccer+
-
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/265.m3u8
 
 #EXTINF:-1 group-title="English", TNT
 
-http://fl2.moveonjoy.com/TNT/index.m3u8
+http://fl4.moveonjoy.com/TNT/index.m3u8
 
 #EXTINF:-1 group-title="English", NBA TV
 
@@ -79,7 +19,7 @@ http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 group-title="English", NFL Network
 
-https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+https://fl4.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="English", NFL Redzone
 
@@ -89,260 +29,28 @@ http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 
 https://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="English", ITV 1
 
-https://photocalltv.org/m3dr/fo.m3u8?ch=itv1
 
-#EXTINF:-1 group-title="English", ITV 2
 
-https://photocalltv.org/m3dr/fo.m3u8?ch=itv2
 
-#EXTINF:-1 group-title="English", ITV 3
 
-https://photocalltv.org/m3dr/fo.m3u8?ch=itv3
 
-#EXTINF:-1 group-title="English", ITV 4
 
-https://photocalltv.org/m3dr/fo.m3u8?ch=itv4
 
-#EXTINF:-1 group-title="English", SBS
-
-https://i.mjh.nz/.r/sbs.m3u8
-
-#EXTINF:-1 group-title="English", SBS Viceland
-
-https://i.mjh.nz/.r/sbs-viceland.m3u8
-
-#EXTINF:-1 group-title="English", Channel 9
-
-#EXTINF:-1 group-title="English", 9 Gem
-
-#EXTINF:-1 group-title="English", 9 Go!
-
-#EXTINF:-1 group-title="English", 9 Life
-
-#EXTINF:-1 group-title="English", 9 Rush
-
-#EXTINF:-1 group-title="Spanish", beIN Sports Ñ
-
-https://848b3516657c-usatv.baby-beamup.club/public/m3u/372.m3u8
-
-#EXTINF:-1 group-title="Spanish", beIN Sports Extra Ñ
-
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Spanish", ESPN Deportes
-
-https://streamsy.online:2999/live/venomj/EmoOmOskzq/528.m3u8
-
-#EXTINF:-1 group-title="Spanish", Fox Deportes
-
-https://848b3516657c-usatv.baby-beamup.club/public/m3u/643.m3u8
-
-#EXTINF:-1 group-title="Spanish", Telemundo
-
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/281.m3u8
-
-#EXTINF:-1 group-title="Spanish", TUDN
-
-https://848b3516657c-usatv.baby-beamup.club/public/m3u/66.m3u8
-
-#EXTINF:-1 group-title="Spanish", Unimas
-
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/286.m3u8
-
-#EXTINF:-1 group-title="Spanish", Univision
-
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1522.m3u8
-
-#EXTINF:-1 group-title="Spanish", ESPN
-
-#EXTINF:-1 group-title="Spanish", ESPN 2
-
-#EXTINF:-1 group-title="Spanish", ESPN 3
-
-#EXTINF:-1 group-title="Spanish", FOX Sports 1
-
-#EXTINF:-1 group-title="Spanish", FOX Sports 2
-
-https://848b3516657c-argentinatv.baby-beamup.club/public/m3u/788.m3u8
-
-#EXTINF:-1 group-title="Spanish", FOX Sports 3
-
-http://181.13.173.86:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 group-title="Spanish", TyC Sports
-
-https://848b3516657c-argentinatv.baby-beamup.club/public/m3u/746.m3u8
-
-#EXTINF:-1 group-title="Spanish", la 1
-
-https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
-
-#EXTINF:-1 group-title="Spanish", la 2
-
-https://di2qeq48iv8ps.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8u23e6v7vptv/La_2_ES.m3u8
-
-#EXTINF:-1 group-title="Spanish", Teledeporte
-
-https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
-
-#EXTINF:-1 group-title="Spanish", Esport 3
-
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
-
-#EXTINF:-1 group-title="Spanish", Senal Colombia
-
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 group-title="Radio", RTL
-
-https://streamer-01.rtl.fr/rtl-1-44-128
-
-#EXTINF:-1 group-title="Radio", France Bleu Saint-Etienne
-
-https://icecast.radiofrance.fr/fbstetienne-midfi.mp3
-
-#EXTINF:-1 group-title="Radio", Maritima Radio
-
-https://maritima1072.ice.infomaniak.ch/maritima1072-128.mp3
-
-#EXTINF:-1 group-title="Radio", RMC
-
-https://audio.bfmtv.com/rmcradio_128.mp3
-
-#EXTINF:-1 group-title="Radio", RMC Event 1
-
-https://audio.bfmtv.com/eventradio1.mp3
-
-#EXTINF:-1 group-title="VIP America", CTV
-
-https://cdn1-9p.teleuptv.net/a445e842-7b0d-4914-bac1-7788c460f589/tracks-v5a1/rewind-28800.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-
-#EXTINF:-1 group-title="VIP America", TSN 1
-
-https://chimera-clips.video.9c9media.com/f/TSN/TSN1/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-
-#EXTINF:-1 group-title="VIP America", TSN 2
-
-https://chimera-clips.video.9c9media.com/f/TSN/TSN2/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-
-#EXTINF:-1 group-title="VIP America", TSN 3
-
-https://chimera-clips.video.9c9media.com/f/TSN/TSN3/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-
-#EXTINF:-1 group-title="VIP America", TSN 4
-
-https://chimera-clips.video.9c9media.com/f/TSN/TSN4/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-
-#EXTINF:-1 group-title="VIP America", TSN 5
-
-https://chimera-clips.video.9c9media.com/f/TSN/TSN5/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=004561b5440b7879d37d01c99a158924:8fb0218456fedf3c8a3da8c88f6177c7
-
-#EXTINF:-1 group-title="VIP America", NBC New York
-
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wnbc)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-
-#EXTINF:-1 group-title="VIP America", NBC Los Angeles
-
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(knbc)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=00453079be244d74ffef1e8bbfd8b104:d75a81f8e83404cff02f5b6affd0fbb2
-
-#EXTINF:-1 group-title="VIP America", NBC Miami
-
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wtvj)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-
-#EXTINF:-1 group-title="VIP America", USA Network
-
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=0020d88a6713159839743f655c5da7de:ba9f34226301f69a4f0f13f65a1f92ec
-
-#EXTINF:-1 group-title="VIP America", NBC Sports
-
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-
 #EXTINF:-1 group-title="VIP America", Premier League TV
-
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 group-title="VIP America", CBS Sports HQ
-
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/dec09f99-d713-4e4d-b762-c63ec6060d2e:BRU/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-
 #EXTINF:-1 group-title="VIP America", NFL Network
-
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=f283293f48534648b74ddeda0cd283dd:baaa81b9144162d81da11d4a7e302017
-
-#EXTINF:-1 group-title="VIP America", NBA TV
-
-https://cdnlb.tvplayhome.lt/live/eds/NBA_HD_HVC/GO3_LIVE_DASH_HVC/NBA_HD_HVC.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=54ef857b74c0c6e37b04022a87708382:712ca8c470e9ff4f08915e7a7d91ff33
-
-#EXTINF:-1 group-title="VIP America", beIN Sports N
-
-https://bein-live.cdn.vustreams.com/live/f0fc61a0-b161-4eef-ae50-646c4f842b37/live.isml/f0fc61a0-b161-4eef-ae50-646c4f842b37.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
-
-#EXTINF:-1 group-title="VIP America", NBC Universo
-
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444b1c17a5c1f78435de12dcff47c8e:e1f756cffcc838e28a3da6541c00ee8b
 #EXTINF:-1 group-title="VIP America", Telemundo 47
@@ -350,101 +58,64 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wnju)/mas
 
 
 KODIPROP:inputstream.adaptive.license_key=:1444b1c17a5c1f78435de12dcff47c8e
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=c79967c6d66d38b8a269343bb47471bf:013fc831c0b7e9e2035035df01812556
-
 #EXTINF:-1 group-title="VIP America", Telemundo 51
-
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(wscv)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=dfb59142ce523a6c900758d5ee4c7997:bd2d684e590815190eda056a6d9618bc
-
 #EXTINF:-1 group-title="VIP America", Telemundo 52
-
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(kvea)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=45da1df6b7dac6f46f0c95b5850bc2f2:a195dc0206035b2cc8be2d452e71b61d
-
 #EXTINF:-1 group-title="VIP America", TNT Sports AR
-
-https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(TNT_SPORTS)/master.mpd
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Content/DASH_DASH_FK/Live/channel(TNT_SPORTS)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=e2701194a551d30b35a7d493937e50f1:382ff0152278d8ba946d4fd82a09b212
-
 #EXTINF:-1 group-title="VIP America", ESPN AR
-
-https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=579fc0cd11842bce9c045a0d55aa4872:bf54d928e27061a13fafdde934146472
-
 #EXTINF:-1 group-title="VIP America", ESPN 2 AR
-
-https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Content/DASH_DASH_FK/Live/channel(ESPN2)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=1b645185cd62d881fa91fd92170690ea:e5f759e256c768c6349deb9cc446cabe
-
 #EXTINF:-1 group-title="VIP America", ESPN 3 AR
-
-https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(ESPN3)/master.mpd
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Content/DASH_DASH_FK/Live/channel(ESPN3)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
-
 #EXTINF:-1 group-title="VIP America", ESPN 4 AR
-
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=f7dcab829caeffb612740a1c51f0478d:b2466bb519b759ae3de1818988532453
-
 #EXTINF:-1 group-title="VIP America", TyC Sports
-
-https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Content/DASH_DASH_FK/Live/channel(TYC_SPORTS)/master.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-
 #EXTINF:-1 group-title="VIP America", Fox Sports Premium
-
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-
 #EXTINF:-1 group-title="VIP America", Fox Sports 1
-
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
-
 #EXTINF:-1 group-title="VIP America", Fox Sports 2
-
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-
 #EXTINF:-1 group-title="VIP America", Fox Sports 3
-
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -515,19 +186,6 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/
 
 https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buo/master1080.m3u8
 
-#EXTINF:-1 group-title="VIP Arabic", Al-Kass 2
-
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master1080.m3u8
-
-#EXTINF:-1 group-title="VIP Arabic", Al-Kass 3
-
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master1080.m3u8
-
-#EXTINF:-1 group-title="VIP Arabic", Al-Kass 4
-
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master720.m3u8
-
-#EXTINF:-1 group-title="VIP Arabic", AD Sports 1
 
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 
